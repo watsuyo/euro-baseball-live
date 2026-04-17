@@ -64,10 +64,26 @@ function todayStr() {
 function localTime(date, time, tz) {
   if (!time) return { localDate: date, localTime: null };
   try {
-    const dt = new Date(`${date}T${time}:00`);
-    const opts = { timeZone: tz || "UTC", hour: "2-digit", minute: "2-digit", hour12: false };
-    const localT = dt.toLocaleTimeString("sv-SE", opts);
-    const localD = dt.toLocaleDateString("sv-SE", { timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone });
+    // Format the source time in its timezone, then get the UTC offset
+    // Create a date string that Intl can interpret in the source timezone
+    const sourceTz = tz || "UTC";
+    const localTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+    // Parse as source timezone by finding the UTC offset
+    const utcDate = new Date(`${date}T${time}:00Z`);
+    // Get the offset of the source timezone at this time
+    const sourceStr = utcDate.toLocaleString("sv-SE", { timeZone: sourceTz });
+    const utcStr = utcDate.toLocaleString("sv-SE", { timeZone: "UTC" });
+    const sourceDate = new Date(sourceStr);
+    const utcParsed = new Date(utcStr);
+    const offsetMs = utcParsed - sourceDate;
+
+    // The actual UTC time = input time + offset
+    const actualUtc = new Date(utcDate.getTime() + offsetMs);
+
+    // Now convert to local
+    const localD = actualUtc.toLocaleDateString("sv-SE", { timeZone: localTz });
+    const localT = actualUtc.toLocaleTimeString("sv-SE", { timeZone: localTz, hour: "2-digit", minute: "2-digit", hour12: false });
     return { localDate: localD, localTime: localT };
   } catch {
     return { localDate: date, localTime: time };
