@@ -12,7 +12,7 @@
   h1 { font-size: 20px; font-weight: 800; color: var(--text-h); margin-bottom: 4px; }
   .subtitle { font-size: 13px; color: var(--text); opacity: 0.7; margin-bottom: 16px; }
   .date-label { font-size: 14px; font-weight: 600; color: var(--accent); margin-bottom: 12px; }
-  .game { display: flex; align-items: center; gap: 8px; padding: 6px 8px; background: var(--surface); border-bottom: 1px solid var(--border); text-decoration: none; color: var(--text-h); transition: background 0.1s; }
+  .game { display: flex; align-items: center; gap: 8px; padding: 6px 16px; background: var(--surface); border-bottom: 1px solid var(--border); text-decoration: none; color: var(--text-h); transition: background 0.1s; }
   .game:first-child { border-radius: 8px 8px 0 0; }
   .game:last-child { border-radius: 0 0 8px 8px; border-bottom: none; }
   .game:only-child { border-radius: 8px; }
@@ -38,9 +38,10 @@
 </head>
 <body>
 <div class="container">
-  <h1>⚾ Euro Baseball Live</h1>
-  <div class="subtitle">Today's games & streams</div>
-  <div id="date-label" class="date-label"></div>
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px">
+    <h1>⚾ Euro Baseball Live</h1>
+    <span id="date-label" class="date-label" style="margin:0"></span>
+  </div>
   <div id="games" class="loading">Loading...</div>
   <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
 </div>
