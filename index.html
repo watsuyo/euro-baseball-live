@@ -19,11 +19,13 @@
   .game:hover { background: #252840; }
   .game-time { font-size: 13px; font-weight: 700; color: var(--accent); min-width: 38px; }
   .game-flag { font-size: 15px; }
-  .game-matchup { flex: 1; font-size: 14px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .game-body { flex: 1; min-width: 0; }
+  .game-matchup { font-size: 14px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .game-jp { font-size: 11px; color: var(--accent); margin-top: 2px; }
   .game-stream { font-size: 15px; flex-shrink: 0; }
   .no-stream { opacity: 0.4; }
   .section { margin-bottom: 20px; }
-  .section-title { font-size: 12px; font-weight: 600; color: var(--text); opacity: 0.7; margin-bottom: 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
+  .section-title { font-size: 12px; font-weight: 600; color: var(--text-h); margin-bottom: 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
   .empty { text-align: center; padding: 40px; color: var(--text); opacity: 0.5; }
   .loading { text-align: center; padding: 40px; }
   .footer { text-align: center; margin-top: 24px; font-size: 12px; opacity: 0.5; }
@@ -43,10 +45,9 @@
   <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
 </div>
 <script>
-const DATA_URL = "https://euro-baseball-viewer.vercel.app/data/schedule.json";
+const BASE = "https://euro-baseball-viewer.vercel.app/data";
 const DAY_BOUNDARY_HOUR = 4;
 
-const FLAGS = {};
 function flag(code) {
   if (!code || code.length !== 2) return "";
   return String.fromCodePoint(code.charCodeAt(0) + 0x1F1E6 - 65, code.charCodeAt(1) + 0x1F1E6 - 65);
@@ -55,39 +56,30 @@ function flag(code) {
 function todayStr() {
   const now = new Date();
   if (now.getHours() < DAY_BOUNDARY_HOUR) {
-    const y = new Date(now.getTime() - 86400000);
-    return y.toLocaleDateString("sv-SE");
+    return new Date(now.getTime() - 86400000).toLocaleDateString("sv-SE");
   }
   return now.toLocaleDateString("sv-SE");
 }
 
-function localTime(date, time, tz) {
+function toLocal(date, time, tz) {
   if (!time) return { localDate: date, localTime: null };
   try {
-    // Format the source time in its timezone, then get the UTC offset
-    // Create a date string that Intl can interpret in the source timezone
     const sourceTz = tz || "UTC";
     const localTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-
-    // Parse as source timezone by finding the UTC offset
     const utcDate = new Date(`${date}T${time}:00Z`);
-    // Get the offset of the source timezone at this time
     const sourceStr = utcDate.toLocaleString("sv-SE", { timeZone: sourceTz });
     const utcStr = utcDate.toLocaleString("sv-SE", { timeZone: "UTC" });
-    const sourceDate = new Date(sourceStr);
-    const utcParsed = new Date(utcStr);
-    const offsetMs = utcParsed - sourceDate;
-
-    // The actual UTC time = input time + offset
+    const offsetMs = new Date(utcStr) - new Date(sourceStr);
     const actualUtc = new Date(utcDate.getTime() + offsetMs);
+    return {
+      localDate: actualUtc.toLocaleDateString("sv-SE", { timeZone: localTz }),
+      localTime: actualUtc.toLocaleTimeString("sv-SE", { timeZone: localTz, hour: "2-digit", minute: "2-digit", hour12: false }),
+    };
+  } catch { return { localDate: date, localTime: time }; }
+}
 
-    // Now convert to local
-    const localD = actualUtc.toLocaleDateString("sv-SE", { timeZone: localTz });
-    const localT = actualUtc.toLocaleTimeString("sv-SE", { timeZone: localTz, hour: "2-digit", minute: "2-digit", hour12: false });
-    return { localDate: localD, localTime: localT };
-  } catch {
-    return { localDate: date, localTime: time };
-  }
+function normalize(s) {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
 async function load() {
@@ -98,15 +90,42 @@ async function load() {
     `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()}(${days[d.getDay()]})`;
 
   try {
-    const resp = await fetch(DATA_URL);
-    const data = await resp.json();
+    const [schedResp, jpResp] = await Promise.all([
+      fetch(`${BASE}/schedule.json`),
+      fetch(`${BASE}/jp_players.json`),
+    ]);
+    const sched = await schedResp.json();
+    const jpData = await jpResp.json();
+    const jpPlayers = jpData.players || [];
+
+    // Build team → JP players lookup (normalized)
+    const jpByTeam = new Map();
+    for (const p of jpPlayers) {
+      if (!p.team) continue;
+      const key = normalize(p.team);
+      if (!jpByTeam.has(key)) jpByTeam.set(key, []);
+      jpByTeam.get(key).push(p);
+    }
+
+    function findJp(teamName) {
+      const norm = normalize(teamName);
+      const exact = jpByTeam.get(norm);
+      if (exact) return exact;
+      const result = [];
+      for (const p of jpPlayers) {
+        if (!p.team) continue;
+        const pn = normalize(p.team);
+        if (norm.includes(pn) || pn.includes(norm)) result.push(p);
+      }
+      return result;
+    }
 
     const withStream = [];
     const noStream = [];
 
-    for (const [code, league] of Object.entries(data.leagues)) {
+    for (const [code, league] of Object.entries(sched.leagues)) {
       for (const g of league.games) {
-        const lt = localTime(g.date, g.time, g.tz);
+        const lt = toLocal(g.date, g.time, g.tz);
         let effectiveDate = lt.localDate;
         if (lt.localTime) {
           const [h] = lt.localTime.split(":").map(Number);
@@ -118,12 +137,18 @@ async function load() {
         }
         if (effectiveDate !== today) continue;
 
+        const home = g.home || "?";
+        const away = g.away || "?";
+        const jpHome = findJp(home);
+        const jpAway = findJp(away);
+        const jpNames = [...jpHome, ...jpAway].map(p => p.name_ja || p.name);
+
         const entry = {
           time: lt.localTime || "TBD",
           code,
-          home: g.home || "?",
-          away: g.away || "?",
+          home, away,
           stream: g.stream_url || null,
+          jpNames,
         };
         if (entry.stream) withStream.push(entry);
         else noStream.push(entry);
@@ -140,30 +165,31 @@ async function load() {
       return;
     }
 
-    let html = "";
-
-    if (withStream.length > 0) {
-      html += '<div class="section"><div class="section-title">📺 配信あり</div>';
-      for (const g of withStream) {
-        html += `<a href="${g.stream}" target="_blank" rel="noopener" class="game">
-          <span class="game-time">${g.time}</span>
-          <span class="game-flag">${flag(g.code)}</span>
-          <span class="game-matchup">${g.home} vs ${g.away}</span>
-          <span class="game-stream">📺</span>
-        </a>`;
-      }
-      html += '</div>';
+    function renderGame(g, hasLink) {
+      const tag = hasLink ? "a" : "div";
+      const attrs = hasLink ? ` href="${g.stream}" target="_blank" rel="noopener"` : "";
+      const cls = hasLink ? "game" : "game no-stream";
+      const jpLine = g.jpNames.length > 0 ? `<div class="game-jp">🇯🇵 ${g.jpNames.join(", ")}</div>` : "";
+      return `<${tag}${attrs} class="${cls}">
+        <span class="game-time">${g.time}</span>
+        <span class="game-flag">${flag(g.code)}</span>
+        <div class="game-body">
+          <div class="game-matchup">${g.home} vs ${g.away}</div>
+          ${jpLine}
+        </div>
+        ${hasLink ? '<span class="game-stream">📺</span>' : ""}
+      </${tag}>`;
     }
 
+    let html = "";
+    if (withStream.length > 0) {
+      html += '<div class="section"><div class="section-title">📺 配信あり</div>';
+      html += withStream.map(g => renderGame(g, true)).join("");
+      html += '</div>';
+    }
     if (noStream.length > 0) {
       html += '<div class="section"><div class="section-title">配信なし</div>';
-      for (const g of noStream) {
-        html += `<div class="game no-stream">
-          <span class="game-time">${g.time}</span>
-          <span class="game-flag">${flag(g.code)}</span>
-          <span class="game-matchup">${g.home} vs ${g.away}</span>
-        </div>`;
-      }
+      html += noStream.map(g => renderGame(g, false)).join("");
       html += '</div>';
     }
 
@@ -174,7 +200,6 @@ async function load() {
 }
 
 load();
-// Auto-refresh every 5 minutes
 setInterval(load, 300000);
 </script>
 </body>
