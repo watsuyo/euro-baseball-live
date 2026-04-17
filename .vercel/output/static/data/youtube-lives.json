@@ -1,0 +1,135 @@
+{
+  "updated_at": "2026-04-13T07:04:45.819185",
+  "streams": [
+    {
+      "channel": "DBL",
+      "channel_id": "UCMW2t52orEiU5-Ou0bMoEQA",
+      "code": "DE",
+      "type": "league",
+      "title": "DBL | Stuttgart vs. Heidenheim: 3-Run-Homerun von Danilo Weber (11.4.2026)",
+      "url": "https://www.youtube.com/watch?v=YWyMJSflco0",
+      "published": "2026-04-12T12:08:06+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "DBL",
+      "channel_id": "UCMW2t52orEiU5-Ou0bMoEQA",
+      "code": "DE",
+      "type": "league",
+      "title": "DBL | Regensburg vs. Gauting: RBI-Double von Alexander Schmidt (11.4.2026)",
+      "url": "https://www.youtube.com/watch?v=peWqg2StxT4",
+      "published": "2026-04-11T19:46:54+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "DBL",
+      "channel_id": "UCMW2t52orEiU5-Ou0bMoEQA",
+      "code": "DE",
+      "type": "league",
+      "title": "DBL | Mainz vs. München-Haar: 2-Run-Homerun zum Führungswechsel von Sean Maple (10.4.2026)",
+      "url": "https://www.youtube.com/watch?v=T7zHqeNDtbQ",
+      "published": "2026-04-11T09:34:04+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "DBL",
+      "channel_id": "UCMW2t52orEiU5-Ou0bMoEQA",
+      "code": "DE",
+      "type": "league",
+      "title": "DBL | Matze LIVE Spezial - Gast: Octavio Medina - Headcoach der Untouchables Paderborn",
+      "url": "https://www.youtube.com/watch?v=iUNIibNYZE8",
+      "published": "2026-04-10T08:06:50+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Bonn Capitals",
+      "channel_id": "UC-KEzWVawYeWOS6KWoYfX9A",
+      "code": "DE",
+      "type": "team",
+      "title": "Bonn Capitals vs. Hünstetten Storm | DBL- Home Opener 2026 | 12.04.2026",
+      "url": "https://www.youtube.com/watch?v=AawUMLyJwug",
+      "published": "2026-04-12T19:05:18+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Bonn Capitals",
+      "channel_id": "UC-KEzWVawYeWOS6KWoYfX9A",
+      "code": "DE",
+      "type": "team",
+      "title": "Maurice Bendrien im Post Game Interview mit Leo Kaiser #capitals #sports #bundesliga #highlights",
+      "url": "https://www.youtube.com/watch?v=DrYOqn2CpoQ",
+      "published": "2026-04-12T15:51:06+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Bonn Capitals",
+      "channel_id": "UC-KEzWVawYeWOS6KWoYfX9A",
+      "code": "DE",
+      "type": "team",
+      "title": "Oliver Jochum im Post Game Interview mit Leo Kaiser #capitals #sports #bundesliga #highlights",
+      "url": "https://www.youtube.com/watch?v=N4YG-Mckt5E",
+      "published": "2026-04-12T14:58:00+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Bonn Capitals",
+      "channel_id": "UC-KEzWVawYeWOS6KWoYfX9A",
+      "code": "DE",
+      "type": "team",
+      "title": "Live 🔴 Deutsche Baseball Liga: Bonn Capitals vs. Hünstetten STORM - Spiel 2",
+      "url": "https://www.youtube.com/watch?v=ts-dm6VuXO0",
+      "published": "2026-04-12T14:21:07+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Bonn Capitals",
+      "channel_id": "UC-KEzWVawYeWOS6KWoYfX9A",
+      "code": "DE",
+      "type": "team",
+      "title": "Sanchez macht das Play zum 3  Aus #capitals #sports #bundesliga #baseball #highlights",
+      "url": "https://www.youtube.com/watch?v=3JiM2mkwy5A",
+      "published": "2026-04-11T08:48:30+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Huskies TV (Rouen)",
+      "channel_id": "UC-NIa1r6gTtOF4XxNqxBoFQ",
+      "code": "FR",
+      "type": "team",
+      "title": "Championnat de France BB D2 Rouen Clermont-Ferrand Match 2",
+      "url": "https://www.youtube.com/watch?v=69Y2dFXLpsk",
+      "published": "2026-04-06T09:05:58+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Huskies TV (Rouen)",
+      "channel_id": "UC-NIa1r6gTtOF4XxNqxBoFQ",
+      "code": "FR",
+      "type": "team",
+      "title": "Championnat de France BB D2  Rouen / Metz match 2",
+      "url": "https://www.youtube.com/watch?v=lU7ltwTqPkA",
+      "published": "2026-04-06T09:37:19+00:00",
+      "status": "live"
+    },
+    {
+      "channel": "Baseball by mjn1210 (GB NBL)",
+      "channel_id": "UCxRdlX6VLSitv7OB1cVrz8g",
+      "code": "GB",
+      "type": "league",
+      "title": "Essex Arrows @ Croydon Pirates (2026.04.12)",
+      "url": "https://www.youtube.com/watch?v=2G4R7z6f-NU",
+      "published": "2026-04-12T16:51:41+00:00",
+      "status": "vod"
+    },
+    {
+      "channel": "Baseball by mjn1210 (GB NBL)",
+      "channel_id": "UCxRdlX6VLSitv7OB1cVrz8g",
+      "code": "GB",
+      "type": "league",
+      "title": "Essex Arrows @ Croydon Pirates (2026.04.12)",
+      "url": "https://www.youtube.com/watch?v=iNIfAmqc72k",
+      "published": "2026-04-12T14:14:46+00:00",
+      "status": "vod"
+    }
+  ]
+}

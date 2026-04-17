@@ -1,0 +1,3279 @@
+{
+  "fetched_at": "2026-04-09T21:04:56.925746",
+  "total": 174,
+  "errors": 1,
+  "items": [
+    {
+      "source": "Netherlands",
+      "title": "Triple-ID Talent TeamNL wint Valencia Experience",
+      "url": "https://honkbalsoftbal.nl/2026/04/07/triple-id-talent-teamnl-wint-valencia-experience/",
+      "date": "Tue, 07 Apr 2026 14:57:47 +0000",
+      "type": "rss",
+      "summary_ja": "TeamNLがバレンシア大会で優勝",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Netherlands",
+      "title": "ROEF! wint Mastenbroektoernooi",
+      "url": "https://honkbalsoftbal.nl/2026/04/07/roef-wint-mastenbroektoernooi/",
+      "date": "Tue, 07 Apr 2026 12:20:19 +0000",
+      "type": "rss",
+      "summary_ja": "ROEF!がマステンブルック大会優勝",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Netherlands",
+      "title": "Oosterhout Twins wint IM Charles Urbanus Sr. Toernooi",
+      "url": "https://honkbalsoftbal.nl/2026/04/07/oosterhout-twins-wint-im-charles-urbanus-sr-toernooi/",
+      "date": "Tue, 07 Apr 2026 11:59:40 +0000",
+      "type": "rss",
+      "summary_ja": "Twinsがウルバヌス記念大会優勝",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Germany",
+      "title": "Kadermaßnahme U18-Softball-Nationalmannschaft in Karlsruhe (4.-5.4.2026)",
+      "url": "https://www.baseball-softball.de/2026/04/02/kadermassnahme-u18-softball-nationalmannschaft-in-karlsruhe-7-8-3-2026/",
+      "date": "Thu, 02 Apr 2026 09:44:51 +0000",
+      "type": "rss",
+      "summary_ja": "U18ソフトボール代表がカールスルーエで合宿",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Germany",
+      "title": "Alpine International Baseball Trophy: Spielplan und Ticketverkauf",
+      "url": "https://www.baseball-softball.de/2026/04/01/alpine-international-baseball-trophy-spielplan-und-ticketverkauf/",
+      "date": "Wed, 01 Apr 2026 17:54:20 +0000",
+      "type": "rss",
+      "summary_ja": "アルパイン国際野球大会の日程とチケット販売",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Germany",
+      "title": "Zusammenfassung Bundesversammlung 2026",
+      "url": "https://www.baseball-softball.de/2026/03/25/zusammenfassung-bundesversammlung-2026/",
+      "date": "Wed, 25 Mar 2026 13:18:55 +0000",
+      "type": "rss",
+      "summary_ja": "2026年ドイツ野球連盟総会まとめ",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "France",
+      "title": "Division 1 Féminine Softball 2026 – Résultats de la 3ème journée",
+      "url": "https://ffbs.fr/division-1-feminine-softball-2026-resultats-de-la-3eme-journee/",
+      "date": "Tue, 07 Apr 2026 15:27:07 +0000",
+      "type": "rss",
+      "summary_ja": "仏女子ソフトボール1部第3節結果",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "France",
+      "title": "Division 1 Baseball – Résultats de l’Opening Day",
+      "url": "https://ffbs.fr/division-1-baseball-resultats-de-lopening-day/",
+      "date": "Tue, 07 Apr 2026 15:13:18 +0000",
+      "type": "rss",
+      "summary_ja": "仏野球1部開幕戦の結果",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "France",
+      "title": "Il y a 100 ans, naissait le championnat de France de baseball",
+      "url": "https://ffbs.fr/il-y-a-100-ans-naissait-le-championnat-de-france-de-baseball/",
+      "date": "Fri, 03 Apr 2026 15:12:38 +0000",
+      "type": "rss",
+      "summary_ja": "仏野球選手権100周年記念",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Switzerland",
+      "title": "Season Opening 2026 Swiss Softball",
+      "url": "https://www.swiss-baseball.ch/news/season-opening-2026-swiss-softball/",
+      "date": "Wed, 08 Apr 2026 21:28:50 +0000",
+      "type": "rss",
+      "summary_ja": "スイスソフトボール2026年シーズン開幕",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Switzerland",
+      "title": "Season Opening 2026 Swiss Baseball",
+      "url": "https://www.swiss-baseball.ch/news/season-opening-2026-swiss-baseball/",
+      "date": "Wed, 08 Apr 2026 21:24:19 +0000",
+      "type": "rss",
+      "summary_ja": "スイス野球2026年シーズン開幕",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Switzerland",
+      "title": "Spielplan & Ticket Vorverkauf",
+      "url": "https://www.swiss-baseball.ch/news/1-aibt-ticket-vorverkauf/",
+      "date": "Sun, 05 Apr 2026 20:55:11 +0000",
+      "type": "rss",
+      "summary_ja": "日程とチケット前売り情報",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "http://www.fbsu.com.ua/?newsid=1118",
+      "title": "Розклад змагань",
+      "date": "2026-04-07 18:27:09",
+      "source": "Ukraine",
+      "type": "html_fallback",
+      "summary_ja": "ウクライナ大会スケジュール",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "http://www.fbsu.com.ua/?newsid=1117",
+      "title": "Розклад змагань",
+      "date": "2026-04-07 18:23:41",
+      "source": "Ukraine",
+      "type": "html_fallback",
+      "summary_ja": "ウクライナ大会スケジュール",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "http://www.fbsu.com.ua/?newsid=1116",
+      "title": "Розклад змагань",
+      "date": "2026-04-01 18:33:39",
+      "source": "Ukraine",
+      "type": "html_fallback",
+      "summary_ja": "ウクライナ大会スケジュール",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Lithuania",
+      "title": "Lietuvai – netikėta galimybė išsaugoti vietą Europos beisbolo čempionate",
+      "url": "https://www.beisbolas.lt/lietuvai-netiketa-galimybe-issaugoti-vieta-europos-beisbolo-cempionate/",
+      "date": "Wed, 01 Apr 2026 04:22:05 +0000",
+      "type": "rss",
+      "summary_ja": "リトアニアに欧州野球選手権残留の機会",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Lithuania",
+      "title": "LBA atstovai Bulgarijoje dalyvavo B5 konvencijoje",
+      "url": "https://www.beisbolas.lt/lba-atstovai-bulgarijoje-dalyvavo-b5-konvencijoje/",
+      "date": "Sun, 29 Mar 2026 12:26:30 +0000",
+      "type": "rss",
+      "summary_ja": "リトアニア協会代表がB5会議に参加",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Lithuania",
+      "title": "B5 čempioanto starte dominuojantis BK Vilnius atstovų žaidimas",
+      "url": "https://www.beisbolas.lt/b5-cempioanto-starte-dominuojantis-bk-vilnius-atstovu-zaidimas/",
+      "date": "Fri, 27 Mar 2026 15:04:11 +0000",
+      "type": "rss",
+      "summary_ja": "B5選手権でBKビリニュス選手が活躍",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Ireland",
+      "title": "Happy Easter!",
+      "url": "https://baseballireland.ie/happy-easter/",
+      "date": "Sun, 05 Apr 2026 16:06:42 +0000",
+      "type": "rss",
+      "summary_ja": "イースターの挨拶",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Ireland",
+      "title": "Baseball Ireland hires Ryan Flynn as CEO",
+      "url": "https://baseballireland.ie/baseball-ireland-hires-ryan-flynn-as-ceo/",
+      "date": "Sat, 04 Apr 2026 11:07:19 +0000",
+      "type": "rss",
+      "summary_ja": "アイルランド野球がCEOにRyan Flynnを採用",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Ryan Flynn"
+      ]
+    },
+    {
+      "source": "Ireland",
+      "title": "Happy St. Patrick’s Day",
+      "url": "https://baseballireland.ie/happy-st-patricks-day/",
+      "date": "Tue, 17 Mar 2026 18:30:20 +0000",
+      "type": "rss",
+      "summary_ja": "聖パトリックデーの挨拶",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Slovakia",
+      "title": "Rokovanie Pléna SBF prinieslo kľúčové rozhodnutia pre rok 2026",
+      "url": "https://www.slovakiabaseball.com/2026/03/04/rokovanie-plena-sbf-prinieslo-klucove-rozhodnutia-pre-rok-2026/",
+      "date": "Tue, 03 Mar 2026 23:06:47 +0000",
+      "type": "rss",
+      "summary_ja": "スロバキア野球連盟総会で重要決定",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Slovakia",
+      "title": "World Baseball Classic 2026 pozná skupiny aj harmonogram",
+      "url": "https://www.slovakiabaseball.com/2026/03/04/world-baseball-classic-2026-pozna-skupiny-aj-harmonogram/",
+      "date": "Tue, 03 Mar 2026 23:01:02 +0000",
+      "type": "rss",
+      "summary_ja": "WBC2026の組分けと日程が決定",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Slovakia",
+      "title": "Zuzana Zambojová sa stáva manažérkou rozvojových aktivít SBF",
+      "url": "https://www.slovakiabaseball.com/2026/03/03/zuzana-zambojova-sa-stava-manazerkou-rozvojovych-aktivit-sbf/",
+      "date": "Tue, 03 Mar 2026 22:20:31 +0000",
+      "type": "rss",
+      "summary_ja": "Zambojováがスロバキア連盟の育成担当に就任",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Zuzana Zambojová"
+      ]
+    },
+    {
+      "source": "Bulgaria",
+      "title": "Сребро за КБС София Блус на Европейската Квалификация в Унгария",
+      "url": "https://bbsf.info/%d1%81%d1%80%d0%b5%d0%b1%d1%80%d0%be-%d0%b7%d0%b0-%d0%ba%d0%b1%d1%81-%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d0%b1%d0%bb%d1%83%d1%81-%d0%bd%d0%b0-%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5%d0%b9%d1%81%d0%ba%d0%b0/",
+      "date": "Wed, 28 Jun 2023 08:40:48 +0000",
+      "type": "rss",
+      "summary_ja": "ソフィアブルースが欧州予選で準優勝",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Bulgaria",
+      "title": "Трето място за КБС Атлетик в квалификация за Купата на бейзболните федерации 2023",
+      "url": "https://bbsf.info/3%d1%82%d0%be-%d0%bc%d1%8f%d1%81%d1%82%d0%be-%d0%b7%d0%b0-%d0%ba%d0%b1%d1%81-%d0%b0%d1%82%d0%bb%d0%b5%d1%82%d0%b8%d0%ba-%d0%b2-%d0%ba%d0%b2%d0%b0%d0%bb%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8/",
+      "date": "Tue, 27 Jun 2023 07:28:39 +0000",
+      "type": "rss",
+      "summary_ja": "アスレチックが連盟杯予選で3位",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Bulgaria",
+      "title": "Откриване на сезон 2023",
+      "url": "https://bbsf.info/%d0%be%d1%82%d0%ba%d1%80%d0%b8%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%81%d0%b5%d0%b7%d0%be%d0%bd-2023/",
+      "date": "Wed, 17 May 2023 08:59:48 +0000",
+      "type": "rss",
+      "summary_ja": "ブルガリア2023年シーズン開幕",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Turkey",
+      "title": "Çorum Okul sporları Beyzbol Müsabakaları Hakemlik Başvurusu",
+      "url": "https://trf.gov.tr/?p=10026",
+      "date": "Tue, 03 Mar 2026 07:39:11 +0000",
+      "type": "rss",
+      "summary_ja": "チョルム学校野球大会の審判募集",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Turkey",
+      "title": "Ankara Okul sporları Beyzbol Müsabakaları Hakemlik Başvurusu",
+      "url": "https://trf.gov.tr/?p=10022",
+      "date": "Tue, 03 Mar 2026 07:38:07 +0000",
+      "type": "rss",
+      "summary_ja": "アンカラ学校野球大会の審判募集",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Turkey",
+      "title": "Büyükler Beyzbol5 Müsabakaları Hakemlik Başvurusu",
+      "url": "https://trf.gov.tr/?p=9965",
+      "date": "Mon, 23 Feb 2026 12:48:22 +0000",
+      "type": "rss",
+      "summary_ja": "成人B5大会の審判募集",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Denmark",
+      "title": "Little League Denmark West Practices with National Team Coaches",
+      "url": "https://www.baseball.dk/2026/01/12/little-league-denmark-west-practices-with-national-team-coaches/",
+      "date": "Mon, 12 Jan 2026 18:20:58 +0000",
+      "type": "rss",
+      "summary_ja": "デンマーク西部LLが代表コーチと練習",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Denmark",
+      "title": "Little League Baseball Expands in Denmark – Emergence of Denmark West",
+      "url": "https://www.baseball.dk/2025/10/07/little-league-baseball-expands-in-denmark-emergence-of-denmark-west/",
+      "date": "Tue, 07 Oct 2025 14:10:00 +0000",
+      "type": "rss",
+      "summary_ja": "デンマークでリトルリーグが西部に拡大",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Denmark",
+      "title": "Denmark Wins Nordic U15 Baseball Championship Again In Its 2nd Year",
+      "url": "https://www.baseball.dk/2025/09/22/denmark-wins-nordic-u15-baseball-championship-again-in-its-2nd-year/",
+      "date": "Mon, 22 Sep 2025 16:39:24 +0000",
+      "type": "rss",
+      "summary_ja": "デンマークが北欧U15野球選手権連覇",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Estonia",
+      "title": "Vilniuse Cup 2025",
+      "url": "https://www.baseball.ee/et/content/vilniuse-cup-2025",
+      "date": "Tue, 03 Feb 2026 17:29:00 +0000",
+      "type": "rss",
+      "summary_ja": "ビリニュスカップ2025大会",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Estonia",
+      "title": "Kiili Pantrite 12U võistkond osales Little Liiga qualifier turniiril Kutnos!",
+      "url": "https://www.baseball.ee/et/content/kiili-pantrite-12u-v%C3%B5istkond-osales-little-liiga-qualifier-turniiril-kutnos",
+      "date": "Tue, 16 Jul 2024 11:46:06 +0000",
+      "type": "rss",
+      "summary_ja": "エストニア12UチームがLL予選に参加",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Estonia",
+      "title": "Estonian baseball Open!",
+      "url": "https://www.baseball.ee/et/content/estonian-baseball-open",
+      "date": "Wed, 22 May 2024 12:28:13 +0000",
+      "type": "rss",
+      "summary_ja": "エストニア野球オープン大会",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Finland",
+      "title": "Bryan Minniti tuo MLB kokemusta Suomen baseball maajoukkueen johtoon",
+      "url": "https://www.baseball.fi/bryan-minniti-tuo-mlb-kokemusta-suomen-baseball-maajoukkueen-johtoon/",
+      "date": "Mon, 02 Mar 2026 15:58:50 +0000",
+      "type": "rss",
+      "summary_ja": "MLB経験者ミニティがフィンランド代表監督に",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Bryan Minniti"
+      ]
+    },
+    {
+      "source": "Finland",
+      "title": "BASEBALL TUOMARI- JA PISTEIDENLASKENTAKOULUTUS",
+      "url": "https://www.baseball.fi/baseball-tuomarikoulutus-pisteidenlaskentakoulutus/",
+      "date": "Wed, 18 Feb 2026 15:18:00 +0000",
+      "type": "rss",
+      "summary_ja": "野球審判・記録員研修の案内",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Finland",
+      "title": "Menneen kauden parhaat palkittiin – katse jo tulevassa!",
+      "url": "https://www.baseball.fi/menneen-kauden-parhaat-palkittiin-katse-jo-tulevassa/",
+      "date": "Tue, 27 Jan 2026 18:27:20 +0000",
+      "type": "rss",
+      "summary_ja": "昨シーズンの表彰と今後の展望",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Iceland",
+      "title": "Tennisæfingar felld niður til 13.apríl / Tennis practices cancelled until April 13",
+      "url": "https://www.hmr.is/covid19/",
+      "date": "Sat, 21 Mar 2020 19:24:52 +0000",
+      "type": "rss",
+      "summary_ja": "テニス練習が4月13日まで中止",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Iceland",
+      "title": "Tennisæfingar frestað til mánudaginn, 23.mars / Tennis practices postponed until Monday, March 23",
+      "url": "https://www.hmr.is/tennisaefingar-frestad-til-manudaginn-23-mars-tennis-practices-postponed-until-monday-march-23/",
+      "date": "Mon, 16 Mar 2020 00:19:43 +0000",
+      "type": "rss",
+      "summary_ja": "テニス練習の延期通知",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Iceland",
+      "title": "Frábært þátttöku HMR krökkum á 1.Stórmót TSÍ",
+      "url": "https://www.hmr.is/frabaert-thatttoku-hmr-krokkum-a-1-stormot-tsi/",
+      "date": "Sun, 16 Feb 2020 09:15:37 +0000",
+      "type": "rss",
+      "summary_ja": "HMR子供たちのTSÍ第1回大会参加",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "UK",
+      "title": "The WBSC announces 2026/27 Women’s Baseball World Cup Groups and hosts",
+      "url": "https://britishbaseball.org.uk/the-wbsc-announces-2026-27-womens-baseball-world-cup-groups-and-hosts/",
+      "date": "Thu, 02 Apr 2026 06:56:18 +0000",
+      "type": "rss",
+      "summary_ja": "WBSC女子野球W杯のグループと開催地発表",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "UK",
+      "title": "Great Britain Women’s Baseball Team Inspires Future Talent at Cardiff Event",
+      "url": "https://britishbaseball.org.uk/great-britain-womens-baseball-team-inspires-future-talent-at-cardiff-event/",
+      "date": "Sun, 29 Mar 2026 17:42:46 +0000",
+      "type": "rss",
+      "summary_ja": "英国女子野球チームがカーディフで次世代育成イベント",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "UK",
+      "title": "Two GB Players Selected For MLB’s European Development Tournament",
+      "url": "https://britishbaseball.org.uk/two-gb-players-selected-for-mlbs-european-development-tournament/",
+      "date": "Fri, 20 Mar 2026 12:20:40 +0000",
+      "type": "rss",
+      "summary_ja": "英国選手2名がMLB欧州育成トーナメントに選出",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Italy",
+      "title": "Guida A Gold Baseball 2026: BBC Grosseto, tante novità e uno sguardo al futuro",
+      "url": "https://www.fibs.it/news/guida-a-gold-baseball-2026-bbc-grosseto-tante-novit-e-uno-sguardo-al-futuro",
+      "date": "Thu, 09 Apr 26 05:03:00 +0000",
+      "type": "rss",
+      "summary_ja": "BBCグロッセートの2026年Aゴールドシーズンガイド",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Italy",
+      "title": "Guida A Gold Baseball 2026: Hotsand Macerata, nel mirino c'è la finale scudetto",
+      "url": "https://www.fibs.it/news/guida-a-gold-baseball-2026-hotsand-macerata-nel-mirino-ce-la-finale-scudetto",
+      "date": "Wed, 08 Apr 26 13:08:00 +0000",
+      "type": "rss",
+      "summary_ja": "マチェラータの2026年シーズン展望、決勝進出目標",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Italy",
+      "title": "Guida A Gold Baseball 2026: l'Unipol Bologna vuole tornare in Finale Scudetto",
+      "url": "https://www.fibs.it/news/guida-a-gold-baseball-2026-lunipol-bologna-vuole-tornare-in-finale-scudetto",
+      "date": "Wed, 08 Apr 26 06:26:28 +0000",
+      "type": "rss",
+      "summary_ja": "ボローニャが決勝復帰を目指す2026年シーズン展望",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Austria",
+      "title": "Players to watch (3): Diese Spielerinnen könnten 2026 durchstarten",
+      "url": "https://www.baseballsoftball.at/news/players-to-watch-3-diese-spielerinnen-koennten-2026-durchstarten",
+      "date": "Wed, 08 Apr 26 10:43:24 +0000",
+      "type": "rss",
+      "summary_ja": "2026年注目の女子選手紹介（第3回）",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Austria",
+      "title": "Ticketverkauf für die Alpine International Baseball Trophy gestartet",
+      "url": "https://www.baseballsoftball.at/news/ticketverkauf-fuer-die-alpine-international-baseball-trophy-gestartet",
+      "date": "Wed, 01 Apr 26 13:28:50 +0000",
+      "type": "rss",
+      "summary_ja": "アルパイン国際野球トロフィーのチケット販売開始",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Austria",
+      "title": "U15 Nationalteam: Erfolgreiches Trainingslager in Wels",
+      "url": "https://www.baseballsoftball.at/news/u15-nationalteam-erfolgreiches-trainingslager-in-wels",
+      "date": "Wed, 01 Apr 26 05:09:41 +0000",
+      "type": "rss",
+      "summary_ja": "U15代表チームがヴェルスで合宿成功",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Spain",
+      "title": "La RFEBS se suma al proyecto de identificación retrospectiva de deportistas de alto nivel en España (1980–1997)",
+      "url": "https://www.rfebs.es/news/la-rfebs-se-suma-al-proyecto-de-identificacion-retrospectiva-de-deportistas-de-alto-nivel-en-espaa-19801997-",
+      "date": "Wed, 01 Apr 26 16:00:00 +0000",
+      "type": "rss",
+      "summary_ja": "スペイン連盟がトップ選手の遡及認定プロジェクトに参加",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Spain",
+      "title": "Marvin Benard, nuevo seleccionador absoluto de béisbol",
+      "url": "https://www.rfebs.es/news/marvin-benard-nuevo-seleccionador-absoluto-de-beisbol",
+      "date": "Mon, 23 Mar 26 18:00:00 +0000",
+      "type": "rss",
+      "summary_ja": "マービン・ベナードがスペイン代表新監督に就任",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Marvin Benard"
+      ]
+    },
+    {
+      "source": "Spain",
+      "title": "Confirmado el calendario del Europeo Sub-23 de Béisbol B Pool 2026 en Valencia",
+      "url": "https://www.rfebs.es/news/confirmado-el-calendario-del-europeo-sub-23-de-beisbol-b-pool-2026-en-valencia",
+      "date": "Wed, 18 Mar 26 12:00:00 +0000",
+      "type": "rss",
+      "summary_ja": "U23欧州選手権Bプール2026のバレンシア開催日程確定",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Croatia",
+      "title": "Besplatan Baseball Kamp",
+      "url": "https://baseball-cro.hr/besplatan-baseball-kamp/",
+      "date": "Mon, 28 Jul 2025 08:27:28 +0000",
+      "type": "rss",
+      "summary_ja": "無料野球キャンプ開催",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Croatia",
+      "title": "Konačna rang lista učenika za šolsku godinu 2025/2026",
+      "url": "https://baseball-cro.hr/konacna-rang-lista-ucenika-za-solsku-godinu-2025-2026/",
+      "date": "Mon, 23 Jun 2025 13:53:33 +0000",
+      "type": "rss",
+      "summary_ja": "2025/2026学年度の生徒最終ランキング",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Croatia",
+      "title": "Preliminarna rang lista učenika za šolsku godinu 2025/2026",
+      "url": "https://baseball-cro.hr/preliminarna-rang-lista-ucenika-za-solsku-godinu-2025-2026/",
+      "date": "Mon, 16 Jun 2025 20:01:20 +0000",
+      "type": "rss",
+      "summary_ja": "2025/2026学年度の生徒暫定ランキング",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Serbia",
+      "title": "Pobede Beograda i Novog Sada u prvom kolu",
+      "url": "https://www.baseballsrbija.com/pobede-beograda-i-novog-sada-u-prvom-kolu/",
+      "date": "Tue, 07 Apr 2026 14:33:05 +0000",
+      "type": "rss",
+      "summary_ja": "セルビアリーグ第1節でベオグラードとノヴィサド勝利",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Serbia",
+      "title": "Počinje nova bejzbol sezona!",
+      "url": "https://www.baseballsrbija.com/pocinje-nova-bejzbol-sezona/",
+      "date": "Thu, 02 Apr 2026 17:23:06 +0000",
+      "type": "rss",
+      "summary_ja": "セルビア新野球シーズン開幕",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Serbia",
+      "title": "Srbija na EP seniora u Bugarskoj!",
+      "url": "https://www.baseballsrbija.com/srbija-na-ep-seniora-u-bugarskoj/",
+      "date": "Sun, 15 Feb 2026 13:55:56 +0000",
+      "type": "rss",
+      "summary_ja": "セルビアがブルガリア開催の欧州選手権に出場",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Romania",
+      "title": "Cernica găzduiește primul turneu al Campionatului Național de Baseball5 pentru U12 și U15",
+      "url": "https://baseball-softball.ro/cernica-gazduieste-primul-turneu-al-campionatului-national-de-baseball5-pentru-u12-si-u15/",
+      "date": "Thu, 12 Mar 2026 10:52:57 +0000",
+      "type": "rss",
+      "summary_ja": "チェルニカでU12・U15 Baseball5全国大会開催",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Romania",
+      "title": "Convocator Adunare Generală Ordinară și de Alegeri a FRBS 2026",
+      "url": "https://baseball-softball.ro/convocator-adunare-generala-ordinara-si-de-alegeri-a-frbs-2026/",
+      "date": "Wed, 11 Mar 2026 10:30:53 +0000",
+      "type": "rss",
+      "summary_ja": "ルーマニア野球連盟の総会・選挙の招集通知",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Romania",
+      "title": "Campionatul Național de Baseball5 – Seniori & U18 – Turneul 1 – 2026",
+      "url": "https://baseball-softball.ro/campionatul-national-de-baseball5-seniori-u18-turneul-1/",
+      "date": "Fri, 06 Mar 2026 13:15:36 +0000",
+      "type": "rss",
+      "summary_ja": "Baseball5全国選手権シニア・U18第1回大会",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Israel",
+      "title": "Team Israel 2026 WBC | Media & Press Archive",
+      "url": "https://www.israelbaseball.org/us/en/news/team-israel-2026-wbc-media-press-archive/",
+      "date": "Thu, 26 Mar 2026 19:18:43 +0000",
+      "type": "rss",
+      "summary_ja": "イスラエル代表2026 WBCメディア・プレスアーカイブ",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Israel",
+      "title": "Gelof leads Israel past Netherlands in 6-2 victory to end WBC on a high note",
+      "url": "https://www.israelbaseball.org/us/en/news/gelof-leads-israel-past-netherlands-in-6-2-victory-to-end-wbc-on-a-high-note/",
+      "date": "Sun, 15 Mar 2026 19:31:21 +0000",
+      "type": "rss",
+      "summary_ja": "ゲロフ活躍でイスラエルがオランダに6-2勝利",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Zack Gelof"
+      ]
+    },
+    {
+      "source": "Israel",
+      "title": "L’dor V’dor: Harrison Bader carries the legacy of an Israel Baseball legend",
+      "url": "https://www.israelbaseball.org/us/en/news/ldor-vdor-harrison-bader-carries-the-legacy-of-an-israel-baseball-legend/",
+      "date": "Tue, 10 Mar 2026 18:19:10 +0000",
+      "type": "rss",
+      "summary_ja": "ハリソン・ベイダーがイスラエル野球の伝統を継承",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Harrison Bader"
+      ]
+    },
+    {
+      "source": "Belgium (KBBSF)",
+      "title": "Belgian NT to BB5 European Championship  7-11 NOV 2023",
+      "url": "https://www.kbbsf-frbbs.be/belgian-nt-to-bb5-european-championship-7-11-nov-2023/",
+      "date": "Sun, 05 Nov 2023 10:10:14 +0000",
+      "type": "rss",
+      "summary_ja": "ベルギー代表がBB5欧州選手権に出場",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Belgium (KBBSF)",
+      "title": "Royal Greys Grizzlies at Men’s European Softball Masters Cup 2023 this week",
+      "url": "https://www.kbbsf-frbbs.be/royal-greys-grizzlies-at-mens-european-softball-masters-cup-2023-this-week/",
+      "date": "Mon, 23 Oct 2023 16:57:41 +0000",
+      "type": "rss",
+      "summary_ja": "ロイヤルグレイズが欧州ソフトボールマスターズカップ出場",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "Belgium (KBBSF)",
+      "title": "Update Belgian Series Baseball – Spartans take the lead and can become Belgian Champions this weekend",
+      "url": "https://www.kbbsf-frbbs.be/spartans-take-the-lead-and-can-become-belgian-champions-this-weekend/",
+      "date": "Thu, 12 Oct 2023 13:49:39 +0000",
+      "type": "rss",
+      "summary_ja": "ベルギーシリーズでスパルタンズがリード",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Belgium (FRBBS)",
+      "title": "Watch the informational sessions on the transition to WBSC Baseball Rules",
+      "url": "https://www.baseballsoftball.be/news/herbekijk-de-info-sessies-over-de-overgang-naar-wbsc-baseball-rules",
+      "date": "Tue, 07 Apr 26 16:17:00 +0000",
+      "type": "rss",
+      "summary_ja": "WBSC野球ルール移行に関する説明会の視聴案内",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Belgium (FRBBS)",
+      "title": "Saturday, April 4th Opening Day Competitions 2026",
+      "url": "https://www.baseballsoftball.be/news/saturday-april-4th-opening-day-competitions-2026",
+      "date": "Thu, 02 Apr 26 14:23:43 +0000",
+      "type": "rss",
+      "summary_ja": "2026年4月4日に競技シーズン開幕",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Belgium (FRBBS)",
+      "title": "🇧🇪⚾ U15 National Team: Final Selection Announced",
+      "url": "https://www.baseballsoftball.be/news/u15-national-team-final-selection-announced",
+      "date": "Thu, 02 Apr 26 14:06:17 +0000",
+      "type": "rss",
+      "summary_ja": "U15代表チームの最終選考メンバー発表",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Mister Baseball",
+      "title": "Baseball Will Tell You Where It Needs To Grow",
+      "url": "https://www.mister-baseball.com/baseball-will-tell-you-where-it-needs-to-grow/",
+      "date": "Fri, 03 Apr 2026 19:00:00 +0000",
+      "type": "rss",
+      "summary_ja": "野球の成長が必要な地域についての考察",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Mister Baseball",
+      "title": "Takeaways from Italy’s 8-6 World Baseball Classic Quarterfinal Victory over Puerto Rico",
+      "url": "https://www.mister-baseball.com/takeaways-from-italys-8-6-world-baseball-classic-quarterfinal-victory-over-puerto-rico/",
+      "date": "Sun, 15 Mar 2026 06:25:14 +0000",
+      "type": "rss",
+      "summary_ja": "WBC準々決勝でイタリアがプエルトリコに8-6勝利",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Mister Baseball",
+      "title": "Takeaways from Team USA’s 5-3 World Baseball Classic Quarterfinal Victory over Canada",
+      "url": "https://www.mister-baseball.com/takeaways-from-team-usas-5-3-world-baseball-classic-quarterfinal-victory-over-canada/",
+      "date": "Sat, 14 Mar 2026 15:48:29 +0000",
+      "type": "rss",
+      "summary_ja": "WBC準々決勝でアメリカがカナダに5-3勝利",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Norway",
+      "title": "Utstyrsmidler 2026",
+      "url": "https://www.soft-baseball.no/stotteordninger/utstyr/utstyrsmidler-2026/",
+      "date": "Thu, 19 Mar 2026 12:25:58 +0000",
+      "type": "rss_playwright",
+      "summary_ja": "ノルウェー連盟の2026年用具助成金",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Norway",
+      "title": "Protokoll forbundsstyremøte 5. januar 2025",
+      "url": "https://www.soft-baseball.no/moter/protokoll-forbundsstyremote-5-januar-2025/",
+      "date": "Mon, 09 Feb 2026 18:53:26 +0000",
+      "type": "rss_playwright",
+      "summary_ja": "ノルウェー連盟理事会議事録（2025年1月）",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Norway",
+      "title": "Kristiansand Ungdomscamp 13. – 15. februar",
+      "url": "https://www.soft-baseball.no/generelt/kristiansand-ungdomscamp-13-15-februar/",
+      "date": "Mon, 02 Feb 2026 14:14:46 +0000",
+      "type": "rss_playwright",
+      "summary_ja": "クリスチャンサンドで青少年キャンプ開催",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.cz/article/detail/10878",
+      "title": "Národní baseballový program 2026",
+      "date": "8. 4. 2026",
+      "source": "Czech",
+      "type": "html",
+      "summary_ja": "チェコの2026年ナショナル野球プログラム",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.cz/article/detail/10877",
+      "title": "Český baseball v novém: Spouštíme moderní webový portál",
+      "date": "7. 4. 2026",
+      "source": "Czech",
+      "type": "html",
+      "summary_ja": "チェコ野球が新ウェブポータルを開設",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.cz/article/detail/10876",
+      "title": "Hodnocení zimní části Prospect Programu (listopad–březen 2025/2026)",
+      "date": "7. 4. 2026",
+      "source": "Czech",
+      "type": "html",
+      "summary_ja": "プロスペクトプログラム冬季評価",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.hu/BB5-EDZoKePZeS/2/101/0",
+      "title": "BB5 EDZŐKÉPZÉS",
+      "date": "",
+      "source": "Hungary",
+      "type": "html",
+      "summary_ja": "Baseball5コーチ養成講座",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.hu/Mikulas-Kupa-BB5-es-BB5-Bajnoksag-dijatado/2/100/0",
+      "title": "Mikulás Kupa BB5 és BB5 Bajnokság díjátadó",
+      "date": "",
+      "source": "Hungary",
+      "type": "html",
+      "summary_ja": "BB5ミクラーシュカップと選手権表彰式",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.hu/Sporttortenelem-Magyar-baseballjatekos-kotott-profi-szerzodest/2/98/0",
+      "title": "Sporttörténelem: Magyar baseballjátékos kötött profi szerződést",
+      "date": "",
+      "source": "Hungary",
+      "type": "html",
+      "summary_ja": "ハンガリー人選手がプロ契約締結",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.greekbaseball.com/news/hellas-finishes-2025-euro-tied-for-13th-qualify-for-2027-championship",
+      "title": "Hellas finishes 2025 Euro tied for 13th, qualify for 2027 Championship",
+      "date": "",
+      "source": "Greece",
+      "type": "html",
+      "summary_ja": "ギリシャ代表、欧州選手権13位タイで2027大会出場権獲得",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.greekbaseball.com/news/the-last-greek-ballplayer-wants-to-bring-baseball-back-to-the-country",
+      "title": "Hellas finishes 2025 Euro tied for 13th, qualify for 2027 Championship",
+      "date": "",
+      "source": "Greece",
+      "type": "html",
+      "summary_ja": "ギリシャ代表、欧州選手権13位タイ（重複）",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.de/news/detail/titelverteidiger-heidenheim-eroeffnet-mit-lokalduell-/-derby-in-bayern",
+      "title": "Saisonauftakt in der DBL Titelverteidiger Heidenheim eröffnet mit Lokalduell / Derby in Bayern",
+      "date": "",
+      "source": "Germany (DBL)",
+      "type": "html",
+      "summary_ja": "DBL開幕、王者ハイデンハイムがダービーで初戦",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.de/news/detail/paderborn-feiert-jubilaeum-/-dortmund-debuetiert",
+      "title": "Saisonauftakt in der DBL Paderborn feiert Jubiläum / Dortmund debütiert",
+      "date": "",
+      "source": "Germany (DBL)",
+      "type": "html",
+      "summary_ja": "DBL開幕、パーダーボルン記念年・ドルトムントデビュー",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.baseball.de/news/detail/stealers-verpflichten-utility-player-max-tracey",
+      "title": "Roster-News aus Hamburg Stealers verpflichten Utility Player Max Tracey",
+      "date": "",
+      "source": "Germany (DBL)",
+      "type": "html",
+      "summary_ja": "ハンブルク・スティーラーズがマックス・トレイシー獲得",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Max Tracey"
+      ]
+    },
+    {
+      "url": "https://www.sbslf.se/nyheter/nyheter/2025-06-02-vara-landslag-tar-sig-an-utmaningar-bade-pa-och-utanfor-plan",
+      "title": "2025 06 02 vara landslag tar sig an utmaningar bade pa och utanfor plan",
+      "date": "2025-06-02",
+      "source": "Sweden",
+      "type": "html",
+      "summary_ja": "スウェーデン代表がフィールド内外の課題に挑む",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.sbslf.se/nyheter/nyheter/2026-03-25-nytt-verksamhetsar-ny-milstolpe-nya-forutsattningar-och-ny-ordforande---det-ar-mycket-som-hander-nu",
+      "title": "2026 03 25 nytt verksamhetsar ny milstolpe nya forutsattningar och ny ordforande   det ar mycket som hander nu",
+      "date": "2026-03-25",
+      "source": "Sweden",
+      "type": "html",
+      "summary_ja": "スウェーデン連盟の新年度・新会長就任",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "url": "https://www.sbslf.se/nyheter/nyheter/2026-03-23-historiskt-forbundsmote-for-sbslf",
+      "title": "2026 03 23 historiskt forbundsmote for sbslf",
+      "date": "2026-03-23",
+      "source": "Sweden",
+      "type": "html",
+      "summary_ja": "スウェーデン連盟の歴史的総会",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Poland",
+      "title": "Rozpoczynamy nowy sezon!",
+      "url": "https://baseballsoftball.pl/w/rozpoczynamy-nowy-sezon-?redirect=%2Fnewsy",
+      "date": "04.04.2026",
+      "type": "html_playwright",
+      "summary_ja": "ポーランド新シーズン開幕",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "Poland",
+      "title": "Krzysztof Gruber - Trener Kadry Narodowej Slowpitch sezonu 2026 \n                                  \n                                    Z przyjemnością informujemy, że funkcję Trenera Kadry Narodowej w Slowpitch w sezonie 2026...",
+      "url": "https://baseballsoftball.pl/w/krzysztof-gruber-trener-kadry-narodowej-slowpitch-sezonu-2026?redirect=%2Fnewsy",
+      "date": "25.02.2026",
+      "type": "html_playwright",
+      "summary_ja": "グルーバーがスローピッチ代表監督に就任",
+      "importance": 3,
+      "bb": 0,
+      "players": [
+        "Krzysztof Gruber"
+      ]
+    },
+    {
+      "source": "GNews:Europe (EN)",
+      "title": "Baseball Champions League opens new chapter in Europe - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMi1jOHpRcm8yTXhsbUJ5Tm5ENUF4X2s0U2FFdUpDTnJXUjFJUXVjbm5vVjZJbWwyM0VKQnhTdF8wMW4yQU0zanIzaUZUczMxSVJhSUJKbDJmSmVjRnlkaG9vYkNzeklnM2lpRExsM2JUck8wYW5WWFF1X082VXRNck55dFdtZHRLLXpnZU11SGduNkE3a0lUUndGTGVTc2Jld1IwZ2hFaW5LUWVUYXBMcXpNaTQzRFgyd0F6bnJsbmNfcFpOV2djYVBIRVFtbTZZeXc?oc=5",
+      "date": "Wed, 08 Apr 2026 18:58:53 GMT",
+      "type": "rss",
+      "summary_ja": "野球チャンピオンズリーグが欧州で新章開幕",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Europe (EN)",
+      "title": "Umpires from 11 Countries Represent Their Communities at the 2026 Little League® Europe and Africa Region Umpire Clinic - Little League",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnE1bzVMVGZfUUQ2WS1Ebmp3V0xsWTVqRldNMkwxb3ZGdGVRdThhYmZ5aXJ6M0w5LVVqTjlLbTFSbzFxbmJ4TmRjZnJhTVdFSmk5NTZYT3NBZVpUcUlDNlc1MTVSdk9xMzF0RkpvSU5odjE2S0RhMThFY0x5Wk5fWXczWDc0dG9qRXZHXzByZ3owSF83eFVuMEM5a1RrZ0VQdHZ0MFkzRHJzaFRGQi12M2NaMUF2eW5obU56bGhsQUNPZFFqbHJFN2ZseEp2a0d0bzNJbXRXVzRwQ05iTGtFQTdXcTJhYUY0?oc=5",
+      "date": "Wed, 08 Apr 2026 13:34:11 GMT",
+      "type": "rss",
+      "summary_ja": "欧州・アフリカ地域リトルリーグ審判講習会",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Netherlands",
+      "title": "World Baseball Classic - TeamNL",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0M2Q2U0pZckJWX1R4SVRIdmdTYXJJYV9Gdm5QRnBmdnlPMWtROTVtZFB4NGlQUUZiMGxNTWdsZDVMd09UM3hnTEM4ZnczU3hFWlZTbURlUDlPaG1pNnZXbF93?oc=5",
+      "date": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "オランダ代表WBC関連記事",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Netherlands",
+      "title": "Nederlands Koninkrijksteam definitief uitgeschakeld op World Baseball Classic - ESPN.nl",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXVZZGpkNEh0UDN1YnF6dUQybXd5enlVM1k2RHdkanQ3eldma093NnZpUlRnYXhDOWZYSkNvUS1rc0M1Rk1GeHZ0bjdtYU5HXzNyQVdUNmR3OWhnXzVQWHU5WmNOdHgzNkIxSWNKbXFCSl9fT0p6bGo1bmtrU0NVWGpQdHRKX2JqeDlRckxzT2FGSG9CNUV2VmF6bjRxMWRUbkh3bXRoT2hpWUtOZkNHdVVwV3hKTlNVcndsbkl2MkY?oc=5",
+      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "オランダ代表WBCで敗退確定",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Germany",
+      "title": "Termine, Favoriten, TV-Übertragung: Fragen und Antworten zum MLB-Saisonstart - Kicker",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQakpsLWV2cUMwMlNBMFB4WW1IcEh5VlZQdmZNUm9aSWRKX2NpVVktLXF6THBVWUJNZmNTaV82cTZLZjB5eWIxdVY2aVpJYm1sN2xoU1NfQVNBcC1jNUh2TDZ0YklhZmNtcDlRVDNObmFBWEhOLThfUm56YWFkcjhXUld4YmxHNEVlWGt3NzJ6ZTZrTFJ5MzFvQXp2VUdJc1lla0RObFJKTi1hMldqOVZidkN3?oc=5",
+      "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "MLBシーズン開幕の日程・放送情報",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Germany",
+      "title": "Termin-Update für Länderpokal U15 Baseball (29./30.8.2026) und Deutsche Meisterschaft U15 Baseball (10./11.10.2026) - Deutscher Baseball und Softball Verband e.V.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcklDSlNDSGpRTEM5V2pWclNvWnVsRnpLam9NZndEOXVhLVpTZWpGRXg0aFpheUliUElpN3p1QkpQUEZWWVpFZ1lkMzdWYlRwTTVMZmJVN1UwMjRlWnJtUEhQb3UxeXN1X0hmZmVOX0Y4UU44SGxLQ2RMaFhEbE1lU0laVjdaNTVYVkkxM3RwekNQWW44SDhocW5jYThKVnhyaVhPTndSTGdZTTBHWVc3bTlyOGdkUzZNaW43RTVLOGV1ZF9uRU9NTndoLUI4WnFZOU1fdlUxUm45LWRZM29EaGU3MjlqMmZ0WlVZNw?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "U15野球ドイツ選手権の日程更新",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:France",
+      "title": "Il y a 100 ans, naissait le championnat de France de baseball - Fédération Française de Baseball et Softball",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXF4b003LXlkdWgwQjNKdENuYmF3WXhsYXpHMm44Qmt4Rm5fbWxQTk5PelFPYUZRVHA4U245UUJJMllsR21DbGkyX1UwRExVZktyYjNwT3FpazE1UXVlWHVDVTR0Njc3bnJndlhnN3NGS1hDS3hLbzR4Z0VpVHdjY3dQZw?oc=5",
+      "date": "Fri, 03 Apr 2026 15:15:27 GMT",
+      "type": "rss",
+      "summary_ja": "フランス野球選手権100周年",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:France",
+      "title": "Baseball : les Huskies remettent leur titre en jeu - Rouen.fr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXhmVERlczRQZTFVUmN6ZF9TaFFQUUcxSlNqbW9od0NfUXdwdHR6MjdHSm8tYlloRlFuTGtMY3RFRVN4SmEtMU1BaGZGRlFGcENrN3NRYVAyZ3ZOb3FZemhzaGVMdFJZSkhuaGwwLV90YnphTTNUWWR6NndZWDllMEQzUjNsZw?oc=5",
+      "date": "Thu, 02 Apr 2026 05:30:00 GMT",
+      "type": "rss",
+      "summary_ja": "ハスキーズがフランスの王座防衛戦へ",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Belgium",
+      "title": "Het EK Baseball 2025 is in Antwerpen. The Red Hawks have landed and play at home! - Starsporttv",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmp6ZzYtVmVVaWRVVzFwb0VtUWp3dldpWkdqV3FZdVJ6SEFfZk1pNC1wYzZhMWRkTERtbk41TmVSdEliLVk5aHZUUGlKOXBFVW84aVpzMVZUWVEyUnZ3dXJlcFJSS1ZiemM5MG8zd2ZYcFpTWUZUdGRpeGRhZk9zazdaTU9KNTdlUHZENWlmVkhFRnJOTzVzeFMtbnVDTmJaaW00VW45Q3dBN3Z5UmU0?oc=5",
+      "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "2025欧州野球選手権アントワープ開催",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Belgium",
+      "title": "Antwerpen is de bakermat van het Belgische baseball: “Onze clubs zetten al meer dan een eeuw de toon” - GVA",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYzU0OEhXeFRUd3d3bW1TTTc3bE1RY1ZHWmQ2SjBuSTRnMjNOM3M1SG0tdmZrQ1p1SWtNaFVNbFR5QWdJdkRsNjExWkJOUm1pQmwtQVZEYVhmdEJuQTRXTGZvNUp0VVRkQTZSWTBqM1JuV2VmOWFIbUFzNzBIY05UekVvc3Z0MGxJYk5ZMU9CMHhqOXRLYUhUa2syS0xUamRVeWVINTNoNi02MW00ZXBpcy1XcGhYT250ZXJPOUZfbExTaWE3ckN4UDdaZk4wMERrRFktZHlqWVpBN1pPbkx2WFZDVW56LWFzOW5xM21oTWlZOUFTS3lGQ0ZZWW1Odk5id1pF?oc=5",
+      "date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "アントワープはベルギー野球発祥の地",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Switzerland",
+      "title": "Erster Schweizer Baseball-Profi – Der einsame Weg in die Major League - SRF",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQal9HWDRtZ3FjRUp1QVhKdkJkdkhqb3UtaG14a1BwUE1fTS1icUhtYWlaOGVVYVpKNDNkOUpEeV9obkd6XzBJbi1TRFFrUWxtNzNQM0ZDaFdsOGgyZ1NFYjAwUDhaTEhBeWxGQUpmLUlwMXVFUFlNUVRaZWliOGpCYnFHNEpodVNzWEM5eVl2bzlrSkZIbUkwTkJqME5SZndDemZmc09fQTFOc0NOcVRuczg4Vklpakc4NnI3ZmVCaVJSYzR4aVNrd3VjM1NMWGFDaEV5SGJRQjVXcm9hLWZsUnFsY1loaEo2NnMtRXc2T3ptSEhkM0lxclJR?oc=5",
+      "date": "Sun, 31 Aug 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "スイス初の野球プロ選手のMLBへの道",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Switzerland",
+      "title": "John Deere geht Partnerschaft mit der Major League Baseball ein - MarketScreener Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXF3OXBJOUFhYzB5VXlEeEc0ajh5U2NWbVdVMlpkdk94Z3RTd3pFeXlfYmRIODVfSzRxcEt0MTRPWVVZOER1SGNrMUp4TU9Kc2VVT3VwTktvdU8tdkFJa1FTWDBILXM4NEJrZEhZTWphaVh3TlhYZFg4blc0RzJQYkZPWW83bXl3S0FEYjNuMDRrQzh3TmRXM2pqRlJEMXdGellod2Q4dHcySkxEOGg1QlJ0WUt3R2ozMElTZjZwbU1kZmRFYl9lQw?oc=5",
+      "date": "Tue, 31 Mar 2026 13:57:18 GMT",
+      "type": "rss",
+      "summary_ja": "ジョンディアがMLBとパートナーシップ締結",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:UK",
+      "title": "Beck brothers proud to represent Great Britain at World Baseball Classic - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTE1b005ZGtReXh5d3RzVWY4VVNzMzI2MjRlRTFhRElfVXkxSEVXc3Juc1dDSC1wZHhRSmNiMHhYalp0Q211QjJ5eWNLSlZrRVhxYkNkOWFtZ2I4Z0JLUGw2RUlPejFlWmVpN2l0ZE4xNjlvUFJvR3c2alJTdnRhelRVb1ZRUi1YUUFjc3U3bHFuYzRCVkxBMnVqQWZuRUsySUxPZDdtQ1ZvenhCVEVpVzBOUzN0SjA?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ベック兄弟が英国代表としてWBC出場",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:UK",
+      "title": "US-born 'fake Brit' baseball brothers make God Save the King admission - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzRIZkJXQ3pGUV9xQkFjemlsY0JQODBWTWxaRzFDRGRQME5pT1ByM3FLOGNTRC1pblZHb1cxOWdlbHhXWXZUeUR5TzhSRl9wWDJVTExYVVV3TmRGTlRPR3J4R2lwaEpFd0JvRmtUdE5JWkJQa3ZqcjBxbVBMbHRHRExlR3hnSDRTc0kteGowdXRrd1k2bzZCSFNzMA?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "米国生まれのベック兄弟が英国代表で話題",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Ireland",
+      "title": "The Atlantic Pitch – International Sports Diplomacy - Ireland.ie",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU5PZVJhYWlIVVRyQmtFMTdUNjRlU2U5TjY5MzFiVlczeE53TXduX05oZjA0cDNtUG5hQ0MwQnA0Q1NoVEFnQk1VVnRtVkJDWVlYbldiY3JMZlNxUC1EaEJIWUduNmZDZnVvVjl1bjRSbmxJb2UzQl9idTdnU0ltMUd1dktlYXZKT05uRjQ1b1VZcU5MWW80aXBEaEd6V2NfaC1BZnZMbUl3N1pUMkRDM2xwdDdUbkJyUW5B?oc=5",
+      "date": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "アイルランドの国際スポーツ外交",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Ireland",
+      "title": "Éire Ireland 1990 World Cup Retro Jacket – Black Football Fan Zip-Up Jumper With Pockets - aplusme.me",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6Ry1XZGlPQ2RFelBScUQ1dTBTaWFWSml6Y3N6MEVBZ1A5aFMxQTRySkUyemV4UWZwbS0xVkI5R0hVVVYzbXkzR2FxMDdpX3MwS293LWxWV2ctZw?oc=5",
+      "date": "Sat, 04 Apr 2026 01:18:02 GMT",
+      "type": "rss",
+      "summary_ja": "アイルランドW杯レトロジャケット販売",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Italy",
+      "title": "Federazione Italiana Baseball Softball - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeV9BVjh1ZjdEdWVRREllZlk2TGlWTnd4dV9FR0p6SzdpRWFJVG4xZTAxZm9fbDgteWI4RUdSN3p3UFF4LWlBUTBzT3Fac2JhandvUURsM0Q4NGNFdkhzT2FPTlFIc1BHU0pEX05sbzdmQWV0S295eDNpSzRRNUxBb2QzZ0I3am9GTEhmTg?oc=5",
+      "date": "Wed, 08 Apr 2026 19:51:08 GMT",
+      "type": "rss",
+      "summary_ja": "イタリア野球ソフトボール連盟ニュース",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Italy",
+      "title": "Baseball, fenomeno Italia: il quarto posto al World Classic è già storia - il Nord Est",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakpDZjM0cS1lNndFNUhhbmFxT3F6dlJHRllUVXlIVzM5SmI1ZzJQZXdDR2h4UUhreWx4bnB2Ymk4clZjbWZhZWdFZms3d0h3bk13TjVOUzYxZGxmVUE4NG81UVBsd2U4amRsUjRGOVhYaTB6cmNEN0I1eUx3anE1TmVEQWNqOHdQVUQyMzNiazJvQzQ2OE9IX3U0LXhqZFR3Q0ZuZGtQVlVGNHNU?oc=5",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "イタリアがWBC4位の歴史的快挙",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Spain",
+      "title": "Real Federación Española de Béisbol y Sófbol - rfebs.es",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTdzQmJ3aTMxV3dGSnotZzUwWFFta24zOVdONFJuYkxOSFljc1prdjZBMFl6OFhTWDZra1hMRmpYbzNsNlJ0WnBkYWFueGduUmJFRW13RlAySlY2VkZhWWN2STF3LXFDdmdCNE9aN2JJR2xJYjVXRWhBdUplZzJiS1NOX0wtamNCaW5MV0pNUXBrUEppTHB2T1kydzY1MTQ0M1JMenlkWWpVcGR0UmI4ZGZ2emEzcm94Q195ZHFmTQ?oc=5",
+      "date": "Sun, 05 Apr 2026 11:05:07 GMT",
+      "type": "rss",
+      "summary_ja": "スペイン野球ソフトボール連盟ニュース",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Spain",
+      "title": "Clásico Mundial de Béisbol 2026: Partidos del día, horarios y dónde ver - olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODhtUGdZaDFfX25yLU85SnlOZTZPOHFkbGFScmwwSHFWb0hKX1B5Q21DYWh3a1lKOHJIdmtKZ281ZDE1Y0ZRS1l0QzlTb0J6TnA2NFRBd0hudUk1OUFUamVTMTY1SVBhakdUY0JKcXFURkFkMmZoUmEwaDBZWXZNWHE2djU?oc=5",
+      "date": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "WBC2026の試合日程・視聴方法",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Portugal",
+      "title": "UC+Ativa: Basebol - uc.pt",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XLU40YWN1M3pKeG1pSnNUb1VzckViZEVNTWt4YWVUZjVPNklJMW5VaTEwX1RQbjAyVy0ycnNhbEpyZ2V5VlVCYzhXbW52UGdNUTJoSkFpQkJjdFVv?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ポルトガルの大学野球活動",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Portugal",
+      "title": "Basebol: Primeiro home run de Aaron Judge na época de 2026 surge após desafio bem-sucedido ao ABS - Flashscore.pt",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDlmbW04ZXZlTWhrRk1SbVdjUVBWQ3MwN3BlNnhjTEg1OHdaSEY2WTNsc3VCSFppbHB6bHVNUm81Tm14VkFXRl9uakxFNFYyMk9SWDBGeXRtbmFSSFlieDRKOV95bnM5ZWRHOFo3M3pGMlJmWDhhcF9pcUtISmlTeWtteGU5WTV6a2VnZGRwSWlYYXc2U192Tmc1ejBGQ2pWTExnZHZXQ3JBa25lUFllVmhqRDdOTmJhbFF6YXRwVllRMkI4bXNPZGxWU3IyTkRNQjJTakxZTmR3dmpjMFZxT0ZKTkU3Sncy?oc=5",
+      "date": "Fri, 27 Mar 2026 18:22:00 GMT",
+      "type": "rss",
+      "summary_ja": "アーロン・ジャッジが今季初本塁打",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Aaron Judge"
+      ]
+    },
+    {
+      "source": "GNews:Greece",
+      "title": "Υπάρχουν ομάδες μπέιζμπολ στην Ελλάδα; - Kathimerini",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmk3bFkxeGMtWnF6aHY0TFNWSUNORTd1ZDdPU2FRMnhqQnJMN2V4S01SaHRvajBrZGY5MTNsbTRYRGl2cHF1RDZZOTBBZXBiSnV0a1doS1BQbjlzUkZwWDY0MDlyb2g4bkRUMElvMGlGSHctREtVMHo2YWxKaVd0Tjk5QXZxNVU2LUx4eC1jSEZzQzQ?oc=5",
+      "date": "Tue, 16 Jul 2024 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ギリシャに野球チームはあるのか？",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Greece",
+      "title": "Ο Λιονέλ Μέσι έβαλε γκολ και σε γήπεδο… μπέιζμπολ (vid) - ΤΑ ΝΕΑ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkpCOFhyVHZselZwWFFHRWJjWFJzUUlHMG52eTRxWjhId2xxbVFPNDdSSnlCN215QldWRmdUU3hXYTZ0WlNiU0xYZEEwWWRmQm1hZmpoaUJnaHdGekpoc2gwMUVxNmhnbTJMMTd4NC1KUWRPbXd4NVI1V0JBMTBwTHNOemxxOXlFR3l3MkhZUlExOF9IdnZ0QloxRVdYX09TeVdn0gGoAUFVX3lxTFBOQjE3dWZMdjlYOVV0RFc5TnJkVW1xcFFsdHZwR0NwMk9SWGtCNGYtTjBaX0FFT0ExV3hHNTNaODJqMU1nOUhxMUxDMWEtcWxSV1RjeGtrV1BzbGUyNXJCQVJPTm5yVjZ2WjhfeWZ5aGdjR1JQMlZrZmpnVzNkRmdtR0ZwWFVEMlZIVWdwaUpuV3BZYU5BbDdoaUFpRFpzSV95MWNOdk02Zg?oc=5",
+      "date": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "メッシが野球場でゴール",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Lionel Messi"
+      ]
+    },
+    {
+      "source": "GNews:Serbia",
+      "title": "BEJZBOL TIKET: Četiri para koja daju odličnu ukupnu kvotu! - Novosti",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcEZaNVZ3bHlsZFZka0R6MUVRS3Y0V3F0QVRENWctM1ZsUE4wMDFQR2hIZndYb1l3RUt6V2hXeE9WekRVaE12ODRRRFBYbENobUNOVF9YU2xrYXlmRUYweGc0aGEyQ3hWLTJPbU1ENVM1dl9TMWRJdmlWclFLSTkxbGotUlJmX0pzdW5rN3pTaVQyVFU5NzVBc1FnRDNDMGlZLWcwSklOR0JpRGJOcjJQRUo2cVN4NEQ1d2Uxei1DQ3k3TGgyd3FlQ3NzdEkzMDByb0hveG930gHbAUFVX3lxTE5saG03anFOQWhGZ25hYW5HZVZIWmJEWlVaRnBtNDRBb0ZMUHIwZUI4ZHJrVXgwTGhWN2ZrcEUwQmlMYnh1ekR5TjdST2plZzdEVEZuT0dGM0NXZ0JHUDQwU01sYkF6X2hWT3dqTHZDSS1FVklIMFRTUUxmMzZzWVlNOTdMMzFWVnRrZF9leXljWmdNZnhURlZpVXdaY1p5MWJSdE1KYlNib0syTjJqOXZGSER2eGtCOWtldzFXdHhfZXpPQ2ExWkNXOFZxWVRiZlprdGxZMGFDd0hLaw?oc=5",
+      "date": "Wed, 08 Apr 2026 11:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "野球ベッティング予想4試合",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Serbia",
+      "title": "Pakuiao izbacuje prvi teren na stadionu Jenkija - supersport.rs",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2lHTlpoSklUX1ZtUkF4Y1hjVlE1TEVnNHlxNzZsYlMzYUx3VFY3V1RtT3Rkb0hUWnRHdVdkRTUyYnRKenlFMFVDdm5OSDJjVmMweXBNZVlXV2ZBNmhwaFh2X19ZV0dzUURyQkprd2lOLVFfN3dKaGJHMHNkaGlpYnpKNTdpSU1SVmVXSGhvNnVIVlNjQmxkMGdPLU1aRHhtR3FOakJfUQ?oc=5",
+      "date": "Wed, 08 Apr 2026 16:12:18 GMT",
+      "type": "rss",
+      "summary_ja": "パッキャオがヤンキースタジアムで始球式",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Manny Pacquiao"
+      ]
+    },
+    {
+      "source": "GNews:Slovenia",
+      "title": "Baseball klub Celje - Celje.info",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45di1tZFliV1V2c3ppTVRQUFVMNDFURGtLbkdwMzFEMzQ3ZmptMUhvQ3ViSzRlTHN1SlJ2X0RIaVJ1VklhaHhYbGFndUNPVFFRRUM1aXByM21YVnJtbFUtLVAtWFZiVGc?oc=5",
+      "date": "Sun, 21 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "セリェの野球クラブ紹介",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Slovenia",
+      "title": "Will Smith zadel odločilni home run, LA Dodgers ubranili naslov prvaka MLB - 24ur.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMVhZZ3gxRWd1emt5cDJpOWwydERkUjU3S3puejFTLS1sUmU4ZHpTWVgxSm1kcHVDSF9DQ1RLdWlUVjhfVTVkSDlWNzVWa1RISU8zX2ZIRkE5Ni0xbDhLdUpIZ0wwYklBZVZ2aENBQ3VLWGZkS2VjN0s4a05hWTRSaHJERVRzUTFncmFpS3NSQldhUEFldzZEU1pXdVFNbEszbGc?oc=5",
+      "date": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ウィル・スミスの決勝HRでドジャースMLB連覇",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Will Smith"
+      ]
+    },
+    {
+      "source": "GNews:Malta",
+      "title": "Mediterranean Baseball Softball Union officially established in Malta - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObm1XamhZcUdYeG5VYmtLUVBHZFlqQjR1dnNKYzE2SzNSaWlBRGYteGEwNnR0X2tsaF9URG5zUVF0WDlWOEQzTjFuRUQ5MzM3U3d0WHB2UzVDNkhlMGdNWktwajgyYXh6Sjhwc3BEN0xRbEdKbGE1enVzYkxUSHdGYXFGTGVPajhxdFhtcW9jWExtUUNOVDVNZklaZkczLTA?oc=5",
+      "date": "Sun, 15 Feb 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "地中海野球ソフトボール連合がマルタで正式設立",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Malta",
+      "title": "Raft River (Malta, ID) High School Sports - Football, Basketball, Baseball, Softball, Volleyball, and more - MaxPreps.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95OUtXbG5lZkdCNUprTzR6cUhwWXBFZ2hEdkFUM3Z0a0xEN2hOTjdqY0JHX0VJNE9IX0dtZlZvZ2ozT3Jmelh1V1Nua1lHdTdDbWxiajZfTXItbVlra0ZkUG5RWQ?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "米アイダホ州マルタの高校スポーツ情報",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:San Marino",
+      "title": "Foggia Red Black, al via la stagione in Serie B: esordio a San Marino tra sacrifici e ambizioni - l'Immediato",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc25xaVJmVEd2M2xDcVluZHROQlN1by1Gd21tcXlRQjBVZFVNOXdyTzZ1SEVyVHhRWWRUTnUzQWFHUF9UbnI2SHQ2cmlhaF9hcC1yWUpKejVzOGp2czU3ejdQRU9YVjNzV0dDazlfNEI2U0dXZzU0OG1KOVp6ZmNIR3dHd2NiSXRpUDNESWZNSTFSVTNZMFdpemJPZWVHMGhrSkJOTnhHaEhUWjdwb2U3QjQwbHIybTBZVnVjWi00Zzl0X0ZOMy1ES29nNA?oc=5",
+      "date": "Thu, 09 Apr 2026 08:04:15 GMT",
+      "type": "rss",
+      "summary_ja": "フォッジャがセリエBをサンマリノで開幕",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:San Marino",
+      "title": "San Marino Baseball, i campioni d’Italia a caccia del bis: domani il debutto contro Macerata - GiornaleSM",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2R0Tzhpa0ZESFRWUkJtUDVTTzVnNVZiSXFPQ0JCZlVVSjJGdjk2VmRDUnAxZmh5bjBnaUVtYmxYUHl0bVRfZEVlTWhxemZTQWhpU0E0Qkp5X0NRZXlJd2dCUFFhWFpYcC1kZkl0S2NWbXlWc1dUMnFVVDdJaGRqekFGQi1yQ21nc2FfS09qSDA1MDZOUkRRREp1d3dIdmxfd0ZUdUdxby1Kc016cVJMS1FkVQ?oc=5",
+      "date": "Thu, 09 Apr 2026 10:39:35 GMT",
+      "type": "rss",
+      "summary_ja": "サンマリノ野球がイタリア王者として連覇目指し開幕",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Turkey",
+      "title": "Maver Kemal Arsoy Ortaokulu Beyzbol’da Türkiye Finalleri’nde - Afyon Türkeli Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3JlbExwMDhqR3ZFOWsySzB5MnRFUGRBUmllcVVLbjA1eXpWeC1TX3dWYkxvZG9LVURRbjhGWnR3LWpLVzRaOVhCQWhPUzZkSy0tMExNMEpWVGRaZmxCd0hHalBwSzRBM2ZsY0hTSVlXUm11UFBxc09IVWhkeTIweHZFakluZXV4djFQR0g1MnRHbXozUG1oTWUzRGtabkpOUFM2aA?oc=5",
+      "date": "Mon, 30 Mar 2026 20:16:00 GMT",
+      "type": "rss",
+      "summary_ja": "トルコの中学校が野球全国大会出場",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Turkey",
+      "title": "Maver Kemal Arsoy Ortaokulu beyzbol takımından Türkiye finalleri başarısı - Afyon Ana Haber",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk1IVHVqM01LLTFaQXlJaEhtX28wMHI0Q05jbDY2QTFFak1lYnM1SVRGcUd5MU1RNDl4djNfeTlsWmxZUnVCTHJPc04yN1ZiTmZzUW40NWxYM0VuN0ZkN0JWMHpsLTlJQVZ2X0RJYmR1bVZVY19MVHhDTlJCb2xlRmozbE5SRVVxa2N4MjZQVXcxYkxwX09mQldXYTRiWUFUSmh3UGU1YkFNd9IBrwFBVV95cUxOa29vNng4dlY5OVhQcmRXbzQxOFVjNlNCVmpRbm9ZZjF1V0s1UjFBTUFpSkd2VVgyR3A1T3BuQl93Q2FKWmZodnBMZ2Ywc2RxME9kelVuQ3dLQzRsbWU4RXpwbWVYeDhIVWJiYWJVdXJjcm1YOGI0WGR4WlJtSHlDdDR4bHg0bEF0WUFWQi1GeGlPVDVxVXcyel9KTElPV2ZRb2l0ZnFlTW1VUnJJbHlv?oc=5",
+      "date": "Tue, 31 Mar 2026 09:12:00 GMT",
+      "type": "rss",
+      "summary_ja": "トルコの中学校野球チームが全国大会で成功",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Cyprus",
+      "title": "Έναρξη προπώλησης για το Κύπρος-Γερμανία - cyprusbasket.net",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTZRT2VVXzBfcWhCaFVJVkpUOElsb3NEaDJXX3p5N2hOVHpnZC1YbDhIM1pCVWlUVTl4UmJQckc1RkZmaVJScE9ScGFJZXM4emQ5YjZ5ODVfbFl5MmJnRTBISWFNOUJGVU50WU9XQy1YV0YzSUtmUVVGdWd6eFlUZWFDR2FqcmFM?oc=5",
+      "date": "Tue, 21 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "キプロス対ドイツのバスケ前売り開始",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Cyprus",
+      "title": "Έρχονται Κύπρο σπουδαίοι αθλητές στο Ευρωπαϊκό Κύπελλο Ρίψεων - Action In Sports",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVU1VcDU5Q0JkVVhkSlRIN3poTGRHSlFQV2E4WnZLVWdGSnRNbVlGWHNDdFFkLWVzYlJxVzVrbThpbVFzSEZ6VUxwcFJBWDZ4bjlVaTRpY1RQZ0c5WktCU005N1luZFdRVWp6YTF5N0E0Y01QMWZHTG9MUXlXMGdablpTVV9ibUJycmdUcHVZdGFhTE01Q0ZXSUo4MmI?oc=5",
+      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "キプロスで欧州投擲カップ開催",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Sweden",
+      "title": "Baseboll: Här uppstår total förvirring i MLB-finalen – efter märkliga bilderna - SVT Nyheter",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamtab0hLTE0tN3A1T002ZkpSYnd4TnQ5cUN1OFRJX2lUSTBIU3JkUzB6Nzc2M2V6MlpLNUlpbUVxYVFHYzRHdUUybVR6ODZiVE1uNnc3MEN1RklzUDlKLXppZnprd2hmQWs4Zk5SQWxiMUZ2MUNoMlJuZ3hCVGNSdjRXbEZ0WGljWnVwR2paNmo5eXNoOXlXeFhHc3RiN2dqWnc?oc=5",
+      "date": "Sat, 01 Nov 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "MLBファイナルで混乱が発生した珍場面",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Sweden",
+      "title": "Fångad av baseboll: ”Blir förälskad i din utveckling” - Sydsvenskan",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHdQdERsTjk3VGlaV3FQNkY4UUVYVVZTNEM3ZUV4YzhxT1FlNHZhTTVVV3ZTV09QbUh1ZUJGaTR5NnFpUjFLeUlrOHVIblcydW9Jb0VlcUF5TkphY0E4ZE96aUVXNEkzNVZzV3BMeHZxcjRvWFVwM0phaGVQWFNDMEhyZzFWRW10c1FKWg?oc=5",
+      "date": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "スウェーデンの野球愛好家の成長物語",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Denmark",
+      "title": "Sport, Idrett | En tredjedel av landslaget kommer fra Sola - Solabladet",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblFmNHVSVHl1OGJFOG9Kek1uR1dnTm1POG5KTEhzSGVVT21DUTBiVUR6RWh1Q245T2NEMkl6OXNYM0swOHI4UGVfZmxUTEV0MUN5Y2cySjZEXzVQZnUzdWV6NjRraEpPSnhNcnB5RnZBTFBTUlBMSFU5Tmw3QUd2WHBzU1htWTRRRUxJ?oc=5",
+      "date": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ソラ出身選手がノルウェー代表の3分の1",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Denmark",
+      "title": "AaFK-keeperen glemmer ikke det som skjedde da han stoppet legenden Henry på trening - Stavanger Aftenblad",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWllTQTIxWkZjSnRDSy0yc2pxMGpleE1kWllLbGpZWmxaRkVHWUszcDdvOWdFVVR2NzFSaHlPUGpWZ3VUZXZUNGNfZHQyemVzb0FSSTBKZUhpZnRpS1VfMFByQkV1dkxJQ0k4dUJBeHpYMGdnaDFtTV9mb1llOXNJN05WNE00UU5hSUtnV015eVo2cWR2SzBlci1ZYlFXOThGZEFfOExVNktUd0huemJHc2Y0cGlWa1oyS1MyWHpwZkw3QXhl?oc=5",
+      "date": "Wed, 03 Feb 2021 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "AaFKのGKがアンリとの練習を回想",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Henry"
+      ]
+    },
+    {
+      "source": "GNews:Norway",
+      "title": "Johannes (15) og kompisene skal representere Norge i Sveits: – Solaspillerne er best i landet - Solabladet",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR29RMWUyQXl1NmVZNVFYSmtPT2E2Q0JsRjA3ck0yV0w5TGIwSHBHbXpTblpuY1BmSkZ5ajN4SExxTjRpTG9LSml4T0prOWJEOEE2WEFsM3RvOUliLTQ5em14Q0RFcUotRFJsQ3c1emRpOE91NU5DWHZodzZHeTQ0QWNERld5UkI3Y0hJam1ITVJYWDBjWlNMZXZ2eTVCMXh1b0dyLUdMcmFRT3hBMDlNRmtNa194X0pCcXVIM1hybEVwMWQzX1NTWg?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ノルウェーの15歳らがスイスの大会に出場",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Norway",
+      "title": "Dette kan du finne på i Trondheim i helga - trdby.adressa.no",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTdna0N4U0R4QVdoa0t6SUZTTVpkWFhGblpjYUJSbGIxUFNzbkNTWFVXX2kwbTN1bWxrSnl1czJYTjVOYmwwLXEwbTA3aUJQb25qVnhxd1lWMEx1Y3BURE53T21yZ3NnTmxtTkZ2ZUZTYXN5Y1dDc1MweUdwQi1xQTg5NkVnSlp0UHhkVg?oc=5",
+      "date": "Fri, 08 Aug 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "トロンハイムの週末イベント情報",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Finland",
+      "title": "Konsta Kurikka vie suomalaiset herkut Kanadaan: ”Tuli vihreää valoa” - Iltalehti",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTSDhuakxKMHB6dUh2NDdUdkVFb0RyUXFtQTdNbDZPdUNCdXNwbVExLTlFcXpuQktCQmZmaDAwbjJhNTlTTjdwWUZGSGJ6dXNHN0Y2X04wYVdiWjltRzBUNFB5elM4M2lEbUZQRHZxaTZmQ0lrWWxYMU1uYTBiQQ?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "クリッカがフィンランド食品をカナダに紹介",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Konsta Kurikka"
+      ]
+    },
+    {
+      "source": "GNews:Finland",
+      "title": "\"Matka on ollut hieno\" – Konsta Kurikka haki Kuortaneen maajoukkueleiriltä vauhtia baseball-unelmiensa tavoitteluun - Ilkka-Pohjalainen",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0hPUEo3MG40dkhFUmJiMkdBNFpaN3ZDekJfOXVjWkNnWFRUTnNCSUJGSkZTNVY5Ukc5bGRaLVV4Sk50aFA3Y0tIc2tSeFk4SDlPc1dDUTZxWXdLQ0EzcDlTdEg4bTJLMndFVEM4NFl3QlVfcUpWRmtCTm1wUkt3Wk1ZU2NITS14emJ2ZGoxbl96WlBtdXc?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "クリッカが代表合宿で野球の夢を追う",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Konsta Kurikka"
+      ]
+    },
+    {
+      "source": "GNews:Iceland",
+      "title": "Island Tested, Series Secured - Azusa Pacific University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3YxRjI2TkRIQnA4YldEOXRFNUZScUtQM3VObk5sc000T2dJN3ZvUFotcEtCdUREMTJMMmVFbFI3alpETHlyTnVHMERJMThuTUFoVG9iSV80dFpqdUJFeEx6UjlNVHBZNG1UNkcwVEVQaFJ1UXZ3eGp6ZlhLc0d3SzFYODZyR2lhV3c?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "アズサ・パシフィック大がシリーズ勝利確定",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Iceland",
+      "title": "Little League District 24 All-Star 11s baseball: Unbeaten Snugs edge Great Kills in extra innings; Mid-Island - SILive.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVGstUFdKU1pKOHZOYV9sdHkxLUZUejY1a2E4cF9SaThNLWJvWklmX1Q0WERieHFvTXJjWkRaV01SSGNkaEZBRk9ZTEZVVjRESWdORlFiUXI0SmFPYWN4bUo4TVNOZ2RuLWZxNTZ4c1YwdVBQRE1TOW8tTEdPd2ZwRmFlczhydlRHcjk3NEJsRkRnNnZmbmdOdlY1S2dvNmo2S3F6bzBqQmJuNzV3ZWFobUJsb1djendEZ1NSd3hVQlBRcC1uUVlmTTU3T09qWUltQm9JXzZ2ekRtUFJfaWMxT25zcGQyVXV5R08wVFUwbFdIRVhFblRNWdIBjAJBVV95cUxOUjhtRjNWbUt0RklFcVRaTEJ0SVVCY0pQeU04aWhwY2VEUGZYRkQ1WUtzOGhBOVd2Ml9yaTR0LWs3SzlHc0l0NGVFTFpMWHptVEVlQVlOWnB2V0NrdHFtbk5oNHdjS3JveHlYWW1ETUpGazlfbFMyVENlQW9rNlVRdTRLVkVMTkQ2UmFKNU4zY3paS3JodENhdTFOVDlMWWY3YWNKejZLeGlVQ0t2WktzN3NrMkVlYjRnS1IybG52R2F6cGptVVQ0SFFiMkJXYXV5a01XdjB4UmY0NkFlaE9Uejhteko3Q0xHMFdvSVhZWEJjT2lVdTFkbFJmVXRLdjF0U2xWTXlpYU45Z1RZ?oc=5",
+      "date": "Sun, 29 Jun 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "リトルリーグ地区オールスター野球の試合結果",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Czech",
+      "title": "GALERIE: Historická medaile pro Česko! Baseballisté skolili obhájce a mají evropský bronz| FOTO 2 - iSport.cz",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUUVyaV81TE9LZk10VC00ZFk3Y2hKanRBb0FjNkMwb1JIeHM4Ui1kODNQaXBjQVF4WUFxVHlJUGZYR1JvcFloaFBrTWg4MEhFV2xtbUpZYi1yQ0V4TjBDODZCWEMzYjFlRll2NDM5VGxtclhCN0FBWkx4OVRYQ2pVMXFUV3REem9aN2FlODV0ajdJOUlLcTBINGpNTlVqMkJFbmk0LWxsNWk5V3NLMWhSMFJjaWFVZTd1UWw3ZUZWYWxPM2luampsNnAwQWlzU3ZITW5FTVVlZFJUTWdQaEp1NnBZYTB5OHZwLU5z?oc=5",
+      "date": "Wed, 08 Apr 2026 15:11:53 GMT",
+      "type": "rss",
+      "summary_ja": "チェコが欧州選手権で歴史的銅メダル獲得",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Czech",
+      "title": "Baseballisté byli blízko senzaci, s WBC se ale rozloučili porážkou s Japonskem - ČT sport",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnVMWjNKdjN0NEE5T3dreENKMm01cTVoaHJiMUUzS3l5bUpBekU0bXQtNXVkRi1nYTRhMi1FWS15Sk95a0dOZ1BWS2c4RXZsVUNTRGhYTTdLZ1NOMkNzRFhJazFUVkNRYnozWEY3WXF0bTBrWE9JdHN6UmRaZ00ySE81bGxRcG1TSHlEaDlpOW4xRmNQV0hTRURGamp1ZXNLS2dz?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "チェコがWBCで日本に惜敗し敗退",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Austria",
+      "title": "Der Baseball-Traum: Ein Referee aus Österreich ist im WM-Einsatz - Kurier",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEhiWGZXcm82YTFfRXdxQmpNQkNPbnBYT3NlRGJIbElOYnRVeFRqRVZUbFVyQzJtcmFybjBxaEtaSUViQ1RuR0Jnc2VkeTVjMjFyR2d2Zkc2dHZ4UjE1SGpqc1Jyd3dDNXFhT1JOSTVSX2s3ZEQzQS0xQm42aFV1Y2hnN0FnMmF3ZVFTbFpNbkNLTmhnSF9MQlNMRWRBeUQzWHhfMXdabVhUcm9xQnJaWHBhM1RUZHltekE?oc=5",
+      "date": "Wed, 04 Mar 2026 09:00:28 GMT",
+      "type": "rss",
+      "summary_ja": "オーストリアの審判がWBCで活躍",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Austria",
+      "title": "Baseball: Heimische Talente schnuppern MLB-Luft - sport.ORF.at",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjamhNdlBuZ25McHlwU1dWazVGRTdmODhxQk12ZlJFVzNNTWNsSWJnYnk5SjJQMUpYcjJPVW1vZE1zSXNFZUlheE5QU2YxZw?oc=5",
+      "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "オーストリアの若手がMLB体験プログラムに参加",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Poland",
+      "title": "ESPN wraca na polski rynek. Decyzja Disneya - wirtualnemedia.pl",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmJrdEVsUFVnZXJLcHVKUjdtTDF5OWJ0OG1WNkMwdDBhRlJTSk1tSFdEd2ZiaEkzMzk3R0pWSF9HREJsZjNpQVNCeGw4aXpmU3FTY3NDVXBjWFBGbkFsWTJZQnVOU0Y0X053YXZBYUxrUGs3aG9zMGl5a2YwRlJFMy10aEQxZUJsOGowU0dzQ3ppQ2xIX1RfNlp4THVPSkM4S2dTem03aDU3N2VUUFBlYUZnRmV1TWM?oc=5",
+      "date": "Wed, 08 Apr 2026 14:54:15 GMT",
+      "type": "rss",
+      "summary_ja": "ESPNがポーランド市場に復帰",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Poland",
+      "title": "MLB.TV trafiło do Prime Video w Polsce. Jaka cena? - satkurier.pl",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ19ZY05vdmFabDYxV3lYNi14a003OHVyMWxkaGdlVU82U19PSFRPeVJLNG02MXZMU0dldjluTEVacl83aDNmUVVwT0ZIeGwyZko5Ylo3MXZjd2dfQjNCd045TjNmZFpndFpFMFFDSTU0cC1DclAtRWlaVW5CalNJRG5rVDZPeVloeEpXUTJR?oc=5",
+      "date": "Tue, 07 Apr 2026 13:05:35 GMT",
+      "type": "rss",
+      "summary_ja": "MLB.TVがポーランドのPrime Videoに登場",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Hungary",
+      "title": "Sporttörténelem: Magyar baseballjátékos kötött profi szerződést - 24.hu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblQ1Qmo3R1BPRUVPLVFYaVpFT0UyYzNJOVhLaU1JWmt5bUZjYWhySzlzZ3gydl83Rk1QQU1lUFVtc252c1AzaE1VOWhRQjFreFBRdHoxcFA1M2ZDbHdtUUsyRzdPMzUwRVotbmRtQW9ObHdwZ1VJSUFxb2lLTXpZU2MzM3U0SnJIR3pueg?oc=5",
+      "date": "Mon, 25 Aug 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ハンガリー人選手が初のプロ契約を締結",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Hungary",
+      "title": "Mindent megtesz az álmáért a 16 éves magyar baseball-tehetség, aki elsőként kapott MLB-szerződést - Eurosport",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZE1CaHByOWxBSVpSUF90N1BBdWh2VWZpRGx3N2ZsUjhRNTYweVlwcU0yNEl0ZHY4TzU1VU4xTkgtXzFiZ1F6ZUZCN3ozbEVfaGpyeG9faGt5akg0YkNtcHJhNklXRWVMLUhJb1hER2ZmRkw2NlJkbE0tdTExWFlZc2RuZzFRQUVmYnhsRzNvSUt5TFpKZW9WSVRiYVM5TXRw?oc=5",
+      "date": "Fri, 10 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "16歳のハンガリー人がMLB契約を獲得した初の選手",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Slovakia",
+      "title": "Manchester City proti Realu a slovenské basketbalistky. Športový program na dnes (17. marec) - SPORTNET",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeW5ya3h1blBMRXdmMTNJd2J5Y0dCYTF5alVONUpTRXlXdFp1c2hZcWFCdHRwOENRSm1kWmF2NEUxX202SVlzYkp4ZlY4RTg0Q1dSd0ZuQklNSUpLN2hreHhZOWpUMVAzb0VDZVFRakZkcGRqZkVqZWRZTko3UzBMbzlkWQ?oc=5",
+      "date": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "スロバキアのスポーツ日程まとめ",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Slovakia",
+      "title": "Posledná sezóna? Tomáš Biskorovajný verí, že Angels môžu vrátiť titul do Trnavy - Trnavský Hlas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTN6Yl9HenZsOVVfWEw4YUpCM0JVNG54YVBsLTRwYXRhSmZ4dEVfSGdOOUF0SnVFbWx0LW9NZk5oalk0LThPT2dvcC1DOEM2WGhrUGFpVHRsakR3eHR0ZUdSRnZsbE1mT0JTT1JlLTJhRTMwRzdUWG9paGFYMTlqNEliRlpXTE9LQmt0Wk5aNDIyTzRIV1FlbzJ5bWtYMjQ5UURUN0k2QnFHd2Q0ZDdNNS0ycUhsQQ?oc=5",
+      "date": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "エンジェルスの最終シーズンでトルナヴァに優勝を",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Tomáš Biskorovajný"
+      ]
+    },
+    {
+      "source": "GNews:Romania",
+      "title": "Meciul de pe Netflix pe care l-au așteptat milioane de oameni din întreaga lume. Și românii s-au uitat, iar partida încă este pe platformă - Fanatik.ro",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVUdmT1VfOHRlRHBfNTRPMl9QRzIweUxoTG9MRW1FLWdSZVhhb3Y4dElnb2NwWGQ2M2gyY19QVlBOanpDQ0lhSFNuTHdNMGhkOXh3Z1BpcDU5YmR3Rjdib0kzeXJDX0trVjRLSDJRNEl1YU1nSmZ5dk50cmNxNFBSLW9uTFBaVk9xSHJMS0lZR3BZZEo4Q1FaMjVpcnN6dzNOUGZROE5wVUNqVXgwbnhHODF5RndOTHZJU085UGpWY0hyZXVPdDZuWjVzaU9BSlZaX09LR3pCMmNGRFZQYzRpYS1Ia0MwTnViMmNkTjJmV1l1Q2lBbXppWkd4RU0?oc=5",
+      "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "Netflixの注目スポーツ中継をルーマニアでも視聴",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Romania",
+      "title": "Euro 2025 la Baseball5! Care e obiectivul României la competiția din Lituania - Prosport",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXptU2lrUkJJTGM3UWh5T19kZ0FmV08zckdwT0hwclNCLTdKM08xUzliWFFlVmNtZVZHYlM3dzNzVGZJN3ExYjRpY3VmNTBtNW1NZE1XcV80X3p5czltSmgyTXdUejBJYzVWX0ZNN2tyWHZQME0xVFVHek5EYmF3Y1FmdmVoX0RCaThOd3lJWkNGcDg3X1pWX3RrVlkyR0ZXWENrLXBvcFpINWFlWjBPQWN2bUtLSlpBY1hoQTZWUXE?oc=5",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ルーマニアがリトアニアのBaseball5欧州大会に出場",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Lithuania",
+      "title": "Panevėžys ruošiasi „EuroBaseball5 2025“ Europos čempionatui - Sekunde.lt",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3poXzNQdDBJZ0lteFdqalBVMzNaRzRtTEpPTVc0N3dIazZVMXVYb1RzX2VZQmgxbmE4MTByRWs2WTJfeFloUnJ2OGlDQ191bzFMMTd3SzVURS03NnNVYlRDQ0hud0U5dG5IU1ZoTWc3MVJCMG9Jc295ODFKV01fajJNYUphVV9QR2ViemRKZ3hQTXc1eDE1S01B0gGiAUFVX3lxTE9kVDZCenhaTGVXV3hvcFBPY3BEWFM0SUJES0MzQ1dINVNsUzFCTzRvcFVIZENFMnRiWUVrRXZtY2RqN0pvRnhKckctZ3E3UHUzT0VhSVJMS0dxWk93LWtKRUg1SzlEQ1k2enI0aU1OZEp1OWEwVFdmVFJmUTRCTDkzVGNSZzk0TUlOa1dISjFjdENBTUVLWDJoQV94VzZlbWFUQQ?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "パネヴェジースがBaseball5欧州選手権を準備中",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Lithuania",
+      "title": "Lietuvos beisbolo-5 rinktinė be pralaimėjimų pasiekė Europos čempionato pusfinalį Panevėžyje - tv3.lt",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMlJwYlhtMzVwWGtFdjdhc0FoQ0ZkLVB2eUZJWjlOSklBblVjMlp2M2hBRlZjUll6X2tpS0JjSWxZYll5VkhiQmgwSmJmU3AwYllFd21xQU1FQXI4d0FDVS16N1Bsa21wdjcxU1pQdk9xREJsMlhKZ19fa2IzU20zVnJOcllYQXhXV2dfVzF3aVdzZFpPdHc1TUphUURKZlZqemJEQjJoT3NJYzVJY3FWY3A4eVFHX25jTENVd1FKcHBlU0M1YUpUOFVDdVlNSkJScUNz?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "リトアニアがBaseball5欧州選手権で無敗で準決勝進出",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Estonia",
+      "title": "VIDEO | Pesapalli imelaps säras oma MLB debüüdil - sport | ERR",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTJYcWVCOWhreW9LcEpob01jZFdyZUNCdFlwR0h0SVZ4cDVSQ09OYTRhM09wOUdFRmxnUHE3SUlMWm9taHRYOFpYYVZ2Y2pkbkk1NFhLY2lSUUVMNzFlOHNWbzAwV0EyYWQxN2F1NDBlLUVuX0xvWWdNYkwycllncGd5Qms?oc=5",
+      "date": "Sat, 04 Apr 2026 13:32:00 GMT",
+      "type": "rss",
+      "summary_ja": "エストニアのペサパッリ選手がMLBデビュー",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Estonia",
+      "title": "Kaks Kanada eestlast mängivad Eesti pesapalli koondises - Estonian World Review",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFBFaFhaTXhFMmZUX3ljREs0aVNwa3ZJbVFGLTBwMElNdlA2WkpSd3ljTHJBMlRpSzlvM2EybWFxaUU4QVFaT3RLN2VFNWFRWmtmc2podXRJb3NNVFZ1aklacm4xaHVfeVJ1OTFZSzcwVk53X0JLaFFkLUdPQzhOX1dEWXdDX2dZTzRkZ2JkMWJlTlXSAZoBQVVfeXFMTmxLby1LMEszNmZ3dWN6UEVSZnlGVnU3UGlHc0E0WGt1MEdQUkdUSGFPRHVxQ1I1ZzMyZVZLeVZsS0dCWVNicHF2MVZjZ1lOT0NRd1JSTEF0elh4bGRHUUNLYXdPaEpOcHFNYlVpd2tvN3E3VVNjc2FTTmNvLUhtS1lWTXVBUjkxMVFLTDJmMVh6VUlIcE9lX2g1QQ?oc=5",
+      "date": "Sun, 07 Jun 2015 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "カナダ在住エストニア人2名がペサパッリ代表入り",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Russia",
+      "title": "В Федерации бейсбола и софтбола России оценили шансы сборной отобраться на Олимпиаду‑2028 - Матч ТВ",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeU42MklOU0xMYWRaTXZocnBVWGtUaHBWR09tYTBQYWJ0Y1RMNFAwWllKX1hWUm4wRmFXelB0Z052QzhUZVlueko4MllsRDJmMmNzUlktOGE2SWprQXUyUDdrUGlXUFp3dlJDQ19KdEFPZlNRWHl5aWxEMHNoem1HNVRmMlE2blU1bTQxMVhoc3ZCMW50d2k4VWlQczBfMEYxcnkzeGFwYkMtc1hhTVpGV0xfcUpxSm1vNGY2azhMZEZlS1Q2a1lLYlU2dHV0NlhrODhCVUZqNFZ1WjdfcF9jeg?oc=5",
+      "date": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ロシア野球連盟が2028五輪出場の可能性を評価",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Russia",
+      "title": "Зачем студентам играть в бейсбол-5 - Агентство социальной информации",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUtQbThZNl9YLTJMQ1RBN3k3dFBBbWtnd2N0V1VhOVZ3X2I2R3BqYlpwMVpOVC1HSWJOV2dsVmZkM3Y5MGtiYTlyNkhQOTdnMXdESjhlNGdKWFJkcVZ1UjBnVG56RmUwRE9GQzZqejJMdjlveUlCV3ZrajFSdjZCU2doSkN4T19YQmJJOFdtZWxSU0l5bHRQMFNycmZKMlRkeWx3NFhHcXBScjFseV80NDRMdHFIWXljdmc?oc=5",
+      "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "学生向けBaseball5の意義を紹介",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Belarus",
+      "title": "Впервые в истории чемпионом мира по бейсболу стала сборная Венесуэлы - Sport5.by",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTZxbUlhYTlvV2xNRzR2YTZHRXFzVmxuVHdVWXNEOEhXdmN5ZFNEMEdaSnBqNGwyajVEZEltckg2TG00VTBRRGJmaFIyQ242V3hUSFdRZEtHUHM5eEtYV3AyTFVwWTdHQTc4UG9FazVsSVE0bDhmXzJzenZ2OHhBMXhWNjlTem1uWmZlVDh2dWRMMmhJdGJ4Rl9DUDkyRk1SdjhYdlNmcTUzYzJnckdj?oc=5",
+      "date": "Wed, 18 Mar 2026 08:18:29 GMT",
+      "type": "rss",
+      "summary_ja": "ベネズエラが史上初の野球世界王者に",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Belarus",
+      "title": "Российским бейсболистам до 18 лет разрешили выступать с гимном на международных соревнованиях - ФОНТАНКА.ру",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43S25ERnhNWnNFb3Q0dDBFRHh1eWFZVklxUUt1RmkwdTZVQTQ3b3R5bUFwLWZfNUFhS0N4WjNDbU5OZER2UDhIUjkyU1FlR3hDS3ZSakZUOA?oc=5",
+      "date": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ロシアU18野球代表が国歌付き国際大会出場を許可",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Ukraine",
+      "title": "Лос-Анджелес Доджерс вдруге поспіль стали чемпіонами Світової серії MLB - Sportarena.ua",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzBGYktCSXZhdWVOcGM0WnhLM05XOXlIeUdWcjB1N2hfeS1SQnN0d0tLMHg5LWFTWkFkZGdCMFJwSERGS1RROG9xeEhuVHU4bktrUHRxenNkWkxGVmJ0QmV6bTFSSGFzVU1NSWNXUmx4Z25sNkRUcUsyQWJST1VobjFHMjZMSEk3MktBNzl1UTZ5Z05GNl8zMXNZOVM4dzR3UVpzZGFBSWnSAagBQVVfeXFMUHcwRmJLQkl2YXVlTnBjNFp4SzNOVzl5SHlHVnIwdTdoX3ktUkJzdHdLSzB4OS1hU1pBZGRnQjBScEhERktUUThvcXhIblR1OG5La1B0cXpzZFpMRlZidEJlem0xUkhhc1VNTUljV1JseGdubDZEVHFLMkFiUk9VaG4xRzI2TEhJNzJLQTc5dVE2eWdORjZfMzFzWTlTOHc0d1Fac2RhQUlp?oc=5",
+      "date": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ドジャースが2年連続ワールドシリーズ制覇",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Ukraine",
+      "title": "Кропивницькі бейсболісти ввійшли до збірної України та зіграють у США - Гречка - Новини Кропивницький",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY01kdWthaDNmc2JiczlibnB0MzMteEZJdDdsd19wVWZwNlV6UnUxSzQtU085djFTbE5BYmgza3JWQVhvTllOWGsyNDRUSV9ZaVQ0NGYxMHlnQnFuVEE1Qm4tLUMzZXVqTWtVa1Z4RGhYRTJIdDQyVXEzVXA4N3htdlB3QnFVYi0xcVppQVVBTTBMZHQ0akxBbVFGZ0xZUmxIZEE?oc=5",
+      "date": "Sat, 31 May 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "クロピヴニツキーの選手がウクライナ代表入り、渡米へ",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Moldova",
+      "title": "Meci magic al japonezului Shohei Ohtani în Major League Baseball - Radio Moldova",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTFFYUjh4dmFoQVJ4cGJvZ3JVLTVVa0h3M2JDOVFVaWhaZjJIVkpHbXVpZjJDcWltWEZHem8wcXJKU1lpdnc?oc=5",
+      "date": "Sat, 18 Oct 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "大谷翔平のMLBでの活躍を報道",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Shohei Ohtani"
+      ]
+    },
+    {
+      "source": "GNews:Moldova",
+      "title": "Shelley Duvall, actrița din celebrul film The Shining, a murit la 75 de ani - RFI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTh2T3NhbnNpamZST1JqT0V6NkRxV3dhd2ZnVmdyaC13R1VMcWhZMUp1XzBOeUZRcTU3RFJWZVNmUVViNmo3R1l5eGRCekhnSjlnYnpNenRVa1NuanhNZEJEMTU1NVI3bUo5ZzItMWNkRjZ6Ti1mdjFIZGtJeGVtNlF6ekRISHJLZ0lVc3hCZU8yajNlTlZ5b21BbWJQekVHNGV6b2lXangxdkdfVk9zU1ZBS2FhTGduVnRKWjJR?oc=5",
+      "date": "Thu, 11 Jul 2024 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "女優シェリー・デュヴァルが75歳で死去",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Shelley Duvall"
+      ]
+    },
+    {
+      "source": "GNews:Azerbaijan",
+      "title": "Легенда хоккея Уэйн Гретцки примет участие в церемонии жеребьевки ЧМ-2026 - Media.az",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjRXUU4wZk1fVXRjWFpIVS01VzRYSFpYRTBtRmJLRUx3WkZSckFielBhblBwTjYwZy0tSl9yRGpJY1NwN0QwNGNXWG9VMFQ3a25nR2hXQnRtWFNRdGhrMzNRYWQ0ekNxNnFFaTI0dG9sSjZranZmNWVoc1FKV09SdHhuNWVfSVE0U1ZVejg5aTRHQTBKYWtkbzFpUUtvX2NieWc?oc=5",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "グレツキーがW杯2026抽選式に参加",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Wayne Gretzky"
+      ]
+    },
+    {
+      "source": "GNews:Azerbaijan",
+      "title": "Бейсбольные связи Америки и Японии - ShareAmerica (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQT3RkOU92dllUeDBGdzJXaFhUS0ktOXBpTUZmalVzcG45VkpuVVJCcE5mQjZGT183Znp1VWU0eU1MdEZ5bV9IeXY5ZklJWXJZM1AzamJBRjd3OXhlVGU2SVNPRHd1LXFTU3J2TjhnS05wcGEzN2xmV2JrelhfZzFvcmc5bXNoNkk4NDBmY0hVOEVPaF96UUxncm9qLVFqbXZCa1Fob2VQOGV1djkyY0JpVzlkZjByOFctSldoaFBXUHRwcEQzX0std2xqangwTUh2em83VUktd1RpNjQ4Y0xLN2RHMl9NNmw4NEZOOE9fbXkyZlY2cjdObXNpZVVSY3RNLUd4UG1RaU1FaUNWd3JsZF8yWm1XakVRQ0NXSUNIZXduSndWZkdIMnRQSHJkVTJKZkZlbEVCVDhtdw?oc=5",
+      "date": "Mon, 17 Mar 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "日米間の野球を通じた絆についての記事",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Israel",
+      "title": "יש ניצחון - ועוד אליפות: 0:5 מרשים לישראל באליפות העולם בבייסבול - ynet.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdFdTblNSSVlwSnJ2S0dxU0t4dWVMaTYtWDdVdEo3SkhoZmdUTXc5YjVUX0x2eTJQZHR1dWd6SXdtZk83RDk4aFc5emhOSlRVX24xS21tSzl6cFU?oc=5",
+      "date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "イスラエルが野球世界選手権で5-0の快勝",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Israel",
+      "title": "ישראל 6 - 7 הרפובליקה הדומיניקנית (03.08) - (בייסבול אולימפי - גברים) - 365Scores",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjN0WXBvSmJlX3dqai1NTnBKamdzTUh4SkNJam9BQWtSdGNwVjRac2w1bVpzdHdMZEl6ZEJ5UUZVTFNGaVBScmtLY0U0enhlWm43cEF5ME9rV1IzcjRyXzdxTEUzbTdBZUhoOG51QkNFLWxlSEV3c1ZYczNSd0tMZWE5SXVyd2NsZEFQYnNuTkcxd3hxck9uX1VJajMzVVVQdF9jOHdzS0RsTFN4MDhGeGJR?oc=5",
+      "date": "Wed, 17 Dec 2025 07:25:23 GMT",
+      "type": "rss",
+      "summary_ja": "五輪野球でイスラエル6-7ドミニカ共和国",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Andorra",
+      "title": "El dia que la selecció catalana de beisbol va sortir a l'ESPN - Ara Andorra",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlR1UXFrMzVfS1VuR1FaeGFUNS14MlpFVEpzblZ4U3NxU2dKa1FXR090ME9IMkpqbEVQQ2IycWdJcHJHalBkY2dZOUU1c0FnMFczb2xDNjRLZjQ4bEdTYjFTeW5VSWI2ZDlNWGR3N0Nqd21vQTFCbkRlanpUWFhUbWg0N27SAYoBQVVfeXFMTnFsaUlrX3BxV1NITHkzWVFQRk1rUHZGUWtnWFlDQ2tiOEdOWTl6VGVHcmluWmNmTUZESUJFV0I4UHVxbkprSjdTQXhjYlJCYXRHU0RTNGdRdVpWMktVc05iamFHTHhkZzdVVkNXaGUyc0VQWUhTN1NfdzNmOVR2RWtUMnRyb0NQaEpB?oc=5",
+      "date": "Sat, 18 Aug 2018 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "カタルーニャ野球代表がESPNに取り上げられた日",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Andorra",
+      "title": "El beisbol encara la violència de gènere al marge de la llei - Ara Andorra",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHJLd2hFajJ2czBuRENEUy1OcVViSUh6MHBMbG5BTEJ6b2xhWExsUEFpWkNnTVprT0xzUHpNVWwyaHZVcktOQkJIZ0tVSnVsSmc4cW5KTWgzXzJaWDhSVEVBT2pKZ2hETmJySHVjaWd5UzkzbWRQUWxfMTdSRF9OUFdn0gGHAUFVX3lxTE1ub0U5aHlQd1RHT2Q2NWEycE5BSm9wQUNFMEQxNEpsRHRQS2hlcjI5TFAtTWFWbnlNQ0xjOVlzelduTmhfdEFoaks4RnVTTEFRQTdRLW1pR1hJemNHcjdhdGowclNsQXVwUXhGY1lGSXphR2JtV3JCQ2dRbnN3dmRSLVRhamZFdw?oc=5",
+      "date": "Sun, 02 Apr 2017 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "野球界がジェンダー暴力問題に取り組む",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "source": "GNews:Liechtenstein",
+      "title": "Denmark U19 6 - 1 Liechtenstein U19 (25.03): Spielbericht, Statistiken, Aufstellungen & H2H - 365Scores",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFZzSWFQMWR1VEhiNVhlRGN4LTFsZXlSU2kwNTVXM2lLQ0JURGRZWG9TWnFPUW54Y1QwbFpaOXZwR2x2aWUwNXhwSVRnNHZ1NG5oN1BCOXpaN2tyTkdmM1JqXzlPOVkyci1MSkVZMUk1d3VQSHhWSVBRVEdseXlLV2xNU0t5d1lQcjF0czF0OUxxRHVwbkR5cEdfWTFINzBGNzg0QlozZ3pycGUyT2I5eDNqa29mU2R1?oc=5",
+      "date": "Wed, 08 Apr 2026 05:44:04 GMT",
+      "type": "rss",
+      "summary_ja": "U19サッカー：デンマーク6-1リヒテンシュタイン",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Liechtenstein",
+      "title": "Tansania - Liechtenstein Live Stream | Jetzt Anmelden | DAZN DE - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXFqWWxQc0pBMXRJdDE5cHZ2RWQ4dkg1VXNUc3RkV2JqSlFMcEdWR3NCTnhzZmdxcTctQmFzaDZpeDlwYUdFN1lXZTdqQ3ZFTDlNZE9NcVV2MVNYUkktTlRjeUVtaFNUVjF4b3JERDc4aFZvMU5KVmVTblpzX3dJVlloZlVEYWRuVEhRYg?oc=5",
+      "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "タンザニア対リヒテンシュタインのライブ配信案内",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "source": "GNews:Monaco",
+      "title": "L'AS Pietrosella et le Monaco United de Marco Simone, main dans la main pour faire grandir le football féminin - francebleu.fr",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQXF2RnpTREJTVFZPMDJmbVM3SVB1RFF6OWRPQkQwcmxsWktUS1VWTkJyOXR1ck1nNHNSdkRVdVFBQTVCcTk0Z21IeXdFdHFGWml2Zmc3bVdaMjdvbFdIeXZuOWZVckdQM3ZzbFlSczhkb1RqT3g0TnVHaFFFWjFPLWZxMjhGQVd0TER6UzZiUWRkYnlpSWZzOFN0NE8yVkxjZ2N3eGkxUER0Y3FteDlFc1VUT1Q4NHpYV0dSczJyNUZJSVhKUzVHLUVSSmN4cTQ2TTU3elU1b2M3MFJOTi1KTXQzdmNsV3NwQ0gwSzliaGUxOG1GVWxIZHZMVEdzdUlGekE?oc=5",
+      "date": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "モナコUと女子サッカー育成で提携",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Marco Simone"
+      ]
+    },
+    {
+      "source": "GNews:Monaco",
+      "title": "L'AS Monaco a participé à la Princess of Monaco Cup 2025 - AS Monaco",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWlBbTZvUTNyNHdfWWhTSTF2NHV5bjdDdTlNc0hXbFFReFE2UnRzeENRSm9QS3puOXdZMU5IejBNOGtuLXpQUmFJOWl5M1VxRzNNUExRSUtXODJHUVpEb00zZFZfdmVnbDdwTFM2VklkYS04UmRoTmV3MF9WQzQ1c2RfcXA5UDJUTnZqY1VoN2UtZw?oc=5",
+      "date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "type": "rss",
+      "summary_ja": "ASモナコがプリンセス・オブ・モナコ杯に参加",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "MLB The Show 26 já está disponível - Record",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbS1IN052NmJDN3B4UVJZb29McGpQLVlfRzh3dTBQNGY3aFFOVTdSRGVlMlJSaUY2ZENBcEE2a3NkbFpLX3FXTUc4ekFOS21SYXItNXBpSVFwVmxhU2FVZmNZVk1SMzAyV2l2LXJQYXhuV21objJzbVVweGZvQzYzSGotRFLSAX9BVV95cUxQX0ZZRFZySXY3THBsc1QxTTB3VDhtbE9aeU8xaW1Od2E2Sk4wbzE4MUduZkFmSmpzOUppVHRfTkhZMUhlTm04ZHpmRW1DWl9scUloVW4wQjRTWS1LdjJ1VEllUHJqc1ZMaXdrWWNGc2FoUXpFV29UczRFMUIxNE1R?oc=5",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "source": "Player:Aaron Judge",
+      "type": "player_search",
+      "summary_ja": "MLB The Show 26発売開始",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Aaron Judge"
+      ]
+    },
+    {
+      "title": "A New Frame of Mind? Yankees' Strong Start Due to 'Intensity' That's Felt Overdue - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTUpDUHV2S2JKOXRXbVVRdGp1S0ZaOGg3MmdsYS1HS3htdkFWeFJGWnZQZ2Z0R0pQNEhVeW45VWJ5WVBIRllBc2Nfckgzbl9pSWpKOHk0dEFsay1yTWdjX251R09jYzI0bXpYanRMRjRtdTVLaTZ6cFYyV3NTampXd0NMdUtLeDllUjZuZ3p2dmYxTnRmcThudV9n0gGaAUFVX3lxTE10Nm1KMmozRnc2ZmN3YmtwTnV3cnM3dkRlQi1MTkhCT2NwWG1kUC1QbjVOblZrcTJWbDJIQWVPQjNHeE5QdnV2VWlHOXRSXzgybUJadGkxemU4bE5VbGpYOU5Kb2pOaUhnYk96SkdHNU85aUFvXzJQOVBTOVZjRk42QlFMRHpPOWI0b3pTb3dwdWJxVjNWMHl2eUE?oc=5",
+      "date": "Tue, 07 Apr 2026 23:10:43 GMT",
+      "source": "Player:Aaron Judge",
+      "type": "player_search",
+      "summary_ja": "ヤンキース好調の要因は「強度」",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Aaron Judge"
+      ]
+    },
+    {
+      "title": "MLB Superstar Check-In: Where Aaron Judge, Shohei Ohtani, 6 Others Stand - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQUY3Rm9wTVQtLTZORVlGUE51d2ViVTRYMi1RXzFSNm5wbmZHQlBzQkFyTjk5SEhsZ2VTdXlEZFI2ODM0a3l6WC1QR21kaEVQb19tQnFuSTlqcl9xaU54TXN3aWw2ODBScU45VDcxTXlVM3NtZ0NDRlc2bjc1RG9jdWdnUVA4aXRPNm9yRVJHaGE2MUFyZVFzak9GNEF1cG9HeFVsMEFONWtHMkJ3ZEtDUDBJRFFoTVJ4eTF0QkdB?oc=5",
+      "date": "Wed, 08 Apr 2026 20:53:55 GMT",
+      "source": "Player:Aaron Judge",
+      "type": "player_search",
+      "summary_ja": "MLBスター選手の序盤成績チェック",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Aaron Judge",
+        "Shohei Ohtani"
+      ]
+    },
+    {
+      "title": "HEISER: MLB odyssey leads York Catholic grad to Phils - York Daily Record",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0dabVhVX0FpbHkwM2U4c0NvQ21GdGFXTVhoWm80MU1KMjVCSnpQVVJSMWVVZTlRczctb2NrZEFtT0Z2UVFUSWZwMnNSWHdVT1NmVktwNDBfVGNtTzlDaUxwV3JwU2VfU1RwN1JfVnFfOWxIRTg5REU2UDh5NFNwVFF0SnNhSVpfbkstbzJnZEl4aHBYelAzSzUzdFJKZFN6VHpIMFRfUEdhdW1GcDNWdGRoQnlUdVFyRGd1WWpYSHY?oc=5",
+      "date": "Tue, 20 Dec 2016 08:00:00 GMT",
+      "source": "Player:Bryan Minniti",
+      "type": "player_search",
+      "summary_ja": "ヨーク出身選手のMLBへの道のり",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Bryan Minniti"
+      ]
+    },
+    {
+      "title": "Washington Nationals Exec Reveals Why International Free Agent Was Appealing to Team - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1l2T0czcWZkV0dKTHlIaHltVEZRb1RpcWVpRmpwcmxiNmZOYjF0SmhFY2pRdmF3aEFidG9MNFlFTEY5OTFOUVBDYXdJSUk4b0gzX3ZIY1g5QmIzTjdZU1M5c2MtQ1JUeC1GNHZZMWl4VUg2N1pmYml2T1lNNnpjM2RLMks1bTlVU3VxR2tzcm11S2s1d0NPNEZKaU1zS3BHdmdvTFU1UHRfUHBZNGRqNnlpb2UzOU1IOWJXbmc5R2MtWjU0dUE?oc=5",
+      "date": "Fri, 31 Jan 2025 08:00:00 GMT",
+      "source": "Player:Bryan Minniti",
+      "type": "player_search",
+      "summary_ja": "ナショナルズが国際FA選手を獲得した理由",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Bryan Minniti"
+      ]
+    },
+    {
+      "title": "Bader (hamstring tightness) tracking toward Opening Day - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUxhV3R1R3ZWcFpVRFBiOHRZUU9TWHc4REFXeXNOX1RYSVJSbzhnTmFoQ1pkVnpQa08tSUFHOWhkYXBGQWJRSGEwbVhOcVQ2VS0xZjNDcUd2emRIbFhqTGVMQ09MYzVkUXBiei0tbkgwbEZnUzRndEpTS2p2aFZrelFjaw?oc=5",
+      "date": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "source": "Player:Harrison Bader",
+      "type": "player_search",
+      "summary_ja": "ベイダーがハムストリング問題から復帰へ",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Harrison Bader"
+      ]
+    },
+    {
+      "title": "Back with Giants, Harrison Bader looks back at WBC with Team Israel as a ‘great experience’ - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkpCLWFKel9yMWc1dFNlNGxkcFpWNnIzeTlZSVR4MjlJSVFkS1lKYzZUVjNsSGhyUG1hM0lBY0lJM2s1TUdkVWRibllCNjYtRjZjY3NBMDVzczkyeXJIVUFKQWZvRkprMXI4dDdFb0VYWU1pY2RZdWM1YTVZVEJ6SG9PTHZmd2JubEwzaFlGNUFsT05pNVozQUFDbmxSdzBjSFdBRFQ0V3BEN3da?oc=5",
+      "date": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "source": "Player:Harrison Bader",
+      "type": "player_search",
+      "summary_ja": "ベイダーがWBCイスラエル代表経験を回顧",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Harrison Bader"
+      ]
+    },
+    {
+      "title": "עם כוכב של מיליוני דולר: נבחרת ישראל שלא הכרתם - ספורט 5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BX3lXWURqSGc1MndmQXdBWGduVzJMWFA5WmVJUUtGTG1Oek51dnVnRTNjTkJrVWFPeUJnZVc3a2hGUktqNjAyMzdDYnlzNC01V2hhQzBCSWJUcHBjYlg2c2pfRUJWeGR1Uy1hcWVwWVBKVGc?oc=5",
+      "date": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "source": "Player:Harrison Bader",
+      "type": "player_search",
+      "summary_ja": "イスラエル代表に高額スター選手参加",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Harrison Bader"
+      ]
+    },
+    {
+      "title": "ישראל: תוצאות לייב, חדשות וסטטיסטיקות - 365Scores",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TNTVLU045cDhpYzZvTGF3WVBNcHExcHFDNzZzZWhYVVhZYzZLcndFNW9hOTFRQTluTnpLMmZBalZUUDZYQmhoajd4WDR4My1tLTVDVDlscFMtT3hSeHZmSE93UGM?oc=5",
+      "date": "Fri, 05 May 2023 12:01:14 GMT",
+      "source": "Player:Harrison Bader",
+      "type": "player_search",
+      "summary_ja": "イスラエル野球のライブ結果・ニュース",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "St. Henry Baseball Schedule - MaxPreps.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOU9FSURGenpxSG55ZDdtV3hMM3VrdmFfSzg1X1l3ZDc1LTJUdEY3UlYxUVA2X0hMVkQ2bWtkOHUwa1BXb0Y3SUhvWDJic0lKZEJWMkMxeUlxUDJESGRjcWlJZmkzbVcyanViaV9QNjdBMHFSOEp1TzdLMExUZw?oc=5",
+      "date": "Sat, 04 Apr 2026 22:04:18 GMT",
+      "source": "Player:Henry",
+      "type": "player_search",
+      "summary_ja": "セントヘンリー高校野球スケジュール",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Trey Bentley Homers and Henry Zenor Collects Three Hits as Baseball Drops Rubber Match at Radford - upstatespartans.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFRrSEpCQjNJUTA2RzhRYjh3N2dmNVVqWEJYVnNZOFJkeXJMR0hoMlV2ekt0VU5vbS04bGNJRG12S1hMaGM0emNYaWg0NzlwNjJrMndkNzBfUDYzTDIxMi14RnQzWlFmY2Yyamc4djVUc25SWGp3UEFPTUVHRDloSFdBZGdYYkgxNnFrcWFqZDgxc0pCMGp1dWRicHY0STM5QUVwbWtJU3lfanBCZDBGM29BSmpMVFF1WE1vdVl2U0I4bjlYa21UaVFNalZVNV9EMWx2SWZR?oc=5",
+      "date": "Sat, 04 Apr 2026 21:05:08 GMT",
+      "source": "Player:Henry",
+      "type": "player_search",
+      "summary_ja": "大学野球の試合結果報告",
+      "importance": 1,
+      "bb": 1,
+      "players": [
+        "Trey Bentley",
+        "Henry Zenor"
+      ]
+    },
+    {
+      "title": "Konsta Kurikka sai unelmasopimuksen Yhdysvalloista – nyt toivo on mennyt - Ilta-Sanomat",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kR2xwQVo0dkVYbFhfU194V0tKQXFYWng1LS1xcjRtcGtxeUdyd0hITFFvSTFTbXRWTGRMekJubDNvNTZQdzhKMGtWeU1TMDMweGY3R3VjVHhvNkJj?oc=5",
+      "date": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "source": "Player:Konsta Kurikka",
+      "type": "player_search",
+      "summary_ja": "クリッカの米国契約が破談に",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Konsta Kurikka"
+      ]
+    },
+    {
+      "title": "Packed with European Flavor, Baseball United Looks to Grow in the Middle East - Mister Baseball",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3lCaVMzbm1zd09HV0FYbGl4N1pqYWFZazNUTHNLNjRvSXhvZXo1eVBQa1FZS091bEw3Y1Y2eW44Q1BSRzJXM3lsLV9RRG12cWVDTWFPbG9PelNIejJoTzRGQ3docXFaQWU5TWtzZFR3M0d1MTY4cG0tZTczWHFwNG9NSEhvWHRRTDkwQ19PbUI0RHZ5R2d2azBwTVBlck9vM2VMXzJPay1aTk1CRkE?oc=5",
+      "date": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "source": "Player:Konsta Kurikka",
+      "type": "player_search",
+      "summary_ja": "Baseball United欧州選手多数で中東展開",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Konsta Kurikka"
+      ]
+    },
+    {
+      "title": "The Mid East Falcons Announce Inaugural Roster for 2025 Baseball United Season - World Baseball Network",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGdfTzlsdjRLSWJNZTNFMU55NmE5eDZBMW5HOHlhTUFNdll3ajlxbTY1VGRNYm5PdDBOdVNkVFJ4X2lqS1lWZnBaSEhBTTRkZ2FYcktUcThJeVIzUjNDNU8yVmpnWW91ZVE0UHFobTB6aldfNzc4Y1RPQnVBTTFtZVZHRnVaeHZPZFE1Qjl4M2VadVlVYTB6WmxfVDZjb0ZpWXZleEtqbEw?oc=5",
+      "date": "Tue, 09 Sep 2025 07:00:00 GMT",
+      "source": "Player:Konsta Kurikka",
+      "type": "player_search",
+      "summary_ja": "Mid East Falconsが初年度ロスター発表",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Konsta Kurikka"
+      ]
+    },
+    {
+      "title": "Lionel Messi: The new Inter Miami stadium turned out incredible - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9POFUxLWZ2SjRhZ2xVbmRTS21FemZvc3dOMU1GaDQzcjNfbHVWcndHaTk0YW5lRTdmRnFTMXlkVkI0My1IcGUzeHEweDQ5R0U3UmxfVG9yZGl5NGc?oc=5",
+      "date": "Wed, 08 Apr 2026 21:00:44 GMT",
+      "source": "Player:Lionel Messi",
+      "type": "player_search",
+      "summary_ja": "メッシがインテルマイアミ新スタジアムを称賛",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Lionel Messi"
+      ]
+    },
+    {
+      "title": "How Lionel Messi, Cristiano Ronaldo’s Salaries Compare to Richest NFL, NBA, MLB Stars - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODM2eFhKSVVkVDhqajJMcEg1VFotX0hqb0lDekNxN3Z1UjRTSFZlM0FzNkM1VTJzd2JQY2lTcnU3X28zV1BhWXBJNGY3YTVnMDJJWG8zYnJvTHB2X0J6bzdKNG1taHUxNUdsbERUaC14azk5OTQyMTVjajRObmlXMXBSLUVzcGhOVnh6bVVnNWZqUkFKdlMweEZ4Y1Qya1d1VlpHYU9R?oc=5",
+      "date": "Tue, 07 Apr 2026 20:20:00 GMT",
+      "source": "Player:Lionel Messi",
+      "type": "player_search",
+      "summary_ja": "メッシらとMLBスター選手の年俸比較",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ]
+    },
+    {
+      "title": "Manny Pacquiao Throws 1st Pitch at Yankees vs. Athletics in Trending MLB Photo - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzFYazJiZGFEVU96N1pEeUd2N0JQSXdzdDhTdERkdldCQUxEN0NPemRYbGF6RFJJZzF6anpIUkhYc2d6VmFDaGxCZ2RmamRMS3hvX0VSc1o4dHg5bVh2emdFMFVTOU5ySTJrdlNXcFVGSGRic05sMDNRaVNoTmZMWWt2NkJtWnQ5c2luUmUxM1Z4VDFuOXFZR2N3NGw2WHo4cmZXM0hqN3VqUUxHNkFWV3M2M0gwdDg?oc=5",
+      "date": "Wed, 08 Apr 2026 02:50:07 GMT",
+      "source": "Player:Manny Pacquiao",
+      "type": "player_search",
+      "summary_ja": "パッキャオがヤンキース戦で始球式",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Manny Pacquiao"
+      ]
+    },
+    {
+      "title": "THE PEOPLE'S CHAMP IN NYC ⚾ Jinkee Pacquiao shares more photos of their visit to Yankee Stadium in New York, USA where her husband and boxing icon Manny Pacquiao was honored to throw the ceremonial first pitch. (📷: Jinkee Pacquiao ABS-CBN N - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2RpUU9WZ3BxWF9XTG5QeXlMV25kZE9uM3h6RDhVWHFJV21mZjl6WkZpYjZOX2kwMkpUTVI1dFRwSmhIR09ENlFIUEhkTXNhTVJCdGs3MmdOcjJUS2NZTURWV3BVLThOSDJZNDZUVnBGM3pwbE0yaXpodndORXprMWVSQTFxaC1GS2ZQVGpEeUo5bDdGX3NtQmt6XzA5Z0h3WS1vc0dkZEFBZmt6NWh6ajk3Ukk2N3VXNmwxMzhEcnhFLTQ0R3p5Y3BveHhpcHNZeFBqSmRtRQ?oc=5",
+      "date": "Thu, 09 Apr 2026 02:57:01 GMT",
+      "source": "Player:Manny Pacquiao",
+      "type": "player_search",
+      "summary_ja": "パッキャオのヤンキースタジアム訪問写真",
+      "importance": 1,
+      "bb": 1,
+      "players": [
+        "Manny Pacquiao"
+      ]
+    },
+    {
+      "title": "Ryder Cup Big Board: Ranking the players 1-24 ahead of play at Marco Simone - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNjhUZnZtN0hkX3lSOXkxaXRaZkkySkswVjlwLUJMc2hSNTltdFp6ZFRWTHU0SUxjU2k2eXljQWhsV3RNd1c3djBEU3FmbkVnQUxpb29GN3Z0ajZrZHQ5UFc0bm9sbzU0aU9Vb3NUWkRwOEM5SklWS0xVckV5QzBEaURjRklQSExfT0lXd3lQMVZ3YWNtbWc?oc=5",
+      "date": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "source": "Player:Marco Simone",
+      "type": "player_search",
+      "summary_ja": "ライダーカップ選手ランキング",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Marco Simone"
+      ]
+    },
+    {
+      "title": "Arkansas men's golf signs 3 Europeans - Whole Hog Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEc2QUZqS1RqM1ZKZGRWakNpZnVSb2V4SkltTGtLank3SjF2VWRScXNqNmFKek13dUJVR0h4V2JUWklxdS0wQWpWWlNBOWlfNzU3TDhJb2xka2FZRTRVaGRzWF9BaW5FQVU2LVJNZ2dFQVphRkNTUzRZeHRyNjBTVkVOM3BGcFg4YUtZSlh3?oc=5",
+      "date": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "source": "Player:Marco Simone",
+      "type": "player_search",
+      "summary_ja": "アーカンソー大ゴルフが欧州選手3名契約",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "Marvin Benard, de jugar en la MLB a ser seleccionador de España - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzZFRlNwdElSal81Y2R5c0l1WWxaczFlcWt2bTBKMzZrLWg1Wk1kTWQyZ3pNOFBoWVZEMHA5RjdlTXlnWGdoUVhXUEcxVXllVkxpTzBzY0RpYlFvUjRwOHp2aW9rNWQtU1pRNmoxTnVyS0xJNE95RURwcjZJVnJpcFpuMHVmM0kxeGZtckgyZVFvQ3Jma09aNkJpSmNBUdIBngFBVV95cUxQZEdlNnhlM2VtR3ZHdFBpRi1VUkl4SjRkN2JUb1ZEX3pYMW9RVHVUNGZOeTc0QS01ekw4WDFUY0VzaW5oU2pHVVZybmRpUWRPc1h6bU9zWDZOZnZIemhVQjBWbzY5OTIwQzlnaXVZS2VTWTNWUXZzTzVkbG54UVhROVo1eG51a3lGZ2lYSV90SHBHYWk4NVR0dXRlVTRudw?oc=5",
+      "date": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": "Player:Marvin Benard",
+      "type": "player_search",
+      "summary_ja": "元MLB外野手ベナードがスペイン代表監督就任",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Marvin Benard"
+      ]
+    },
+    {
+      "title": "El nicaragüense Marvin Benard, nuevo seleccionador español de béisbol - Teleprensa",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYjRNamcxMEpSLWlFaGI5bGZCdWdXLURVSjlwY25nQkVZVVNKQ3NvSUdrU0ZkTExBTk9PckpDMEZPNDhpVkZZOEgzMVNEbDctMkNld0lTOWd0NEFPWVBlcDRtSFJyZi14T0dncDJCSEVvcFNMMzV0Y29Zellvb3B2WERpOV94T0djc3NsQkV5a0tjR3NLeG94dlMxcDU1LTlPM1FELXkzN2N1SXZVQnN0MXc5bGdOUU1iQmlKQzJ6NFRCUkczUUhwSkpha29NRlHSAdQBQVVfeXFMTzBrUjh2dVFPV0tLUVZJOTI5dk50NUF4ZmtoUWFiRDZYRjJ5WkNmWENnNFdoeU03S1FwMjB2NldjSDNBUEZaWTlxNnBFQXNhQkFXWEJrbUFNYnFja3k2cTA4YTdBbmJjcUk2clpEYWhWWXBFZW53Znl5eFlJaVhQUnlpYmhlczRieS03UG82QWNZZV8yeHNzeHlXcXUxN2FWcnJpTUVuX1BzczBwUGk4OE5UTEhiRWFBcGhJYmNVVUFfNm1kbUVHUjlTeWVyTktvaGhPbW8?oc=5",
+      "date": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": "Player:Marvin Benard",
+      "type": "player_search",
+      "summary_ja": "ニカラグア出身ベナードがスペイン代表監督に",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Marvin Benard"
+      ]
+    },
+    {
+      "title": "Former MLB Outfielder Marvin Benard Named Spain’s New Manager - World Baseball Network",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3dIZDRUekpEclpBcXJyamZ6bGdCbDh6Y21CWVl3UFJ5dnpnVUxRbGpoMVp1c1VvRGtqbkROXzFOWlU3WjRXZXVsaVBCUEp3YXJFOTZhOEVXaWI1ZGdycHJ4QndQR3Y5M2FHdkxJQjZ2dWNfcENqU2Z1UU1wMklMR05naVdtbVVISldNb2lEb0c?oc=5",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "source": "Player:Marvin Benard",
+      "type": "player_search",
+      "summary_ja": "元MLB選手ベナードがスペイン新監督に任命",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Marvin Benard"
+      ]
+    },
+    {
+      "title": "Former MLB outfielder Marvin Benard to manage Spain at WBSC Premier12 Qualifier - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnFXem1WdDYxdkhZYVBWV0pjaHZmZEhadHdVY1E1elBRUmFVWHJjcWhmX1lsdmUwVUl5eUhaYTZOM3RiV2dkZ090OXVxOWJnWG5TSk9sbWhBQXBWT2lmRmxjMlVwdXZwUVN2UEhva2NWZFhtRWVLTFA1WDFpUXVhU1RDczVnNjZxbUYwWTBCTkMzckxVVko5dzZabzA4cU1uaWVTYkhIVzZDQmlx?oc=5",
+      "date": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": "Player:Marvin Benard",
+      "type": "player_search",
+      "summary_ja": "ベナードがPremier12予選でスペイン指揮",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Marvin Benard"
+      ]
+    },
+    {
+      "title": "Savannah State baseball schedule includes game at minor league ballpark - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRWNFNWN2dnUwMF9tT2owcUE4UzNraUpPY2d0dnkxNEVzY3ZqczZsRW9GbWlDd2V6elhZU3lwcnkwb255U1VmX1dmZzVHYmU5UVY1YUtpZm1ZRlZGMDd1MWZpVVNNQUFiRWFfWXBsNmVFWENxQVo3YV94T25yOWMwT0JPYWhpSzdsOW85bEY5eEZjWTZ1QVluS3dsWHB0Zi1UOXViZXJ4bEZNVXpVRTl4QVUxbXBrVm9QZ2E0VWFMdVluYUdVeDQ0NUE2MnhNVFFOT0RlcUJkYWFtTjJKRm53VUJkUWQ?oc=5",
+      "date": "Sat, 30 Jan 2021 08:00:00 GMT",
+      "source": "Player:Max Tracey",
+      "type": "player_search",
+      "summary_ja": "サバンナ州立大野球スケジュール",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Ryan Flynn's journey from Pennsylvania to Laredo and LBJ - Laredo Morning Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVpIN1dLXzhKRlF0dk9VeWw5ajhxWVFEUnZNLTUzV213VTI3YlNkS2dMYTVQM1EzMTBYbV9icDVTbndJdVo3TW5kT1l5UjA0TkNJZkxydWFvaGNJdGRVdzB2WkEwRnZKLW03SzVxRkNYN3diSDEwRXU4bm1MWFNaaDl2Z3BYUzhXUlk1OFRpOHhsZlhOSzNGaHJ5aGJGNFVLd0NuNExjbw?oc=5",
+      "date": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "source": "Player:Ryan Flynn",
+      "type": "player_search",
+      "summary_ja": "ライアン・フリンのラレドでの野球指導",
+      "importance": 1,
+      "bb": 1,
+      "players": [
+        "Ryan Flynn"
+      ]
+    },
+    {
+      "title": "A former major-leaguer’s next pitch: Develop a bright baseball future for Native American players - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDJXdThaTFhiTG1OSG5NWFFPRGhvdkV6ckoyU2dkS3ltaUtTdGk2X3NNVGh6c01BWXJQbENHZTE5SkNXYnBhR1YyQ1lFLWEtOU5kOFFGRHVXYjJNZVlQTl9hRkIxQkhDcDkxbVdudGs0WTdQS3JDem1zdkk5MWQyRXBSbEd3NmVqZmRIZGx0RTBOZ1My?oc=5",
+      "date": "Tue, 09 Sep 2025 07:00:00 GMT",
+      "source": "Player:Ryan Flynn",
+      "type": "player_search",
+      "summary_ja": "元MLB選手がネイティブアメリカン野球育成へ",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Ryan Flynn"
+      ]
+    },
+    {
+      "title": "The Real Horror of ‘The Shining’ - Autostraddle",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16dXF3UHFtQml2czZPbnpidHRhbWliUHVRQTNiSmxuMmZPSlh4YWhQaEZHWng2eXEwdUJ1WHBWdXlNYjZOcGg0OTlGWlQ1Q3RUU1VoZ3g1SkV6ZG5oemV6NWJjQW1WRGh2N192Nw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT",
+      "source": "Player:Shelley Duvall",
+      "type": "player_search",
+      "summary_ja": "映画『シャイニング』の実際の恐怖",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Shelley Duvall"
+      ]
+    },
+    {
+      "title": "Bar Arm Baseball turn Jack and Wendy Torrance into a skate-fit couple - HERO MAGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53RHo4c0lQZDdYejVmX1ZhaWJEaVdJN3VudW51bmtTaHhJMWVHblFSS3JubHZhaXV3UUQyT3dUMllTMWxIVjFjRnRZU1E0cWZ1UkFhdDhMaW15X0ZjdUhGa3JCRVc0VGE1MjRQVUFLb1lxQXNodnlWdA?oc=5",
+      "date": "Tue, 11 Nov 2025 10:07:42 GMT",
+      "source": "Player:Shelley Duvall",
+      "type": "player_search",
+      "summary_ja": "野球ブランドがシャイニングキャラをスケート風に",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "Ohtani ties Ichiro for longest on-base streak by Japanese-born player - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2eFBiT2x2MFUtRlhma0Q2NGtJbGNGSFE5b3JvTzM4eC03SllvaHpQMU5oX196MmdienFjWjdBWXZldXZFVENZZUpBUThTMy0tLTVoREZOM3hFNXdHaTRFLVhKQkZHd0VD?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "source": "Player:Shohei Ohtani",
+      "type": "player_search",
+      "summary_ja": "大谷がイチローの連続出塁記録に並ぶ",
+      "importance": 5,
+      "bb": 1,
+      "players": [
+        "Shohei Ohtani"
+      ]
+    },
+    {
+      "title": "Shohei Ohtani’s Scoreless Streak Ends After Setting New Record - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlNnVzRqOURlX19uRnVkZ2lsZkdramV6eU9VNFQzeDFlZmZkRkpjRUpROGY1ejl4NjMtVHBHYnpybXowNzhmdy1qeDZsbGJkeld6aXZnWW1faHRick84cndZUVhrZEtiYlgwSFNEOWNIT254cFh5bzB1ano5T2lSU2gwa2hfbXF2YktDRw?oc=5",
+      "date": "Wed, 08 Apr 2026 21:30:24 GMT",
+      "source": "Player:Shohei Ohtani",
+      "type": "player_search",
+      "summary_ja": "大谷の無失点記録が新記録樹立後に途絶える",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Shohei Ohtani"
+      ]
+    },
+    {
+      "title": "Bejzbalisti finišujú s ihriskom, do tímu sa vrátili aj hráči zo starej gardy - Trnavský Hlas",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVFCNmVrc3VhM3N2ZmJnSzVONGdYZVFBSDM3cmxBcUNvVkZSX3RReEFiVkxyTk8yV2w5Z3U3Y2c0OW00b3JrX1RQY2pRZ1JXcjluZmFnOGRmLVRRREFNaG83U3dJcld3Q3hZajZndTFwRHozamdzU1BKclhPS1ozOXlkVVZNX3JsV2ZWUjhnQ2V5eWx6QTdlOXZNNWFhQUVxMW1mWnFKNTZ2S2ZBYUlBREhn?oc=5",
+      "date": "Fri, 21 May 2021 07:00:00 GMT",
+      "source": "Player:Tomáš Biskorovajný",
+      "type": "player_search",
+      "summary_ja": "スロバキアで野球場整備と元選手復帰",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Tomáš Biskorovajný"
+      ]
+    },
+    {
+      "title": "Tom Brady, Wayne Gretzky, Aaron Judge and Shaquille O’Neal to assist Rio Ferdinand for FIFA World Cup 2026 draw - olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EQ0Nmd3RPT2tXeXhveEo4cThtaVVtNkxjOG15aHJGNllleG1wd0JDMkczRllUcGsydmRiWTZ6ajcwdUF3X0s0LXM2R2doRkFDMVhZRVpYOHAtckZVdzktNHU3SmFKQ1hJalBSeFNzeWFyOGZKM0FzYUl5dWRmUQ?oc=5",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": "Player:Wayne Gretzky",
+      "type": "player_search",
+      "summary_ja": "FIFA W杯2026抽選にスター選手集結",
+      "importance": 1,
+      "bb": 0,
+      "players": [
+        "Wayne Gretzky",
+        "Aaron Judge"
+      ]
+    },
+    {
+      "title": "Why Wayne Gretzky’s son Trevor picked baseball over hockey despite growing up in the Great One’s shadow - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWWVtTmptNExuSlRBOVhoT3hvdkpVZTA5c256Mm4xbUVPeFNld3IwRGNSY3Rwa1dodEZfZW9FS0FOczdJVVAzaHlxWmtIeElrcklNNzFtZUF5cWQtam9pR3hoemZTSWplc1lxTXV6Q05nemZXVTdQSGR1Z1QtM3gtd2RST184UDM0Qkd1Q29iTzNiZEtocjJBLWIzOXVXVGdnQl9SZkF2alpDeHVvaFcyR0Y4X2JhS0lQZ29ZWGdXcTZ5UmZEOWxZVjhxUTRLd0tNVUlZMHYydG4zbGgwOTY5QW9PTFR3SDg3SVFVQ3pwTUU0R0duSVJwNGxwczRxamdCdFRMTTVQTXZmRzDSAZACQVVfeXFMTWg0VEhTZ0RQS3hIRE4zeVZHajNLalhvTDFZRUZTN0s4cFBpYVJVNTNRLTZKOTFWMU1RZDZ5UmJLUmo5YUJfbzBwcW0zYkd1ZjNZdWhuYmN1UXdXVGVDVXZZaFEyeWVJWDdpUjJteHFnX0Zic2ZhTTN2OFdpYnEwXzZJeGVlV28zWnpSNGJDdzNlT1U0YWlVd29nb3dTbVdxZzczUll5ZE1lcDVlY0c0ZThJNUx0LVJ3QjRNVFN4MGdhNndnb0RtVUV0dHZoS0puODV2THVPT1JPaVI5YTNxU0RrNHo5SmVZSk1HcDd1LTFfOXVaVVk0Z3QzZktVbnh6bTMwVk5UMHc2ZjVMV2p4M1E?oc=5",
+      "date": "Mon, 09 Jun 2025 07:00:00 GMT",
+      "source": "Player:Wayne Gretzky",
+      "type": "player_search",
+      "summary_ja": "グレツキーの息子がホッケーでなく野球を選択",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Wayne Gretzky"
+      ]
+    },
+    {
+      "title": "Dodgers Reveal Reason for Will Smith Benching - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2FpLW03c0tqNnFTZHhpQV9ZOElRbHNYb3FFcUNOd2p0djU3QU5MZnI2UkMxOVpVTlVuOTN5SVRXbFV1c19Id0hGTjh3Z1BkQlBydUJ2Rk1pVWVNd2JyQ2JkMnJ1a29tMzM2QWJ2U012SURseV8xak42VFpfVElfemdxckFLV1UxZldzN0J3?oc=5",
+      "date": "Mon, 06 Apr 2026 21:51:38 GMT",
+      "source": "Player:Will Smith",
+      "type": "player_search",
+      "summary_ja": "ドジャースがウィル・スミス外した理由",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Will Smith"
+      ]
+    },
+    {
+      "title": "Will Smith's RBI single - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRmE5dXd4bWd3VXQ0Q3ZSSHFERTFNTzhHUzl0WElCT0ZpNTFKMndWeHpmTzVzblNSQUhDNEFhOUlVb3ZZcnozSy1PUUZWTmU5OFBMa2pmbmxCbl9NRFVucmg3TjhCbm02dkQtQk5yRVhyTWFuRFRTQkUzQ1RpTG8?oc=5",
+      "date": "Wed, 08 Apr 2026 21:20:37 GMT",
+      "source": "Player:Will Smith",
+      "type": "player_search",
+      "summary_ja": "ウィル・スミスのタイムリーヒット",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Will Smith"
+      ]
+    },
+    {
+      "title": "Gelof optioned to Triple-A to continue outfield transition - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95MlRUZ3dFTFZ1YWx1OXlyWFhNWGRUczVwX3BVckRVX2h0SjcyVGZXYV96blBoZGJJY1BNZUhabjJpeWZjbnY2VnJaSHFBYnFBd0lJRDdvWFc2Y1pteENBWU1KT0RrdXlQLWFhVGlMaGdtNk9qbWRTdA?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "source": "Player:Zack Gelof",
+      "type": "player_search",
+      "summary_ja": "ゲロフが3Aに降格し外野転向継続",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Zack Gelof"
+      ]
+    },
+    {
+      "title": "2025 Athletics Season In Review: Zack Gelof - Athletics Nation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQURJUThrdVVfSjRkV1pPQ2YtWG04dWZ5Unc4T2x5WmZuNUhoM0VFcWRmbVZ6SnlyMUwtdllLY0VRYnJmNjJTWnhDZ3N5VzFWYWNCWDV4MFVYbkxQVndrZlNwdmRCVlFZZ1BTVEt6TVdZOUR5TlZIQTlsblY5UFZuMENZV3U3amFQM09WZEcxbmFRekdHSGNzbVZwSlVtcUV0SGZZ?oc=5",
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "Player:Zack Gelof",
+      "type": "player_search",
+      "summary_ja": "2025年ゲロフのシーズン振り返り",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Zack Gelof"
+      ]
+    },
+    {
+      "title": "Prvá akcia svojho druhu v Európe. Bejzbalový turnaj dievčat priniesol nádherné zákroky a odpaly - SPORTNET",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajNSMFMtMVZ6WWxkSHZTUFVGQ251MnFCdHRnV2VsY0MwanNXYTQ1TURQeTNZZ2o1OC1mTkl3MllPdUtSTF9qdTA2MDJ3MTNfY0Y5SlBLNFAtT0xVcEpDNEM3UnFzeHBUcXhnRWFGTl9ZMm4xRWd5WW9hS2tWZ2hJVnNRa2ZYaFNlbU1yZkxNeU93cXFWSGloNXNLOVdZQ2RpV29EZTZIY3R1T0NZbEE?oc=5",
+      "date": "Sun, 01 Dec 2024 08:00:00 GMT",
+      "source": "Player:Zuzana Zambojová",
+      "type": "player_search",
+      "summary_ja": "欧州初の女子野球トーナメント開催",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Zuzana Zambojová"
+      ]
+    },
+    {
+      "title": "Oosterhout Twins wint IM Charles Urbanus Sr. Toernooi - HonkbalSoftbal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE1laEFxeC1yQ3RDSnZKa3dmZzR2ck9WSHQtaGlyS3pialNJUHFvWGN0NWlBeUNMUWZVeW10X3BqY25oOEdyWkhPQXgzQ2dMakxmTF93VGJBMTJNSVZLb3VQTHVzbUdnQ3lob25tOUFXWHNrVHc0U09YMV9VSDR3N2tUQUFBWFo0NEVBcmktLVA0Y2ZW?oc=5",
+      "date": "Tue, 07 Apr 2026 12:20:59 GMT",
+      "source": "Team:Oosterhout Twins",
+      "type": "team_search",
+      "summary_ja": "オーステルハウトがウルバヌス大会優勝",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Twins Oosterhout gaat meedoen aan Baseball Champions League - Eindhovens Dagblad",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckdkUEhsYUh4ZUNGU1RHMklPT3ZCUnFIS3pQZ3BwWU0yQm9TNmplODBQdUh3NE9vMjJwWXZNaWVXSXhYMnkzbFB3NXktM3lBWHBraEdXbDlXc1B3SjBKOTQ4VWhWTi1RdXZvdDdTeWVCLXIwWHVWUDI1bERybGJaSkRPMWh5cXNDTzZDWnlGcHpCUW5OMXJHcjFTRQ?oc=5",
+      "date": "Sat, 28 Feb 2026 08:00:00 GMT",
+      "source": "Team:Oosterhout Twins",
+      "type": "team_search",
+      "summary_ja": "オーステルハウト・ツインズがベースボール・チャンピオンズリーグに参加",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Oosterhout Twins@Guggenberger Legionäre - Baseball Champions League - Europe 2026 Group Regensburg - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1lNYWU3ajF6aGtMWUlzMkZIS2dmVGY0Qjk3T1dMWDgyOXU5TW9UZEdXWUloa3RTaldNWU15QTBkS09jd0t6SHRkRkRUbTIyRzFjaV9zZzdlZmFjcUVDVnhKY01ISHUzSUpBN3kwWl9NNHplTU1sYVdGM01XU2EyU3Y5aHZxT1VhMTNiMG5TZHhTTkg5RlYzR1BqXzJRZUhGUDl5ajFQVWtvQUhNYmNsU29VUjdSVEgzdFZuWXRPeTc?oc=5",
+      "date": "Mon, 06 Apr 2026 08:59:51 GMT",
+      "source": "Team:Oosterhout Twins",
+      "type": "team_search",
+      "summary_ja": "ツインズ対レギオネーレのBCL組み合わせ情報",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "World Baseball Softball Confederation: A Look Ahead On the Calendar of International Baseball Events Yet to Come in 2026 - World Baseball Network",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU5sU19zNkNfZ3J1X1dLbWQ2blVhVE9jd0U4TUNVdzZiRlF5MmJGU0hjd2k0SVNLS1FwZ1FTWXg0aEJrMWZnbThkTy1aRmlMQklYZnAxSXZIVDdoM1c3WHhuR1B3WFZvaGJCRW03NVVDZWZUM1VreE5MZ1doRjNLZmxVd0VXZG82dDF5dWE5ekxOOFhQRVZ4X3NQR19ralktNFJiZnpVeklQVnNoeHgtdFFuVGpjV1ctLURZWGJlQ2ZDT3BxUTZjT3VpSkI4VjVBSk5wSjlEdllhcFM1TFFV?oc=5",
+      "date": "Tue, 07 Apr 2026 14:15:48 GMT",
+      "source": "Team:Oosterhout Twins",
+      "type": "team_search",
+      "summary_ja": "2026年の国際野球イベントカレンダー展望",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Pirmą kartą istorijoje BK „Vilnius“ ekipa tapo Lietuvos vyrų beisbolo čempionato lydere - Lrytas",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX2t3WVNxSUN2dE5oTFp2QnFoNWZ5U0hINndvaEdQN3JxdDVDQklhYmczSkhCR3VrdGpqalpEdzFyaGhXMnI1Vy1zdEZ3UHpaZXo4dHo3ZjNPT3RQVmktZWhOckVZUDJpbzBRZlNZUmVNNld6TGwxS29fbDdmMEpRcjFVZFgxUm42dDBMeHJNLTBrU0lsajZ3T0tZYm5nMktxamNNLUxMMDJ1amxvU0dSSjN2YWJGZFFma0NSNlRObWhxczBOdGhPejdVdElaUmNfdi1MZWQ2dnpHLThMZWloZUU1elpMUHc4N2c?oc=5",
+      "date": "Sun, 05 Sep 2021 07:00:00 GMT",
+      "source": "Team:BK Vilnius",
+      "type": "team_search",
+      "summary_ja": "BKビリニュスがリトアニア野球選手権で首位に",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Laukia amžinas varžovas: „Lituanica“ Lietuvos beisbolo čempionato finale susitiks su BK „Vilnius“ - Alfa.lt",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2FkZXRtWVNETHYtM0M5YlZwZ0FleldKaFZINTM4Wk4wQ0NEZFcwVVNObEd1TzJDN0JHM3oyNW12YUxyS1ZiNHFEd3RwZmRMd0lCUmMtSF9mbnZqZWN5dlBTNGs4SnhIWlhnNlRCdG1MS2hIbG1Jc1NPeUlqU1dHUV93b19uY25xVWNEV2Izbjl5OE03ZEE3d1ZTR0JLcmZrdEI0czkxTUZRM0R4eHkxdnRxWGdIMkwyR2tyYmwzaHRvUThRRDdhUU5KdG43R0Jmdy02eDZ2N0RBdw?oc=5",
+      "date": "Mon, 16 Sep 2024 07:00:00 GMT",
+      "source": "Team:BK Vilnius",
+      "type": "team_search",
+      "summary_ja": "リトアニア野球選手権決勝はリトアニカ対BKビリニュス",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "BK Vilnius wins Lithuanian Baseball5 Winter Championship - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjl3QnVjMV9zTHprbUVvOVo4QzVkMENxa3JjWnVkc2o1V1g1WHcwOUxzZW9Ma0FLMkpFa3hjSkJvMVJGSkhxd2JISEY1SjhqV0g3SDQzUmQxeXo2OEhSMDZOMDFDZW15V0ozd0JMdHZRR19MLUVHM1JnOGZ6VVVCVzB6MDNZNXVuQVhEY1p3?oc=5",
+      "date": "Sun, 03 Jul 2022 07:00:00 GMT",
+      "source": "Team:BK Vilnius",
+      "type": "team_search",
+      "summary_ja": "BKビリニュスがリトアニアBaseball5冬季選手権優勝",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "BK Vilnius live scores, results, fixtures | Baseball, Lithuania - Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91NnRKTDVhTzBOZ3U1SDRGckZUd3BtSHRzcmxQTmhZOW1GMnkyRnA0RGgtQXFSeWI1ZXRDNjB5WTRIb2ZRbjRlaE1ER1BKLTNWR1BQdDhIcWpfN25QUGJoYWh3?oc=5",
+      "date": "Fri, 10 Nov 2017 12:11:32 GMT",
+      "source": "Team:BK Vilnius",
+      "type": "team_search",
+      "summary_ja": "BKビリニュスのスコア・結果・日程一覧",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "\"София Блус\" вече е №2 по доминация в бейзбола - Новини СЕГА",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVy1mNlpUT1Z1NnFVSzg3WGFJWG1LTHl4UFlGdE5zRUtuTVpMc196N3p6cGNtZk9BRC11V0JTTXgtY09Wdmg1UGtLZThkcEI1QzlIekozUUpDRlItZTJZLXdvVGJnU19YOE54NmpBMDNhZUdGS2xtX2NIV0dNb3pSdlZtczA2eUsxcDNpdQ?oc=5",
+      "date": "Mon, 13 Oct 2025 07:00:00 GMT",
+      "source": "Team:КБС София Блус",
+      "type": "team_search",
+      "summary_ja": "ソフィア・ブルースがブルガリア野球2位の支配力",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Български бейзболисти обраха наградите в Европа - Новини СЕГА",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1lNZWR4czVBcHM1ZFdIUElIbUVONERRUzJjUHRHRUt6d0pKckdiZGxybTZneFJ5VnFabnVtVkRCdW1mOVYwbmRVei16QW9fTVc0TnotdjFyNHNFMlI4cGRaQ2Q1RndKS0dCcnlmd05ROUVicG1QMnd1emw2QzAxSnFVQUpFRkxCVFNz?oc=5",
+      "date": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": "Team:КБС София Блус",
+      "type": "team_search",
+      "summary_ja": "ブルガリア野球選手が欧州の賞を受賞",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Guida A Gold Baseball 2026: BBC Grosseto, tante novità e uno sguardo al futuro - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOU5tdEN3My1GUVVaRXhkR05uVU82WXBLcWxqVGY4cFFSMlZTaGw3eTVSMm15R0JYcDdGX0dZcnEybkdrMi1DUUdLQXB2UldMV0dXNHg3ekZBMFJpTnpnaXVPeTBvMzRBT3BqYkhkeklxQkczc1hQMlBJdTBiSU1hV3Q3ZzN1SnFEUHU4Ri1ORUFONFc1alVhSmNFTDlrUHpKSHdYUE13?oc=5",
+      "date": "Thu, 09 Apr 2026 05:48:31 GMT",
+      "source": "Team:BBC Grosseto",
+      "type": "team_search",
+      "summary_ja": "2026年セリエA Gold：BBC グロッセト紹介と展望",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Grosseto, sport in crisi: Cp senza soldi e Jannella senza luci - MaremmaOggi",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NXzkwclB5VmoyRXdTTmFyQkxjRFB3cU9aUHQ2cW1Tb0R2SGJiaHhxSVV3NXkwczdGeWxMNXIxSnVndExOWEFDbEQ3TTlaeUhkRkhFVzhRWWprX2tVdFRIM0RpYl9JaXRuNWxPMWZjdmFzWHpxenBzUm9wTUpRcTQ?oc=5",
+      "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "source": "Team:BBC Grosseto",
+      "type": "team_search",
+      "summary_ja": "グロッセトのスポーツ界が財政・施設問題に直面",
+      "importance": 2,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "BBC Grosseto score, schedule & standings - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzTEh0UUVaYTY1TmtPWDVnTkxQYXlrMzRjMjIzcnlXeDhtcERhZWl3b3YyNEZqSXd0VU8wbGZIbS1aREx4R0lRb1NPOWY2Vm5OMHc4SXRDQnpIZjJFaFlxSTlpaWJQcXpKb2Vr?oc=5",
+      "date": "Thu, 07 Aug 2025 10:05:52 GMT",
+      "source": "Team:BBC Grosseto",
+      "type": "team_search",
+      "summary_ja": "BBC グロッセトのスコア・日程・順位表",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Serie A Baseball 2025 - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTdZNjZCREJ1aURZRWdGMjVfQllxN2N4UWg0ckE5ZGZ0MndfR2tHOVNmR3VZX0dlWTZfeGxjQmVNcXJTOVJNX3BpM3YzeVdSWmJld1V4ak9KYThaVldEU0JHSGNZSmhzOGNIZE1HN0N5U01IQmQxQm0tR0pNaWtPLXhxUTlhSC1yUnpn?oc=5",
+      "date": "Sun, 08 Jun 2025 03:38:25 GMT",
+      "source": "Team:BBC Grosseto",
+      "type": "team_search",
+      "summary_ja": "2025年セリエA野球情報",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Guida A Gold Baseball 2026: Hotsand Macerata, nel mirino c'è la finale scudetto - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHM2MUJWYjhfcmMzNjFVTUprR2t0d3RCT2xGa2k5ZW1ZaHF4N1lXRHVidE0wczRVT1dFSmRxc3dpS1l5cUptTlV0QjBOM0pIa2pwRURhbUNQRE9UWHFUVVYtMVRyV05hRHFoZXc4NWVpZjNyYWt5LWJkRlV3ck9IRGhFMTE5OG5tZXdoQ19ZQ0wwa2dGYkY0YkNHR2hpNFBkdTZiSURGa1Vzcld3OHVUNllvelloT2pVRjA0dktCM1dZWGFQeU9QdDJQQWdpS0gyUUJMag?oc=5",
+      "date": "Wed, 08 Apr 2026 16:47:04 GMT",
+      "source": "Team:Hotsand Macerata",
+      "type": "team_search",
+      "summary_ja": "2026年セリエA Gold：マチェラータがスクデット決勝を目指す",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Jesus Carrera Shines with Hotsand Macerata at Opening Day - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSG1KNUxraHlPaHdZYzYwZFFQcUZyT1ZUdC0yeGtlZENtTDlvNWVFZnpXTXZqQ2xBckNCSHNBZ2RkWHJKdVhWUFd0UDBHMUdYRGtBYlNSdjFnOXJnRmRrMm80Z2RNZklIVV9sWERQTndMU2g3UTNTbDVHSndwRl9pTnY1RVFFSldwS29LVmhlSnhsdVA2Y0pJb1lIMF9hWVVpZUdUeUdQTUFDRHpnekRKWGxOMFNnakhEU3FB?oc=5",
+      "date": "Tue, 15 Apr 2025 07:00:00 GMT",
+      "source": "Team:Hotsand Macerata",
+      "type": "team_search",
+      "summary_ja": "ヘスス・カレラが開幕戦でマチェラータで活躍",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Jesus Carrera"
+      ]
+    },
+    {
+      "title": "Serie A Baseball, Parma Clima and San Marino Win in Their Debut - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1hsN3ZEdjNfMWRPSVBMeFRZSlp1bU1LRnJwUXdxWnM5b0hLSG9vdU1SY1pYd2ZhZmNMZ010QzVIQjVSODNyTFNXOTZZREwxbHFydFRmNUlLajB4bmtNQzVfUE0wMTBoMU51dG9xbkZLU1kyekM2dHBxMVFvNy1RYlctRktRLTdOUVNRdnNoRFk5SW96dW9zNlNxRzAzcFFscE9iak9mbVU4X29XSGczdkNtaFhzelJy?oc=5",
+      "date": "Fri, 11 Apr 2025 07:00:00 GMT",
+      "source": "Team:Hotsand Macerata",
+      "type": "team_search",
+      "summary_ja": "セリエA開幕：パルマとサンマリノが初戦勝利",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Guida A Gold Baseball 2026: l'Unipol Bologna vuole tornare in Finale Scudetto - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1EzZ255UXhQU25wbzlZNy1HSlU2S3QtN0ZWOG9lZHJTSk1lUXhVZTlpMUFTODgwbkVRd0VDV0lEN2ROck9NZ0w0c1JLYTBFWFVRNzNBNGdFNUg2UWxwRDh1czkzLWg3VHFvSFh3aGpPbkh2VlQzRjBPZF9sWHBIaG9EV1plX0JwQlVtT05Zc0FFaGxKR3hFZXJuaUxfek5NTDVQVnJZX3BBNFJWczNNOF9JVG5RY0E0VGg1aDB6azZyWVQ3SDMtcmYyTFIxZmdlYmlj?oc=5",
+      "date": "Wed, 08 Apr 2026 07:10:24 GMT",
+      "source": "Team:Unipol Bologna",
+      "type": "team_search",
+      "summary_ja": "2026年セリエA Gold：ウニポル・ボローニャが決勝復帰を目指す",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Unipol Bologna: riecco il 24, da Liverziani a Celli - Baseball.it",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xazd0UFJzc3V0VGdtRl93cWxQSG5HMGpJRVBwcGJHQ25EWUVzOXZXelA4TmN2a1BFQVRjd1RaTUhIVkpBdnJKUXZDSWhWSlVwaDNzVVd0bUpZWU9FN1pjLWZFUTdBbTdHczBBZ3VFajZ5d0M1MUFMN2poSm1YMms?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "source": "Team:Unipol Bologna",
+      "type": "team_search",
+      "summary_ja": "ウニポル・ボローニャ：背番号24がリベルツィアーニからチェッリへ",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Liverziani",
+        "Celli"
+      ]
+    },
+    {
+      "title": "Live Programming on FIBSchannel3 Resumes - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWV4OGxOQS05VWdfMDM1dkdwbzdVZ1Ffa2ZXSFpCQ2YzQUhvd1RZVk9jMEc3TjZHTDVhN1I4by1FZFF1TlR2MU1INzhwc0J5QlRiMHp5Q1hjYXp6ZFRBTkxrQlRabllSRGRaUkJOek96ZXdGZGFQa3NmSUtYQnJNVVBMbDQwSzg4ZDMzN29iTWFNNzlic3dGZ0VRUi1jbUpPbXlwOHRyRWhma3NDdUE?oc=5",
+      "date": "Fri, 09 May 2025 07:00:00 GMT",
+      "source": "Team:Unipol Bologna",
+      "type": "team_search",
+      "summary_ja": "FIBSチャンネル3のライブ配信が再開",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "McIlwain: \"I love Italy and want to contribute to the growth of baseball here\" - Federazione Italiana Baseball Softball - fibs",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUlSNTBPY3RxTmR6Y3hGTHQ1endzY1llOHV0ZHFTRHZVRFA4ZWdtUkhuN2VPRjJWU0VXWUFOTVhia19rbkp3VEpBaldtX1hvVGhlV1VSOUZkbHRIUXE2dTVHSWljTGFidTZ5VGZtSFdVRm1LRjhuU1dUZEhHREtsS2VRTzR6RWdscV8wcHlJamxhRElJWm11eXRqUVlSc1B5SEZGeUtxTVpWNXRhUkdiZmFvaUd3VkpLRXJLQnRLNC1jNkVfLVptVEhsUEdrZw?oc=5",
+      "date": "Thu, 01 May 2025 07:00:00 GMT",
+      "source": "Team:Unipol Bologna",
+      "type": "team_search",
+      "summary_ja": "マキルウェイン「イタリアを愛し野球の成長に貢献したい」",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "McIlwain"
+      ]
+    },
+    {
+      "title": "Deurne Spartans kroont zich tot Belgisch kampioen baseball - sporza.be",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNFOVhZUWZUT3JoZkdkaEZ4RGtqRDVMcXM2Y0pHbHZocFJZUUl1ZWM5cVJDbXFKXzkycVE5WUlLOGdCSzM0R19yV2tiYmIwaDd3SXJIZ0hvM1AzNzhub0VCXzRVSzAtS09pOXhwX3h2enFsUVA5XzZRVXJWdWhKRVFtcEJPY1RMY0VFOF9laHZtTFpwZzVzdXl6eUFtZUkyZHkzSklVaks?oc=5",
+      "date": "Mon, 16 Oct 2023 07:00:00 GMT",
+      "source": "Team:Spartans",
+      "type": "team_search",
+      "summary_ja": "デュルネ・スパルタンズがベルギー野球王者に",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Deurne Spartans winnen Belgian Series Baseball - De Standaard",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmxNWFJlVFdUQ21yRGx1SmVuN29mNk5aTmR1cXdzOVBtZGRlNkdIM0cxUnlJZ2UyNGpoMDZKTjNJZFF2T1ltakpmNDA1aTNvNHBNTEVjSW1JTFhZcGgteVZZZ0RycWVKaEM3VUdwclJ1Ti1ncGJPX0tRTU9TTk02SE5YYnlvVHdhNktmNFBUbDA2RXJybWc?oc=5",
+      "date": "Sat, 20 Oct 2018 07:00:00 GMT",
+      "source": "Team:Spartans",
+      "type": "team_search",
+      "summary_ja": "デュルネ・スパルタンズがベルギーシリーズ優勝",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Georgia Southern Eagles Usc Upstate Spartans score en direct et résultats H2H - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQk00Rnk2MzI4Y2JTT0hQWW1hUFhLVmZFc0xvUno3ckU5aVpkSFZJTWRJTnljQUhQWEk4WGY4UkEwR2hCdkNZU2Q4TGVBazY1djVfWTk5SmpjTHR3OUtqSTdRTEtXMGtiNjZ5WURhS1pnR3dTTHpka3NfSXpiWmtxNFY1cVFZdFZYWjc2dlJYOG95NVBORXpGU253b1hwX1E?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT",
+      "source": "Team:Spartans",
+      "type": "team_search",
+      "summary_ja": "ジョージアサザン対USCアップステートのスコア",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "Les Spartans représenteront la relève du baseball senior beauceron - L’Éclaireur Progrès",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDBxWGRIZE9LUWtuRGFEalZxNUhIRjlCYXRZVl91MWtGZGtkSHpuT2NBazQ2QXBIc0wwc3pvcm9PVU9aemw5ZnBPVEJHejJYbDJHcWljQXVaUl9hQ3Fjb3diRXdhRWdEX0RkRlk2MkExTktsdnFPLVlrbEVjNGhHUDh4SU9EYy0yY211UVY5dkxMUGlwd0ZpbGREUDBDREdHTXNsdFpVLVJWeHM?oc=5",
+      "date": "Sat, 27 Jun 2020 07:00:00 GMT",
+      "source": "Team:Spartans",
+      "type": "team_search",
+      "summary_ja": "スパルタンズがボース地区シニア野球の次世代を代表",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Die VOITH Heidenheim Heideköpfe sind Baseball-Europapokalsieger 2025 - Deutscher Baseball und Softball Verband e.V.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGtQWThRc1JYNUMxN2VPbm11dk1mOTBUNUFrcVR3TzIyQ0hzWHdOdFhPeGVqbjlMNHFVVnAybnZZWTBRR3lYVEY0bUpfYXl0VGRMN2RTVm81aVRYYkF5bUxoM0o4bXlPMHZIMTY1UnpIRUQxaDVhb0o1LWJpYkpuRnpCaTZxNzNCaGxheGd2eE5lTmo3aVpOZnJXSzBYREJQVWJ4dWFlVG5yUGt1YWVYb2YzXzc?oc=5",
+      "date": "Wed, 30 Jul 2025 07:00:00 GMT",
+      "source": "Team:Heidenheim Heideköpfe",
+      "type": "team_search",
+      "summary_ja": "ハイデンハイムが2025年欧州野球カップ王者に",
+      "importance": 5,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Mit Pitcher Dylan Unsworth kommt ein Topstar zu den Heidenheimer Baseballern - Heidenheimer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0VmM1E0RmNrd19LS2htNnM2YzJUUm9NMmpoTzg1QS1BMzRkRU1TUXI3ck05bmVWYTZHVnpuWjNjdWFUQjRRS3YzTGtkMHJaRUxMZ3o4OGFIUkFMV3pwUlhWWTVCOU9MUHFDZGdEMXpTN29sS1ZoYWxkc01odGJWbkJ3Yw?oc=5",
+      "date": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "source": "Team:Heidenheim Heideköpfe",
+      "type": "team_search",
+      "summary_ja": "トップ投手ディラン・アンスワースがハイデンハイムに加入",
+      "importance": 4,
+      "bb": 1,
+      "players": [
+        "Dylan Unsworth"
+      ]
+    },
+    {
+      "title": "Heidenheim Heideköpfe@A.S.D. Nettuno B.C. 1945 - Baseball Champions League - Europe 2026 Group Rotterdam - World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUZIN2R3SElUS3AwMEtxZW1UaGJFcHpjTzhZclR3ZW1kT1U5bU54UFFfa0NnN2Fqa0NXT0phTnFORDVvSEhPNS1FY29GVGJFeGdGSlUtTktaRF9YbVRnX3pwdTV0YWlCSVUxQV8wWXNxdE84RWhFd3dyVV9pQ0Fwak1zVmxkdC1PUXd4NmQ5Tkk0aWVMODgydTJ5Qnd0WXdrVjQ5a3h4Y0E3YV80T3ZGNThFZHRlc0Q4d0VlWUNISQ?oc=5",
+      "date": "Thu, 12 Mar 2026 21:30:48 GMT",
+      "source": "Team:Heidenheim Heideköpfe",
+      "type": "team_search",
+      "summary_ja": "ハイデンハイム対ネットゥーノのBCLロッテルダム組情報",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Heidenheim Heidekoepfe German Baseball Champion 2015 after epic Showdown - Mister Baseball",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkh1ZkNtclJnbDFYX19oVHBpaUhPMDN4eVhVNFNJMWZORWxLQ0VTaDVaNkgtNGQ1Q0dYWS16YlNvUGphd2VEcFhJT1NESXZNNkpzQS1FckZZOFc0azEwWnhLNkgzblFvTWZCTENGZ3Z0NGc4XzR0dDRuZXhFWGxhZU9SMnYtS01STGszZFcwM3NHeVY1WURTQmo0UXB5SjhZ?oc=5",
+      "date": "Mon, 05 Oct 2015 07:00:00 GMT",
+      "source": "Team:Heidenheim Heideköpfe",
+      "type": "team_search",
+      "summary_ja": "ハイデンハイムが2015年ドイツ野球王者に（過去記事）",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Die Sehnsucht der Untouchables nach dem siebten Titel - Westfalen-Blatt",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWU1kc3JHenlId05feFVXVF95a3FIbmtzUFBZYlZOVzRvWWJkWS1sYkhsQ1dUUEI0djNwY1B5U0lVYVIyeDh3SjNkaTA0ZG82WDgxYWZSTEQzb1RUTllxanA5ZkpZQ09nRG5SWFdyNUtRUDBoeXpIX2VwSy1DY2FBcnBNVzdGbjZ6YklScC1jQWxMeU83amNPbzFzdVZTczNhenFrZUJNOWtHTWl4OVkzRDBfN3VCTkZick1yOGJqeDNxb1R2V0E?oc=5",
+      "date": "Thu, 09 Apr 2026 13:49:00 GMT",
+      "source": "Team:Paderborn Untouchables",
+      "type": "team_search",
+      "summary_ja": "パーダーボルン・アンタッチャブルズの7度目の優勝への渇望",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Baseball: Untouchables stehen vor ihrem 1000. Bundesligaspiel - Westfalen-Blatt",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSHRaRGljUUNmUHpqbk01UkUzeVJQXzNNaHNsRUZqZUFjOXdrUTZrWlFzUGdFLWRUU3JUUVhoa2Z3X19QczFkMVlXOS1Kb21rR0lmckN0a21FVU9SUWt2bERnUm12ZFZJLVNDQVNsZGliTW9Pd0ZMVzRSX1lUNVEyNUgwSUtSX09BZklma3FfRmdUdDVRRzdxN0c5Tk5TUlI0VXM2UW5LM0hMTXVOYmxNeFNWNmx4X3htb3h0eFRCN2NTY0Q0TEZRZ3U5MFV3bEdEd2x1aG0tN2NIVFdQTkI4MDRBdDZKVmNIU3c?oc=5",
+      "date": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "source": "Team:Paderborn Untouchables",
+      "type": "team_search",
+      "summary_ja": "アンタッチャブルズがブンデスリーガ1000試合目前",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "HSV Stealers Paderborn Untouchables live score and H2H results - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2FlSG93cDFKUGx5aHNhOTZLSmFaVWk2RDFscDhEUU5GY1RrUmZFX3JxOXd1Rl9sWG1MbHRvYjhneEtHRzg0bzJqdDJFZXRxYzA0NnN3VVQwMU5hRXhTQUxLX21PaEhJenlLM3VCSmJPa0JUSVVmTHQzdzRaaV9sRkZrVXFRUzJEWFVMOC1YZw?oc=5",
+      "date": "Wed, 24 Jan 2024 12:02:04 GMT",
+      "source": "Team:Paderborn Untouchables",
+      "type": "team_search",
+      "summary_ja": "HSVスティーラーズ対パーダーボルンのスコア情報",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "How one man -- and a mascot named Manny -- is turning Germans into baseball fans - MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObnpZWXNMQUF5RG8xeDhrYng0V1MzRkFuaEFpd3c1Z2djOFRpZ2pjRy01UmMxd19ISjNfLVFfQ2VlWGhXWHlRaVBTU3BNbTRkdEJZejFPa2d1aG9VcWlBOVdDXzZUQlptOGZDSlRUZGtSd3VaX1VtVlRFQkRuWmJURm5iWGvSAZABQVVfeXFMUGRnS1lmMDVES1d2ZXVuQXNqa25fZWV0OVNXanMycXZGcWh2cHFCcUNCaW5zREphREl5LU04SG15OHF4NjZKOXpFcUt2WVdyZl9UM2hqa3RSY2JEUVU4QkJsb0N5UVdnNDdSa1hOTjVNX21Ba005dWE5STJSRUp4eG01MXg0NGpyZV9jOWY5QVgt?oc=5",
+      "date": "Sun, 14 Jan 2024 08:00:00 GMT",
+      "source": "Team:Paderborn Untouchables",
+      "type": "team_search",
+      "summary_ja": "マスコット「マニー」でドイツ人を野球ファンに変える男",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Frust bei den Wanderers über gesperrten Hoeschpark: „Hat mit Bundesliga nichts zu tun“ - Ruhr Nachrichten",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFhuWGxNREYtUl9yalRHamdDUFJHYXdaRUc2TkE0VUN6Ml9QSGRIZm5xN1hhOEFYbW9oTFotVHlrN2VEUmcwa3lNNWFkVGQ3TG9obWF0eUI3NGgyeTlHM0RrMDVFY0hMNVlsblVEOTlVNHVkXy1iXzM4cmRWTHBHTmFQUDBFNF9Cb3hMWW5HTDB3MVJ5V2MzQlpZdktweW5UQ3FzX29HV0xwdWNvYURxekd5SkZXdUtzcDRsTzg2TEhTNWtTSTgwZGNSb3dTaDgwS3owLWRHNTdEYllW?oc=5",
+      "date": "Fri, 03 Apr 2026 13:00:00 GMT",
+      "source": "Team:Dortmund Wanderers",
+      "type": "team_search",
+      "summary_ja": "ヴァンダラーズがホェシュパーク使用禁止に不満",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "DBL - Deutsche Baseball Liga: Dortmund Wanderers verpflichten Pitcher aus den USA - Lokalkompass",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVy1VN2t5TDhRTWR3V0JNeHFDbTh1TnUtMlRGTGNPUGdndk5xUjNPM1pkLWxOc0ZIaGlOVnFySEJFdWczMzl4NmVJTzNQdzdvaTVwaVhTSXF5VUw3UVRrSFFqM2Y0YVF3d2tyR2Vzc3VfV3VReHQ5eW0xVWpWWXl4WlJ5TnJjLUtDQ21UVnlUMG9XOXlXamE2ZnlVWDRQcDRwRGJ2SXAtN3Y?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "source": "Team:Dortmund Wanderers",
+      "type": "team_search",
+      "summary_ja": "ドルトムント・ヴァンダラーズが米国から投手を獲得",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Tomas Ondra leaves Arrows Ostrava for Dortmund Wanderers - Mister Baseball",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnZRYnE4djgxaE5xMzVRa2dXcHlaS2djUWNLUUdtT3JJbFo0cklldHlKRDQ1X1h5Zi1BNTE3Q1ZnRU9SaFkySjJ3cXppeC1OQTZOT1piY0JxNmxWc21DVTZ4Z1NDRktnTGN0bE9KTGp4ZW9sWm96eWM2M2oyYmhUQ2N5ZWsxc01tQUZ5Qmt3?oc=5",
+      "date": "Tue, 01 Mar 2016 08:00:00 GMT",
+      "source": "Team:Dortmund Wanderers",
+      "type": "team_search",
+      "summary_ja": "トマーシュ・オンドラがオストラヴァからドルトムントへ移籍",
+      "importance": 3,
+      "bb": 1,
+      "players": [
+        "Tomas Ondra"
+      ]
+    },
+    {
+      "title": "Solingen Alligators Dortmund Wanderers live score and H2H results - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2luTWZHUDg1b0hNd0dsTlM5RnVlT2Z0aFZaazhIdmlHVl9RTDhFODFZbU5JWTMyQ2NsQkdSRDJEYjFsclFxS3FXREo0SVFQcVgyb3pXbWVmbTV6Mk5XQmJJcUNwTEluZFlsSDQ3c01hbF9pV3JpejhwYi1nVERxUUNSTjd0QkV4ZE9lSlBOdDJ0MnM?oc=5",
+      "date": "Sun, 01 Aug 2021 07:00:00 GMT",
+      "source": "Team:Dortmund Wanderers",
+      "type": "team_search",
+      "summary_ja": "ゾーリンゲン対ドルトムントのスコア情報",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Baseball: Hamburg-Trainer fliegt vom Platz – Stealers verpassen Finale - Hamburger Abendblatt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmlGb1JaandfVmtSS2pDWGFZeERJMlVDblFKWkFSNWRtdlduRTlqZ0NUWGI3aVl2aGFJblJ2bEtMWkFIcHd6ZkltV0YtM2hzcWl4OEYzU0lXOXMtR2tCUXVCS3Z3TGFDYnJFQnFfZjJsNE42ZGhNNFJPX1l3by1Pams5dzJkSGNvZkJoVWNFeS1Sc29US0pmdDh4SnRab1EyVGZDMkN5ZW9FNnZV?oc=5",
+      "date": "Sun, 24 Aug 2025 07:00:00 GMT",
+      "source": "Team:Hamburg Stealers",
+      "type": "team_search",
+      "summary_ja": "ハンブルク監督が退場処分、スティーラーズは決勝進出逃す",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "„Riesenchance“ nach 25 Jahren: Hamburger Sport-Team kann Geschichte schreiben (M+) - MOPO",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnkzNWZhdnNOczNseGVGelFOclNiTDNWUEkxWHMxSnVMNC1PejJzVjhLWnFPM1p2WU5EbXktSE5ITHdsRGpwX0l0UWgwT082LXB1dHd2Q2FxWFBqYTRTRE1fYVdHR0xJZXkxSGdlNGVKempWTWRVQ3g4VzJTcWNjXzZUbHBiSFh4M1NPYjMxX2l6T0FZUkRJOEt5X0RQeGo3MksyTGlLREdkY00?oc=5",
+      "date": "Fri, 15 Aug 2025 07:00:00 GMT",
+      "source": "Team:Hamburg Stealers",
+      "type": "team_search",
+      "summary_ja": "25年ぶりのハンブルクスポーツチームの歴史的チャンス",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Cologne Cardinals Vs Hamburg Stealers | 1. Baseball Bundesliga | 7. Spieltag Saison 2024 | LIVE [0b6f16] - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRUNTd1BidXNTbnB4U1h4ZUF1Z2x2VXZPSnZFdXNrZ0tkak03b2dMdXk0TmE0MmFaVXcwWnk4SVE4cnlPNlRVdE4wMDI5RmFIUFJuRTFxbjA2MVVXU3dlTmRUblVsWlpxU19Gdlc5TWU?oc=5",
+      "date": "Thu, 02 Apr 2026 04:58:33 GMT",
+      "source": "Team:Hamburg Stealers",
+      "type": "team_search",
+      "summary_ja": "ケルン・カーディナルズ対ハンブルク・スティーラーズの試合配信",
+      "importance": 1,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Dons in the Pros: 2021 Season - University of San Francisco Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GVDFWcFFnZXFPNEc4Ny1HWTFNWERGeXNOUjBYNmVUWS1rc3lIZ2h5NXZ3dklneVBNdGRsX19GMVhCZ1VsUFNPeklUcDNkdG5TdXh3eDM0VHFwV25VXzVkcWxFM2tqS0NBZUEwcVhVRWp4OFd1Rnl2WXBZdVM?oc=5",
+      "date": "Wed, 03 Nov 2021 07:00:00 GMT",
+      "source": "Team:Hamburg Stealers",
+      "type": "team_search",
+      "summary_ja": "USFドンズ出身選手の2021年プロシーズン情報",
+      "importance": 1,
+      "bb": 0,
+      "players": []
+    },
+    {
+      "title": "Baseball – D1 : A 40 ans, les Huskies de Rouen sont toujours aussi fringants ! - Paris Normandie",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjBKcFZWbzk0QjhSUWM3WUV3SmpFTXJseUROV1pvS3U3Q3p0ZHJFdHdFaENlTmIwSWxTVUNDaWQyTk51ZFFRYmsyeTNLVXo0RGhvaWVqYmJDRUlNMDBRSUlSTDQ2Y004clVYUXJuQnR6YmJKTjlyTWVBd3ZIdmQ5Rk9ob1dqTUtRcl96b0NWalU3a29ITWwtSmY4UDE4NjBpMUlOSGRXVjlwSlBOQUE4SkJ0ZGRkSG83YmpZRDNfTnVzaWNGbXFB?oc=5",
+      "date": "Sat, 04 Apr 2026 08:13:00 GMT",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_search",
+      "summary_ja": "ルーアン・ハスキーズ、創設40年も健在",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Les Huskies de Rouen de nouveau sacrés champions de France - L'Équipe",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnNmUGk0SUtIUFFENjhSZ2g1Z0RBWnFPcndrM0lnakZRVTVTcTlKU1ZTcDdPN1VIampkai00ODZLNDlwaFpEdmphVjdfR09kT1RtTkVTalBxT3YwOWpFVVBBZzFlUGxrQy1iQWJCM2RGODlYQmRXdHNlaWloSW83dTE0RHFyd3lkV0FiZEZ0aU42LU50SDl2MGRFMDlSaGtUdXdsTGxyRW5KeXowTkE?oc=5",
+      "date": "Sun, 14 Sep 2025 07:00:00 GMT",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_search",
+      "summary_ja": "ルーアン・ハスキーズがフランス王者に",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "The great American pastime found in the meadows of France? - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnBSNTVQcFJIWU5sUXliZEtrYmkxZWVvbHc5VkdfSDg0MWVSM2Items1cGotbjVkd09zWnNyUTc0SUlYZ3c0MTRyYzRTdEUtclpfWi1kR3czaGlveTJKWTBHMlhxd0VxcXRlYmN0ZTl3WXM0RU5vOGFKdUduSW16T1RhM2xnWWpHby1SZndraTVraG5j?oc=5",
+      "date": "Wed, 21 Aug 2024 07:00:00 GMT",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_search",
+      "summary_ja": "フランスの牧草地でアメリカの国民的娯楽",
+      "importance": 2,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Shaped by our Game: Dominic Therrien - Baseball Canada",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10NHMzbTdOWW1FZk5IMjh3UkJ2MzVRLThjalFURHBBUUFielBLVFlHbDNDU244bG5CelRpUmlMajE2TDZsVmcxNk13VDRjSXJVS3NnaGNjMEhNV1l0UWh0eFpUSVJjZw?oc=5",
+      "date": "Thu, 19 Jun 2014 07:00:00 GMT",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_search",
+      "summary_ja": "ドミニク・テリエンの野球人生を紹介",
+      "importance": 2,
+      "bb": 1,
+      "players": [
+        "Dominic Therrien"
+      ]
+    },
+    {
+      "title": "\"Het draait niet om centen, wel om passie\": Red Hawks dromen van stunt tegen profs op EK baseball in ons land - sporza.be",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1V6LVdfTWtMU29tOUxWdGdkVWJseTlKeHUweGFub05QSDZQOFNCUU5fdHd2Q1BCeHBINDlFSTRrdXBGaGRERE4wN2RjX0otY0ZhZktwZDl3QU1hWGY4dDBWMnV5TkVLOWh1eFA2RVY2NXFHS1dSV1VObXF0ZnNvNmE3eWJoSC1scVlBTHdaUjZUUkxCdGhIY2VydmVGb0QxNGR4M0FLWGgwZG4zaVV3SDVZUW5uSlhCV1lCLVhXZFRXVExjMlM4Y1BUeHNGd19UWFdJTVlpSmI4QUpuUl82T1FfMkRaS3Vr?oc=5",
+      "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "source": "Team:Red Hawks",
+      "type": "team_search",
+      "summary_ja": "レッドホークスが欧州選手権でプロに挑む",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Après la surprise du Vénézuela vainqueur aux USA, voici où en est la Belgique du baseball : \"Participer à la Coupe du monde serait un très grand rêve\" - La DH/Les Sports+ - DHnet",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNRTBEYmtMT0ZoTlRvZ0I0RkhDUjhZdE5USVhaQ1dKdC1rdllUYVV4eWlsUHVBMnFMcFNNWXN2RS14UnVmSHIwWGRVSkNkV2QzcWlrdmdxX0lEcENDQlNSWW5uUVZ2R1VPckxDXzhDNG1UWVlhb0VXQUpJaG5hcTd4SlJtbWVMQnduWlNXMXlLVE94bFotd3o5Mi0tRVFxUEliY0tsN2s5M2NRYV9FYS0xWklyRjBoSUV6OU9pVENPVDEzZ3pzRG5ua3I2dzIzRDJwMUV1UHdrelJiTXpsVGFHQU9ibXFZOHVRNk12NkZSajA0bFprQmlnWGRqb1VzUmZOOTVBSnhseTR6VThzTEZpQy1ZOHZmWDUtYTYxTGI2Rmh4NzQ0UVpNNWNpdG9Ud0V5RDBiSlc2Z3J4ckgzazNKc0o3aGZicUg0TTVmd0dvazh4NTQ?oc=5",
+      "date": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "source": "Team:Red Hawks",
+      "type": "team_search",
+      "summary_ja": "ベルギー野球の現状とW杯出場の夢",
+      "importance": 3,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "L'Euro 2025 de baseball se jouera en partie en Belgique : \"Une occasion en or\" - RTBF",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTQwMWVHRlY1V0pKR3NkNWFxa0sxVUFYQjRmY1o1aVFaeVVycnIwd1ljN1pCWlFrVVo3RTFIRmhSZWc4LVh3ZGo0b3h6clpwVS1KWjNhU2hLSFAtb2RNWE83LUZSM2U5TFI0NVhaMEFGbWU5ejNodk5BZ2NWSTd1eHJHYThjU0ItWllDX05aZ3BtaHJWMmxqS2NJMDNvbFN0RkRZNU9VbmxYbkZjU2hFMg?oc=5",
+      "date": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "source": "Team:Red Hawks",
+      "type": "team_search",
+      "summary_ja": "2025年欧州野球選手権がベルギーで開催",
+      "importance": 4,
+      "bb": 1,
+      "players": []
+    },
+    {
+      "title": "Samen voor HCAW – Belavond VriendenLoterij!",
+      "url": "https://www.hcaw.nl/samen-voor-hcaw-belavond-vriendenloterij/",
+      "date": "Fri, 10 Apr 2026 08:32:28 +0000",
+      "source": "Team:HCAW",
+      "type": "team_rss"
+    },
+    {
+      "title": "Slagwijdte 2-2026",
+      "url": "https://www.hcaw.nl/slagwijdte-2-2026/",
+      "date": "Wed, 08 Apr 2026 11:15:54 +0000",
+      "source": "Team:HCAW",
+      "type": "team_rss"
+    },
+    {
+      "title": "Mooi resultaat HCAW 2 op het Mastenbroektoernooi",
+      "url": "https://www.hcaw.nl/mooi-resultaat-hcaw-2-op-het-mastenbroektoernooi/",
+      "date": "Mon, 06 Apr 2026 13:53:42 +0000",
+      "source": "Team:HCAW",
+      "type": "team_rss"
+    },
+    {
+      "title": "Toernooiwinst voor Twins",
+      "url": "https://www.hcaw.nl/toernooiwinst-voor-twins/",
+      "date": "Mon, 06 Apr 2026 13:32:21 +0000",
+      "source": "Team:HCAW",
+      "type": "team_rss"
+    },
+    {
+      "title": "Charles Urbanus Sr. Toernooi",
+      "url": "https://www.hcaw.nl/charles-urbanus-sr-toernooi/",
+      "date": "Mon, 30 Mar 2026 08:49:13 +0000",
+      "source": "Team:HCAW",
+      "type": "team_rss"
+    },
+    {
+      "title": "2019-10-01: Corona Lockdown Abstellgleis Partyband",
+      "url": "https://www.untouchables.de/2019-10-01-corona-lockdown-abstellgleis-partyband/",
+      "date": "Tue, 01 Oct 2019 14:12:35 +0000",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_rss"
+    },
+    {
+      "title": "2019-06-01: Bad Bramstedt Hochzeitsfeier",
+      "url": "https://www.untouchables.de/2019-06-01-bad-bramstedt-hochzeitsfeier/",
+      "date": "Sat, 01 Jun 2019 14:03:15 +0000",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_rss"
+    },
+    {
+      "title": "2019-03-17: Ratekau Feuerwehrball",
+      "url": "https://www.untouchables.de/2019-03-17-ratekau-feuerwehrball/",
+      "date": "Sun, 17 Mar 2019 13:56:45 +0000",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_rss"
+    },
+    {
+      "title": "2018-12-31: Ahrensburg Park Hotel Silvesterparty",
+      "url": "https://www.untouchables.de/2018-12-31-ahrensburg-park-hotel-silvesterparty/",
+      "date": "Mon, 31 Dec 2018 13:52:54 +0000",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_rss"
+    },
+    {
+      "title": "2018-11-10: Estebrügge Königsball Kirschenland",
+      "url": "https://www.untouchables.de/2018-11-10-estebruegge-koenigsball-kirschenland/",
+      "date": "Sat, 10 Nov 2018 12:59:55 +0000",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_rss"
+    },
+    {
+      "title": "U´s DBL vs. Stuttgart REDS - Pre-Season Game 2",
+      "url": "https://www.youtube.com/watch?v=V93Vc2tKa1c",
+      "date": "2026-04-05T13:02:10+00:00",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_youtube"
+    },
+    {
+      "title": "U´s DBL vs. Stuttgart REDS - Pre-Season Game 1",
+      "url": "https://www.youtube.com/watch?v=hnOebkesK3M",
+      "date": "2026-04-04T15:56:57+00:00",
+      "source": "Team:Untouchables Paderborn",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Auf in die neue Saison",
+      "url": "https://www.mainz-athletics.de/2026/04/08/auf-in-die-neue-saison/",
+      "date": "Wed, 08 Apr 2026 19:37:02 +0000",
+      "source": "Team:Mainz Athletics",
+      "type": "team_rss"
+    },
+    {
+      "title": "Neues Trainergespann und drei Imports für das DBL-Team",
+      "url": "https://www.mainz-athletics.de/2026/03/04/neues-trainergespann-und-drei-imports-fuer-das-dbl-team/",
+      "date": "Wed, 04 Mar 2026 09:02:23 +0000",
+      "source": "Team:Mainz Athletics",
+      "type": "team_rss"
+    },
+    {
+      "title": "Römercup in Ladenburg: Softball-Verbandsliga startet neu aufgestellt in die Saison",
+      "url": "https://www.mainz-athletics.de/2025/11/09/roemercup-in-ladenburg-softball-verbandsliga-startet-neu-aufgestellt-in-die-saison/",
+      "date": "Sun, 09 Nov 2025 20:46:40 +0000",
+      "source": "Team:Mainz Athletics",
+      "type": "team_rss"
+    },
+    {
+      "title": "25 Jahre AAAs: Ein Rückblick",
+      "url": "https://www.mainz-athletics.de/2025/10/10/25-jahre-aaas-ein-rueckblick/",
+      "date": "Fri, 10 Oct 2025 21:10:41 +0000",
+      "source": "Team:Mainz Athletics",
+      "type": "team_rss"
+    },
+    {
+      "title": "Genau, wofür wir das machen – Die Zweite Bundesliga 2025",
+      "url": "https://www.mainz-athletics.de/2025/10/10/genau-wofuer-wir-das-machen-die-zweite-bundesliga-2025/",
+      "date": "Fri, 10 Oct 2025 20:55:14 +0000",
+      "source": "Team:Mainz Athletics",
+      "type": "team_rss"
+    },
+    {
+      "title": "Live 🔴 Deutsche Baseball Liga: Mainz Athletics vs. Heidenheim Heideköpfe - Spiel 2",
+      "url": "https://www.youtube.com/watch?v=q3detgRNSe0",
+      "date": "2026-04-04T13:47:49+00:00",
+      "source": "Team:Mainz Athletics",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Live 🔴 Deutsche Baseball Liga: Mainz Athletics vs. Heidenheim Heideköpfe - Spiel 1",
+      "url": "https://www.youtube.com/watch?v=4hY1UvD0Uc0",
+      "date": "2026-04-04T13:45:30+00:00",
+      "source": "Team:Mainz Athletics",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Live 🔴 Deutsche Baseball Liga: Mainz Athletics vs. Gauting Indians - Spiel 2",
+      "url": "https://www.youtube.com/watch?v=UYZys-gmBTE",
+      "date": "2026-04-04T13:42:26+00:00",
+      "source": "Team:Mainz Athletics",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Live 🔴 Deutsche Baseball Liga: Stuttgart Reds vs. Heidenheim Heideköpfe - Spiel 2",
+      "url": "https://www.youtube.com/watch?v=HCmhwKhpN6U",
+      "date": "2026-04-08T14:43:40+00:00",
+      "source": "Team:Stuttgart Reds",
+      "type": "team_youtube"
+    },
+    {
+      "title": "IT’S OPENING WEEKEND: al via la stagione 2026 per la nostra Unipol Fortitudo Bologna!",
+      "url": "https://www.fortitudobaseball.it/news/380621983238/it-s-opening-weekend-al-via-la-stagione-2026-per-la-nostra-unipol-fortitudo-bologna",
+      "date": "Thu, 09 Apr 2026 17:46:00 +0200",
+      "source": "Team:Fortitudo Bologna",
+      "type": "team_rss"
+    },
+    {
+      "title": "La casacca numero 24, storicamente indossata da Claudio Liverziani, torna a essere assegnata per la stagione in corso.",
+      "url": "https://www.fortitudobaseball.it/news/174463553030/la-casacca-numero-24-storicamente-indossata-da-claudio-liverziani-torna-a-essere-assegnata-per-la-stagione-in-corso",
+      "date": "Wed, 08 Apr 2026 09:45:00 +0200",
+      "source": "Team:Fortitudo Bologna",
+      "type": "team_rss"
+    },
+    {
+      "title": "7 Aprile 2026: presentata ufficialmente la stagione dell'Unipol Fortitudo Bologna.",
+      "url": "https://www.fortitudobaseball.it/news/449341459974/7-aprile-2026-presentata-ufficialmente-la-stagione-dell-unipol-fortitudo-bologna",
+      "date": "Tue, 07 Apr 2026 16:45:00 +0200",
+      "source": "Team:Fortitudo Bologna",
+      "type": "team_rss"
+    },
+    {
+      "title": "L'Unipol Fortitudo riabbraccia Shervyen Newton per il secondo anno consecutivo!",
+      "url": "https://www.fortitudobaseball.it/news/37024599558/l-unipol-fortitudo-riabbraccia-shervyen-newton-per-il-secondo-anno-consecutivo",
+      "date": "Wed, 18 Mar 2026 17:00:00 +0100",
+      "source": "Team:Fortitudo Bologna",
+      "type": "team_rss"
+    },
+    {
+      "title": "Fortitudo Baseball scende in campo con Repas!",
+      "url": "https://www.fortitudobaseball.it/news/311902506502/fortitudo-baseball-scende-in-campo-con-repas",
+      "date": "Fri, 06 Mar 2026 11:00:00 +0100",
+      "source": "Team:Fortitudo Bologna",
+      "type": "team_rss"
+    },
+    {
+      "title": "1986, la création des Huskies",
+      "url": "https://www.rouenbaseball76.fr/2026/04/09/1986-la-creation-des-huskies/",
+      "date": "Thu, 09 Apr 2026 10:58:29 +0000",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_rss"
+    },
+    {
+      "title": "Les Huskies ont 40 ans",
+      "url": "https://www.rouenbaseball76.fr/2026/04/01/les-huskies-ont-40-ans/",
+      "date": "Wed, 01 Apr 2026 14:31:54 +0000",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_rss"
+    },
+    {
+      "title": "Un bel échange franco-japonais",
+      "url": "https://www.rouenbaseball76.fr/2026/04/01/un-bel-echange-franco-japonais/",
+      "date": "Wed, 01 Apr 2026 13:48:41 +0000",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_rss"
+    },
+    {
+      "title": "Capitaine Esteban Prioul",
+      "url": "https://www.rouenbaseball76.fr/2026/03/30/capitaine-esteban-prioul/",
+      "date": "Mon, 30 Mar 2026 16:15:14 +0000",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_rss"
+    },
+    {
+      "title": "Entretien avec Quentin Becquey",
+      "url": "https://www.rouenbaseball76.fr/2026/03/30/itv-becquey/",
+      "date": "Mon, 30 Mar 2026 12:24:23 +0000",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_rss"
+    },
+    {
+      "title": "Championnat de France BB D2  Rouen / Metz match 2",
+      "url": "https://www.youtube.com/watch?v=lU7ltwTqPkA",
+      "date": "2026-04-06T09:37:19+00:00",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Championnat de France BB D2  Rouen / Metz",
+      "url": "https://www.youtube.com/watch?v=HJ3V2bXIzy4",
+      "date": "2026-04-06T09:32:44+00:00",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Championnat de France BB D1 Rouen / Senart",
+      "url": "https://www.youtube.com/watch?v=taSBfWKg10U",
+      "date": "2026-04-06T09:25:46+00:00",
+      "source": "Team:Huskies de Rouen",
+      "type": "team_youtube"
+    },
+    {
+      "title": "Matchs décisifs contre METZ",
+      "url": "https://www.templiers-senart.com/matchs-decisifs-contre-metz/",
+      "date": "Wed, 16 Jul 2025 08:26:44 +0000",
+      "source": "Team:Templiers de Sénart",
+      "type": "team_rss"
+    },
+    {
+      "title": "Le baseball dans les écoles de Sénart",
+      "url": "https://www.templiers-senart.com/le-baseball-dans-les-ecoles-de-senart/",
+      "date": "Fri, 11 Jul 2025 09:32:39 +0000",
+      "source": "Team:Templiers de Sénart",
+      "type": "team_rss"
+    },
+    {
+      "title": "La D1 en pente difficile",
+      "url": "https://www.templiers-senart.com/la-d1-en-pente-difficile/",
+      "date": "Mon, 07 Jul 2025 15:13:43 +0000",
+      "source": "Team:Templiers de Sénart",
+      "type": "team_rss"
+    },
+    {
+      "title": "Dimanche 20 avril au Templiers Stadium !",
+      "url": "https://www.templiers-senart.com/dimanche-20-avril-au-templiers-stadium/",
+      "date": "Thu, 17 Apr 2025 21:21:06 +0000",
+      "source": "Team:Templiers de Sénart",
+      "type": "team_rss"
+    },
+    {
+      "title": "Les Templiers commencent fort !",
+      "url": "https://www.templiers-senart.com/les-templiers-commencent-fort/",
+      "date": "Mon, 24 Mar 2025 08:00:26 +0000",
+      "source": "Team:Templiers de Sénart",
+      "type": "team_rss"
+    }
+  ],
+  "error_sources": [
+    "Slovenia"
+  ]
+}

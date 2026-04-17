@@ -1,0 +1,5361 @@
+{
+  "updated_at": "2026-04-14T07:02:03.256916",
+  "leagues": {
+    "DE": {
+      "name": "Deutsche Baseball Bundesliga",
+      "games": [
+        {
+          "date": "2026-04-10",
+          "time": "18:00",
+          "home": "Heidenheim Heideköpfe",
+          "away": "Stuttgart Reds",
+          "location": "Heidenheim an der Brenz",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-427",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "19:00",
+          "home": "Mainz Athletics",
+          "away": "München-Haar Disciples",
+          "location": "Mainz",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-367",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "13:00",
+          "home": "Mainz Athletics",
+          "away": "München-Haar Disciples",
+          "location": "Mainz",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-363",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "13:00",
+          "home": "Stuttgart Reds",
+          "away": "Heidenheim Heideköpfe",
+          "location": "Stuttgart",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-366",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "14:00",
+          "home": "Hünstetten STORM",
+          "away": "Bonn Capitals",
+          "location": "Hünstetten",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/423",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "14:00",
+          "home": "Guggenberger Legionäre",
+          "away": "Gauting Indians",
+          "location": "Regensburg",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/422",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "18:00",
+          "home": "Untouchables Paderborn",
+          "away": "Cologne Cardinals",
+          "location": "Paderborn",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/425",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:00",
+          "home": "Hamburg Stealers",
+          "away": "Dortmund Wanderers",
+          "location": "Hamburg",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/456",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "12:00",
+          "home": "Gauting Indians",
+          "away": "Guggenberger Legionäre",
+          "location": "Gauting",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/393",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "13:00",
+          "home": "Hamburg Stealers",
+          "away": "Dortmund Wanderers",
+          "location": "Hamburg",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/454",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "14:00",
+          "home": "Untouchables Paderborn",
+          "away": "Cologne Cardinals",
+          "location": "Paderborn",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/362",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "14:00",
+          "home": "Bonn Capitals",
+          "away": "Hünstetten STORM",
+          "location": "Bonn",
+          "stream_url": "https://www.baseball.de/saison/spielplaene/spiel/365",
+          "tz": "Europe/Berlin",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "19:00",
+          "home": "Guggenberger Legionäre",
+          "away": "Mainz Athletics",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-428"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "19:00",
+          "home": "Stuttgart Reds",
+          "away": "Gauting Indians",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-429"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "13:00",
+          "home": "Stuttgart Reds",
+          "away": "Gauting Indians",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-430"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:00",
+          "home": "Cologne Cardinals",
+          "away": "Bonn Capitals",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-432"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:00",
+          "home": "Hünstetten STORM",
+          "away": "Hamburg Stealers",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-368"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:00",
+          "home": "Guggenberger Legionäre",
+          "away": "Mainz Athletics",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-431"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "16:00",
+          "home": "München-Haar Disciples",
+          "away": "Heidenheim Heideköpfe",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-369"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "17:00",
+          "home": "Dortmund Wanderers",
+          "away": "Untouchables Paderborn",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-370"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "12:00",
+          "home": "Hünstetten STORM",
+          "away": "Hamburg Stealers",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-372"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "12:00",
+          "home": "München-Haar Disciples",
+          "away": "Heidenheim Heideköpfe",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-433"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "14:00",
+          "home": "Bonn Capitals",
+          "away": "Cologne Cardinals",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-401"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "17:00",
+          "home": "Untouchables Paderborn",
+          "away": "Dortmund Wanderers",
+          "tz": "Europe/Berlin",
+          "status": "scheduled",
+          "stream_url": "https://www.baseball.de/saison/live/spiel-403"
+        }
+      ]
+    },
+    "CZ": {
+      "name": "Extraliga",
+      "games": [
+        {
+          "date": "2026-04-19",
+          "time": null,
+          "home": "Kotlarka Praha",
+          "away": "Hrosi Brno",
+          "tz": "Europe/Prague",
+          "status": "scheduled",
+          "stream_url": "https://www.baseballczech.tv/cze"
+        },
+        {
+          "date": "2026-04-19",
+          "time": null,
+          "home": "SaBaT Praha",
+          "away": "Arrows Ostrava",
+          "tz": "Europe/Prague",
+          "status": "scheduled",
+          "stream_url": "https://www.baseballczech.tv/cze"
+        },
+        {
+          "date": "2026-04-20",
+          "time": null,
+          "home": "Nuclears Trebic",
+          "away": "Draci Brno",
+          "tz": "Europe/Prague",
+          "status": "scheduled",
+          "stream_url": "https://www.baseballczech.tv/cze"
+        }
+      ]
+    },
+    "IT": {
+      "name": "Serie A Gold",
+      "games": [
+        {
+          "date": "2026-04-10",
+          "time": "19:00",
+          "home": "San Marino",
+          "away": "Hotsand Macerata",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=OoIEf5WWoq4"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Farma Crocetta",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=o2ZbeOgXIMA"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home": "Parma",
+          "away": "BBC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=YzJXIwsxi3I"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "home": "Nettuno 1945",
+          "away": "Reggio Emilia",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=5tjeipntyMI"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:00",
+          "home": "Hotsand Macerata",
+          "away": "San Marino",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=SLaop6JD6fo"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "Unipol Bologna",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=PSET26zyvuc"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "BBC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=gRSSVj3U6kk"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Reggio Emilia",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=0TykL-uLFig"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Farma Crocetta",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Reggio Emilia",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Nettuno 1945",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home": "Camec Collecchio",
+          "away": "Hotsand Macerata",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "Parma",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "San Marino",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Nettuno 1945",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Hotsand Macerata",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "Camec Collecchio",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Parma",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Unipol Bologna",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home": "San Marino",
+          "away": "Big Mat BSC Grosseto",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home": "Reggio Emilia",
+          "away": "Hotsand Macerata",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "Camec Collecchio",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Parma",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Unipol Bologna",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Big Mat BSC Grosseto",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Hotsand Macerata",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Farma Crocetta",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Unipol Bologna",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Reggio Emilia",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "15:00",
+          "home": "San Marino",
+          "away": "BBC Grosseto",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "15:00",
+          "home": "Hotsand Macerata",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "BBC Grosseto",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Farma Crocetta",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Parma",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Camec Collecchio",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Nettuno 1945",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "15:00",
+          "home": "Parma",
+          "away": "Hotsand Macerata",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "15:00",
+          "home": "Farma Crocetta",
+          "away": "BBC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Reggio Emilia",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "15:00",
+          "home": "Camec Collecchio",
+          "away": "San Marino",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Hotsand Macerata",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Nettuno 1945",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "BBC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Reggio Emilia",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "San Marino",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-15",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "San Marino",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:00",
+          "home": "Reggio Emilia",
+          "away": "BBC Grosseto",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:00",
+          "home": "Parma",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:00",
+          "home": "Nettuno 1945",
+          "away": "Camec Collecchio",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:00",
+          "home": "Hotsand Macerata",
+          "away": "Farma Crocetta",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Unipol Bologna",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "BBC Grosseto",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Camec Collecchio",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Farma Crocetta",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-22",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Camec Collecchio",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Hotsand Macerata",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Farma Crocetta",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Unipol Bologna",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Hotsand Macerata",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Farma Crocetta",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-29",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Parma",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-29",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Unipol Bologna",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "15:00",
+          "home": "Farma Crocetta",
+          "away": "San Marino",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "15:00",
+          "home": "Hotsand Macerata",
+          "away": "Nettuno 1945",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Parma",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Reggio Emilia",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Nettuno 1945",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "20:30",
+          "home": "Farma Crocetta",
+          "away": "San Marino",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Unipol Bologna",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Parma",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Farma Crocetta",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Nettuno 1945",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "15:00",
+          "home": "Camec Collecchio",
+          "away": "BBC Grosseto",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Hotsand Macerata",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "20:00",
+          "home": "Farma Crocetta",
+          "away": "Reggio Emilia",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Nettuno 1945",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "BBC Grosseto",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "20:30",
+          "home": "Parma",
+          "away": "San Marino",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "San Marino",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "20:30",
+          "home": "Farma Crocetta",
+          "away": "Unipol Bologna",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Parma",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "15:00",
+          "home": "Camec Collecchio",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Farma Crocetta",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Parma",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "20:30",
+          "home": "San Marino",
+          "away": "Hotsand Macerata",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-19",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "San Marino",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-19",
+          "time": "20:30",
+          "home": "Farma Crocetta",
+          "away": "Parma",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Unipol Bologna",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "15:00",
+          "home": "Nettuno 1945",
+          "away": "BBC Grosseto",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "15:00",
+          "home": "Hotsand Macerata",
+          "away": "Camec Collecchio",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Unipol Bologna",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Farma Crocetta",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Reggio Emilia",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "BBC Grosseto",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Camec Collecchio",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Camec Collecchio",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Camec Collecchio",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Nettuno 1945",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "15:00",
+          "home": "Unipol Bologna",
+          "away": "BBC Grosseto",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "San Marino",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "15:00",
+          "home": "Hotsand Macerata",
+          "away": "Reggio Emilia",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Nettuno 1945",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "BBC Grosseto",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "San Marino",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
+          "home": "Hotsand Macerata",
+          "away": "Reggio Emilia",
+          "location": "Macerata",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-17",
+          "time": "20:00",
+          "home": "Unipol Bologna",
+          "away": "Parma",
+          "location": "Bologna",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-17",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Camec Collecchio",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "15:00",
+          "home": "Farma Crocetta",
+          "away": "Nettuno 1945",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "15:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Hotsand Macerata",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Unipol Bologna",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "20:00",
+          "home": "Camec Collecchio",
+          "away": "Reggio Emilia",
+          "location": "Collecchio",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "20:00",
+          "home": "Big Mat BSC Grosseto",
+          "away": "Hotsand Macerata",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "20:30",
+          "home": "Farma Crocetta",
+          "away": "Nettuno 1945",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-20",
+          "time": "20:30",
+          "home": "Nettuno 1945",
+          "away": "San Marino",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-21",
+          "time": "15:00",
+          "home": "Parma",
+          "away": "Reggio Emilia",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-21",
+          "time": "20:00",
+          "home": "Parma",
+          "away": "Reggio Emilia",
+          "location": "Parma",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-21",
+          "time": "20:30",
+          "home": "Nettuno 1945",
+          "away": "San Marino",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Unipol Bologna",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:00",
+          "home": "BBC Grosseto",
+          "away": "Farma Crocetta",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:00",
+          "home": "Reggio Emilia",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:00",
+          "home": "San Marino",
+          "away": "Camec Collecchio",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:00",
+          "home": "Nettuno 1945",
+          "away": "Unipol Bologna",
+          "location": "Nettuno",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:00",
+          "home": "BBC Grosseto",
+          "away": "Farma Crocetta",
+          "location": "Grosseto",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:00",
+          "home": "Reggio Emilia",
+          "away": "Big Mat BSC Grosseto",
+          "location": "Reggio Nell'Emilia",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "20:00",
+          "home": "San Marino",
+          "away": "Camec Collecchio",
+          "location": "San Marino",
+          "tz": "Europe/Rome",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "AT": {
+      "name": "Baseball Bundesliga",
+      "games": [
+        {
+          "date": "2026-04-17",
+          "time": "19:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72509/diving-ducks-wiener-neustadt-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "13:00",
+          "home": "Hard Bulls",
+          "away": "Dornbirn Indians",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72510/hard-bulls-dornbirn-indians"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72511/traiskirchen-grasshoppers-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:30",
+          "home": "Hard Bulls",
+          "away": "Dornbirn Indians",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72512/hard-bulls-dornbirn-indians"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "13:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Vienna Metrostars",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72513/schwechat-blue-bats-vienna-metrostars"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "15:30",
+          "home": "Schwechat Blue Bats",
+          "away": "Vienna Metrostars",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72514/schwechat-blue-bats-vienna-metrostars"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72515/schwechat-blue-bats-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "13:00",
+          "home": "Vienna Metrostars",
+          "away": "Dornbirn Indians",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72516/vienna-metrostars-dornbirn-indians"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:00",
+          "home": "Vienna Wanderers",
+          "away": "Hard Bulls",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72517/vienna-wanderers-hard-bulls"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:30",
+          "home": "Vienna Metrostars",
+          "away": "Dornbirn Indians",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72518/vienna-metrostars-dornbirn-indians"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "17:30",
+          "home": "Vienna Wanderers",
+          "away": "Hard Bulls",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72519/vienna-wanderers-hard-bulls"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Schwechat Blue Bats",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72520/traiskirchen-grasshoppers-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-05-01",
+          "time": "19:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72521/schwechat-blue-bats-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "11:00",
+          "home": "Hard Bulls",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72522/hard-bulls-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "13:00",
+          "home": "Dornbirn Indians",
+          "away": "Vienna Wanderers",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72523/dornbirn-indians-vienna-wanderers"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "13:30",
+          "home": "Hard Bulls",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72524/hard-bulls-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "15:30",
+          "home": "Dornbirn Indians",
+          "away": "Vienna Wanderers",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72525/dornbirn-indians-vienna-wanderers"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "18:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Schwechat Blue Bats",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72526/diving-ducks-wiener-neustadt-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "19:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Vienna Wanderers",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72527/schwechat-blue-bats-vienna-wanderers"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "11:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Dornbirn Indians",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72528/traiskirchen-grasshoppers-dornbirn-indians"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "13:30",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Dornbirn Indians",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72529/traiskirchen-grasshoppers-dornbirn-indians"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Hard Bulls",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72530/diving-ducks-wiener-neustadt-hard-bulls"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "16:30",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Hard Bulls",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72531/diving-ducks-wiener-neustadt-hard-bulls"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "18:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Vienna Wanderers",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72532/schwechat-blue-bats-vienna-wanderers"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "11:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Vienna Metrostars",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72533/traiskirchen-grasshoppers-vienna-metrostars"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:00",
+          "home": "Hard Bulls",
+          "away": "Schwechat Blue Bats",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72534/hard-bulls-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:30",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Vienna Metrostars",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72535/traiskirchen-grasshoppers-vienna-metrostars"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "15:30",
+          "home": "Hard Bulls",
+          "away": "Schwechat Blue Bats",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72536/hard-bulls-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-05-17",
+          "time": "11:00",
+          "home": "Dornbirn Indians",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72537/dornbirn-indians-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-05-17",
+          "time": "13:30",
+          "home": "Dornbirn Indians",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72538/dornbirn-indians-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-05-29",
+          "time": "19:00",
+          "home": "Vienna Wanderers",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72539/vienna-wanderers-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "13:00",
+          "home": "Vienna Metrostars",
+          "away": "Schwechat Blue Bats",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72540/vienna-metrostars-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Vienna Wanderers",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72541/traiskirchen-grasshoppers-vienna-wanderers"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "15:30",
+          "home": "Vienna Metrostars",
+          "away": "Schwechat Blue Bats",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72542/vienna-metrostars-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "11:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Hard Bulls",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72543/traiskirchen-grasshoppers-hard-bulls"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "13:30",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Hard Bulls",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72544/traiskirchen-grasshoppers-hard-bulls"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:30",
+          "home": "Vienna Metrostars",
+          "away": "Vienna Wanderers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72545/vienna-metrostars-vienna-wanderers"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "17:00",
+          "home": "Vienna Metrostars",
+          "away": "Vienna Wanderers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72546/vienna-metrostars-vienna-wanderers"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "19:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72547/schwechat-blue-bats-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "19:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Vienna Wanderers",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72548/diving-ducks-wiener-neustadt-vienna-wanderers"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "13:00",
+          "home": "Dornbirn Indians",
+          "away": "Hard Bulls",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72549/dornbirn-indians-hard-bulls"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "15:30",
+          "home": "Dornbirn Indians",
+          "away": "Hard Bulls",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72550/dornbirn-indians-hard-bulls"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "18:00",
+          "home": "Vienna Wanderers",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72551/vienna-wanderers-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Schwechat Blue Bats",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72552/traiskirchen-grasshoppers-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-06-19",
+          "time": "19:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Schwechat Blue Bats",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72553/diving-ducks-wiener-neustadt-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "13:00",
+          "home": "Hard Bulls",
+          "away": "Vienna Metrostars",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72554/hard-bulls-vienna-metrostars"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "14:00",
+          "home": "Vienna Wanderers",
+          "away": "Dornbirn Indians",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72555/vienna-wanderers-dornbirn-indians"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "15:30",
+          "home": "Hard Bulls",
+          "away": "Vienna Metrostars",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72556/hard-bulls-vienna-metrostars"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "16:30",
+          "home": "Vienna Wanderers",
+          "away": "Dornbirn Indians",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72557/vienna-wanderers-dornbirn-indians"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "18:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72558/schwechat-blue-bats-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "19:00",
+          "home": "Vienna Wanderers",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72559/vienna-wanderers-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Vienna Wanderers",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72560/traiskirchen-grasshoppers-vienna-wanderers"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "18:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Vienna Metrostars",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72561/diving-ducks-wiener-neustadt-vienna-metrostars"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "15:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Vienna Metrostars",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72562/diving-ducks-wiener-neustadt-vienna-metrostars"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "12:00",
+          "home": "Dornbirn Indians",
+          "away": "Schwechat Blue Bats",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72563/dornbirn-indians-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "13:00",
+          "home": "Hard Bulls",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72564/hard-bulls-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "14:30",
+          "home": "Dornbirn Indians",
+          "away": "Schwechat Blue Bats",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72566/dornbirn-indians-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "14:30",
+          "home": "Vienna Metrostars",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72565/vienna-metrostars-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "15:30",
+          "home": "Hard Bulls",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72567/hard-bulls-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "17:00",
+          "home": "Vienna Metrostars",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72568/vienna-metrostars-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "11:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Hard Bulls",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72569/schwechat-blue-bats-hard-bulls"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "13:00",
+          "home": "Dornbirn Indians",
+          "away": "Vienna Metrostars",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72570/dornbirn-indians-vienna-metrostars"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "13:30",
+          "home": "Schwechat Blue Bats",
+          "away": "Hard Bulls",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72571/schwechat-blue-bats-hard-bulls"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "15:30",
+          "home": "Dornbirn Indians",
+          "away": "Vienna Metrostars",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72572/dornbirn-indians-vienna-metrostars"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "13:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Dornbirn Indians",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72573/diving-ducks-wiener-neustadt-dornbirn-indians"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "15:30",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Dornbirn Indians",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72574/diving-ducks-wiener-neustadt-dornbirn-indians"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "18:00",
+          "home": "Vienna Wanderers",
+          "away": "Vienna Metrostars",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72575/vienna-wanderers-vienna-metrostars"
+        },
+        {
+          "date": "2026-07-19",
+          "time": "15:00",
+          "home": "Vienna Wanderers",
+          "away": "Vienna Metrostars",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72576/vienna-wanderers-vienna-metrostars"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "13:00",
+          "home": "Vienna Metrostars",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72577/vienna-metrostars-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "13:00",
+          "home": "Dornbirn Indians",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72578/dornbirn-indians-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:30",
+          "home": "Vienna Metrostars",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72579/vienna-metrostars-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:30",
+          "home": "Dornbirn Indians",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Dornbirn",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72580/dornbirn-indians-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "home": "Hard Bulls",
+          "away": "Vienna Wanderers",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72581/hard-bulls-vienna-wanderers"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "13:30",
+          "home": "Hard Bulls",
+          "away": "Vienna Wanderers",
+          "location": "Hard",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72582/hard-bulls-vienna-wanderers"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Vienna Wanderers",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72583/diving-ducks-wiener-neustadt-vienna-wanderers"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "19:00",
+          "home": "Vienna Wanderers",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72584/vienna-wanderers-diving-ducks-wiener-neustadt"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "13:00",
+          "home": "Vienna Metrostars",
+          "away": "Hard Bulls",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72585/vienna-metrostars-hard-bulls"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "13:00",
+          "home": "Schwechat Blue Bats",
+          "away": "Dornbirn Indians",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72586/schwechat-blue-bats-dornbirn-indians"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "15:30",
+          "home": "Vienna Metrostars",
+          "away": "Hard Bulls",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72587/vienna-metrostars-hard-bulls"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "15:30",
+          "home": "Schwechat Blue Bats",
+          "away": "Dornbirn Indians",
+          "location": "Schwechat",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72588/schwechat-blue-bats-dornbirn-indians"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "19:00",
+          "home": "Vienna Wanderers",
+          "away": "Schwechat Blue Bats",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72589/vienna-wanderers-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "19:00",
+          "home": "Wr. Neustadt Diving Ducks",
+          "away": "Traiskirchen Grasshoppers",
+          "location": "Wiener Neustadt",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72590/diving-ducks-wiener-neustadt-traiskirchen-grasshoppers"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "18:00",
+          "home": "Vienna Wanderers",
+          "away": "Schwechat Blue Bats",
+          "location": "Vienna",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72591/vienna-wanderers-schwechat-blue-bats"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "14:00",
+          "home": "Traiskirchen Grasshoppers",
+          "away": "Wr. Neustadt Diving Ducks",
+          "location": "Traiskirchen",
+          "tz": "Europe/Vienna",
+          "status": "scheduled",
+          "stream_url": "https://baseballsoftball.tv/event/72592/traiskirchen-grasshoppers-diving-ducks-wiener-neustadt"
+        }
+      ]
+    },
+    "FR": {
+      "name": "Division 1",
+      "games": [
+        {
+          "date": "2026-04-04",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "Paris Université Club",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=BVeEINh-CwU"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Béziers Pirates",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@BarracudasMontpellier/streams"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "16:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@lesboucanierstv"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Sénart Templiers",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@stadetoulousainbaseball8107/streams"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Paris Université Club",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=-olO6TKwDQQ"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Béziers Pirates",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@BarracudasMontpellier/streams"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Sénart Templiers",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@stadetoulousainbaseball8107/streams"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/@lesboucanierstv"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Montpellier Barracudas",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@pucbaseball"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "La Rochelle Boucaniers",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@senarttempliers"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Rouen Huskies",
+          "location": "Gellainville",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@savignybaseball9826"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Béziers Pirates",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@stadetoulousainbaseball8107"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Montpellier Barracudas",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@pucbaseball"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "La Rochelle Boucaniers",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@senarttempliers"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Rouen Huskies",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@savignybaseball9826"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "12:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Béziers Pirates",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "final",
+          "stream_url": "https://youtube.com/@stadetoulousainbaseball8107"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Béziers Pirates",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "Sénart Templiers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Paris Université Club",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Paris Université Club",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Béziers Pirates",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Sénart Templiers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "Rouen Huskies",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Montpellier Barracudas",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "16:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Stade Toulousain Tigers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "La Rochelle Boucaniers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Rouen Huskies",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Montpellier Barracudas",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Stade Toulousain Tigers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "La Rochelle Boucaniers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Béziers Pirates",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "17:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Rouen Huskies",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Montpellier Barracudas",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Rouen Huskies",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Montpellier Barracudas",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Béziers Pirates",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-24",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-24",
+          "time": "14:00",
+          "home": "Rouen Huskies",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "Stade Toulousain Tigers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "La Rochelle Boucaniers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Paris Université Club",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-31",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Stade Toulousain Tigers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-31",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "La Rochelle Boucaniers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-31",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Paris Université Club",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-31",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Rouen Huskies",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "16:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Sénart Templiers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Béziers Pirates",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "La Rochelle Boucaniers",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Rouen Huskies",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "La Rochelle Boucaniers",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Sénart Templiers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Béziers Pirates",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Paris Université Club",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "16:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Sénart Templiers",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Paris Université Club",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Sénart Templiers",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "Stade Toulousain Tigers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-21",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Stade Toulousain Tigers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Rouen Huskies",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "Montpellier Barracudas",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Stade Toulousain Tigers",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "16:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "La Rochelle Boucaniers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Rouen Huskies",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Montpellier Barracudas",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Stade Toulousain Tigers",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "La Rochelle Boucaniers",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "Béziers Pirates",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Sénart Templiers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "17:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Paris Université Club",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "19:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Béziers Pirates",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Sénart Templiers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Paris Université Club",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Stade Toulousain Tigers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "La Rochelle Boucaniers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Rouen Huskies",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Montpellier Barracudas",
+          "location": "Savigny-sur-Orge",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Stade Toulousain Tigers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "La Rochelle Boucaniers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Rouen Huskies",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Montpellier Barracudas",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:00",
+          "home": "Paris Université Club",
+          "away": "Sénart Templiers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "17:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Rouen Huskies",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "17:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Montpellier Barracudas",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Béziers Pirates",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "home": "Stade Toulousain Tigers",
+          "away": "Rouen Huskies",
+          "location": "Toulouse",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Montpellier Barracudas",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "home": "Paris Université Club",
+          "away": "Sénart Templiers",
+          "location": "Paris",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Béziers Pirates",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "La Rochelle Boucaniers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "16:00",
+          "home": "Montpellier Barracudas",
+          "away": "Stade Toulousain Tigers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "16:00",
+          "home": "Béziers Pirates",
+          "away": "Sénart Templiers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "19:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Paris Université Club",
+          "location": "Gellainville",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "La Rochelle Boucaniers",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "11:00",
+          "home": "Montpellier Barracudas",
+          "away": "Stade Toulousain Tigers",
+          "location": "Montpellier",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Sénart Templiers",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "11:00",
+          "home": "Savigny-sur-Orge Lions",
+          "away": "Paris Université Club",
+          "location": "unknown",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "16:00",
+          "home": "Rouen Huskies",
+          "away": "Montpellier Barracudas",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "16:00",
+          "home": "Sénart Templiers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "17:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Stade Toulousain Tigers",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "18:00",
+          "home": "Béziers Pirates",
+          "away": "Paris Université Club",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Montpellier Barracudas",
+          "location": "Rouen",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "home": "La Rochelle Boucaniers",
+          "away": "Stade Toulousain Tigers",
+          "location": "La Rochelle",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "home": "Sénart Templiers",
+          "away": "Savigny-sur-Orge Lions",
+          "location": "Lieusaint",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "home": "Béziers Pirates",
+          "away": "Paris Université Club",
+          "location": "Beziers",
+          "tz": "Europe/Paris",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "SE": {
+      "name": "Elitserien",
+      "games": [
+        {
+          "date": "2026-04-18",
+          "time": "13:00",
+          "home": "Karlskoga BBK",
+          "away": "Rättviks BSK",
+          "location": "Karlskoga",
+          "tz": "Europe/Stockholm",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "16:00",
+          "home": "Vålerenga Baseball",
+          "away": "Rättviks BSK",
+          "location": "Karlskoga",
+          "tz": "Europe/Stockholm",
+          "status": "scheduled",
+          "stream_url": null
+        }
+      ]
+    },
+    "ES": {
+      "name": "División de Honor",
+      "games": [
+        {
+          "date": "2026-03-21",
+          "time": "11:00",
+          "home": "Irabia",
+          "away": "Tenerife Marlins",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "12:00",
+          "home": "CB Astros",
+          "away": "San Inazio Bilbao",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=gypOehmon7o"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "14:30",
+          "home": "Irabia",
+          "away": "Tenerife Marlins",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-21",
+          "time": "15:30",
+          "home": "CB Astros",
+          "away": "San Inazio Bilbao",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=3rO1cJWTKrY"
+        },
+        {
+          "date": "2026-03-22",
+          "time": "11:00",
+          "home": "Toros de Pamplona",
+          "away": "Miralbueno Béisbol",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=qiWsq6W2pVw"
+        },
+        {
+          "date": "2026-03-22",
+          "time": "11:00",
+          "home": "CB Barcelona",
+          "away": "CBS Antorcha Valencia",
+          "location": "Gava",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-22",
+          "time": "14:30",
+          "home": "Toros de Pamplona",
+          "away": "Miralbueno Béisbol",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=6TQA3b2hJTE"
+        },
+        {
+          "date": "2026-03-22",
+          "time": "14:30",
+          "home": "CB Barcelona",
+          "away": "CBS Antorcha Valencia",
+          "location": "Gava",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "11:00",
+          "home": "CBS Antorcha Valencia",
+          "away": "Miralbueno Béisbol",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "12:00",
+          "home": "San Inazio Bilbao",
+          "away": "CB Barcelona",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=uR933xlUKOM"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "12:00",
+          "home": "CBS Sant Boi",
+          "away": "Tenerife Marlins",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "14:30",
+          "home": "CBS Antorcha Valencia",
+          "away": "Miralbueno Béisbol",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "15:30",
+          "home": "San Inazio Bilbao",
+          "away": "CB Barcelona",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=9OExq9VbNuI"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "15:30",
+          "home": "CBS Sant Boi",
+          "away": "Tenerife Marlins",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-28",
+          "time": "16:00",
+          "home": "Toros de Pamplona",
+          "away": "CB Astros",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-03-29",
+          "time": "10:30",
+          "home": "Toros de Pamplona",
+          "away": "CB Astros",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=sEDSlldG0EA"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "11:00",
+          "home": "Irabia",
+          "away": "CB Barcelona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "12:00",
+          "home": "San Inazio Bilbao",
+          "away": "CBS Sant Boi",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=2sr1hOIUQOM"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "14:00",
+          "home": "CBS Antorcha Valencia",
+          "away": "CB Astros",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "14:00",
+          "home": "Tenerife Marlins",
+          "away": "Toros de Pamplona",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "14:30",
+          "home": "Irabia",
+          "away": "CB Barcelona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "15:30",
+          "home": "San Inazio Bilbao",
+          "away": "CBS Sant Boi",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=to5IMzQZ2vc"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "17:30",
+          "home": "CBS Antorcha Valencia",
+          "away": "CB Astros",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "17:30",
+          "home": "Tenerife Marlins",
+          "away": "Toros de Pamplona",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:00",
+          "home": "CB Barcelona",
+          "away": "Tenerife Marlins",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=JuAYPJd7mfA"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:00",
+          "home": "Miralbueno Béisbol",
+          "away": "CB Astros",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:30",
+          "home": "Irabia",
+          "away": "San Inazio Bilbao",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "13:00",
+          "home": "CBS Sant Boi",
+          "away": "Toros de Pamplona",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:30",
+          "home": "CB Barcelona",
+          "away": "Tenerife Marlins",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=NGmBvCA40s8"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "15:30",
+          "home": "Miralbueno Béisbol",
+          "away": "CB Astros",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "16:00",
+          "home": "Irabia",
+          "away": "San Inazio Bilbao",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "16:30",
+          "home": "CBS Sant Boi",
+          "away": "Toros de Pamplona",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "11:00",
+          "home": "Toros de Pamplona",
+          "away": "CBS Antorcha Valencia",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "11:30",
+          "home": "CB Astros",
+          "away": "CBS Sant Boi",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "12:00",
+          "home": "Tenerife Marlins",
+          "away": "San Inazio Bilbao",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:30",
+          "home": "Toros de Pamplona",
+          "away": "CBS Antorcha Valencia",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:00",
+          "home": "CB Astros",
+          "away": "CBS Sant Boi",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "15:30",
+          "home": "Tenerife Marlins",
+          "away": "San Inazio Bilbao",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "11:00",
+          "home": "Miralbueno Béisbol",
+          "away": "Irabia",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "14:30",
+          "home": "Miralbueno Béisbol",
+          "away": "Irabia",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "11:00",
+          "home": "CBS Antorcha Valencia",
+          "away": "Tenerife Marlins",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "13:00",
+          "home": "San Inazio Bilbao",
+          "away": "Toros de Pamplona",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "14:30",
+          "home": "CBS Antorcha Valencia",
+          "away": "Tenerife Marlins",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:30",
+          "home": "San Inazio Bilbao",
+          "away": "Toros de Pamplona",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "18:00",
+          "home": "CBS Sant Boi",
+          "away": "Irabia",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "CB Barcelona",
+          "away": "Miralbueno Béisbol",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "home": "CBS Sant Boi",
+          "away": "Irabia",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "14:30",
+          "home": "CB Barcelona",
+          "away": "Miralbueno Béisbol",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "11:00",
+          "home": "Tenerife Marlins",
+          "away": "Miralbueno Béisbol",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "11:00",
+          "home": "Toros de Pamplona",
+          "away": "CB Barcelona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:30",
+          "home": "Tenerife Marlins",
+          "away": "Miralbueno Béisbol",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:30",
+          "home": "Toros de Pamplona",
+          "away": "CB Barcelona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "10:30",
+          "home": "CBS Antorcha Valencia",
+          "away": "Irabia",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "11:00",
+          "home": "CBS Sant Boi",
+          "away": "CBS Antorcha Valencia",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "14:00",
+          "home": "CB Astros",
+          "away": "Irabia",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "14:30",
+          "home": "CBS Sant Boi",
+          "away": "CBS Antorcha Valencia",
+          "location": "Sant Boi de Llobregat",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-15",
+          "time": "18:30",
+          "home": "Tenerife Marlins",
+          "away": "CB Astros",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "10:30",
+          "home": "Tenerife Marlins",
+          "away": "CB Astros",
+          "location": "Puerto de La Cruz",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "11:00",
+          "home": "CBS Antorcha Valencia",
+          "away": "Irabia",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "13:00",
+          "home": "Miralbueno Béisbol",
+          "away": "San Inazio Bilbao",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "14:30",
+          "home": "CBS Antorcha Valencia",
+          "away": "Irabia",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "16:30",
+          "home": "Miralbueno Béisbol",
+          "away": "San Inazio Bilbao",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "17:00",
+          "home": "CB Barcelona",
+          "away": "CBS Sant Boi",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-17",
+          "time": "11:00",
+          "home": "CB Barcelona",
+          "away": "CBS Sant Boi",
+          "location": "Barcelona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "10:30",
+          "home": "CB Astros",
+          "away": "CB Barcelona",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "11:00",
+          "home": "Miralbueno Béisbol",
+          "away": "CBS Sant Boi",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "12:00",
+          "home": "San Inazio Bilbao",
+          "away": "CBS Antorcha Valencia",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "14:00",
+          "home": "CB Astros",
+          "away": "CB Barcelona",
+          "location": "Valencia",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "14:30",
+          "home": "Miralbueno Béisbol",
+          "away": "CBS Sant Boi",
+          "location": "Zaragoza",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "15:30",
+          "home": "San Inazio Bilbao",
+          "away": "CBS Antorcha Valencia",
+          "location": "Bilbao",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-23",
+          "time": "16:00",
+          "home": "Irabia",
+          "away": "Toros de Pamplona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-24",
+          "time": "10:30",
+          "home": "Irabia",
+          "away": "Toros de Pamplona",
+          "location": "Pamplona",
+          "tz": "Europe/Madrid",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "BE": {
+      "name": "Belgian Baseball Division 1",
+      "games": []
+    },
+    "NL": {
+      "name": "Honkbal Hoofdklasse",
+      "games": [
+        {
+          "date": "2026-04-09",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "UVV",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-09",
+          "time": "19:30",
+          "home": "Oosterhout Twins",
+          "away": "Neptunus",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "final",
+          "stream_url": "https://www.youtube.com/watch?v=H0UTv_zdF28"
+        },
+        {
+          "date": "2026-04-09",
+          "time": "19:30",
+          "home": "Amsterdam Pirates",
+          "away": "Kinheim",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "HCAW",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "Oosterhout Twins",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "Amsterdam Pirates",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "HCAW",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "Oosterhout Twins",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-11",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "Amsterdam Pirates",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "final"
+        },
+        {
+          "date": "2026-04-16",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "Hoofddorp Pioniers",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-16",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "HCAW",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-16",
+          "time": "19:30",
+          "home": "Kinheim",
+          "away": "Oosterhout Twins",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "UVV",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "Neptunus",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "Kinheim",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "UVV",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "Neptunus",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "Kinheim",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Neptunus",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "Kinheim",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "home": "Oosterhout Twins",
+          "away": "Amsterdam Pirates",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "Hoofddorp Pioniers",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "HCAW",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "Oosterhout Twins",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "Hoofddorp Pioniers",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "HCAW",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "Oosterhout Twins",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-30",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "UVV",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-30",
+          "time": "19:30",
+          "home": "Kinheim",
+          "away": "Hoofddorp Pioniers",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-04-30",
+          "time": "19:30",
+          "home": "Amsterdam Pirates",
+          "away": "HCAW",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "Neptunus",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "Kinheim",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "Amsterdam Pirates",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "Neptunus",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Kinheim",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "Amsterdam Pirates",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-07",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "Kinheim",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-07",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Amsterdam Pirates",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-07",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "Oosterhout Twins",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "UVV",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "Hoofddorp Pioniers",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "HCAW",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "UVV",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "Hoofddorp Pioniers",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "HCAW",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-14",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "Neptunus",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-14",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "UVV",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-14",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "Hoofddorp Pioniers",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "Kinheim",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "Amsterdam Pirates",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "Oosterhout Twins",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "Kinheim",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "Amsterdam Pirates",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Oosterhout Twins",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-28",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "Amsterdam Pirates",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-28",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "Oosterhout Twins",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-28",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "HCAW",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "Neptunus",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "UVV",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "Hoofddorp Pioniers",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "Neptunus",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "UVV",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-05-30",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "Hoofddorp Pioniers",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "HCAW",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "Oosterhout Twins",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "19:30",
+          "home": "Kinheim",
+          "away": "Amsterdam Pirates",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "UVV",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "Neptunus",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "Kinheim",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "UVV",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "Neptunus",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "Kinheim",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "UVV",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "Neptunus",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "19:30",
+          "home": "Oosterhout Twins",
+          "away": "Kinheim",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "Hoofddorp Pioniers",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "HCAW",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "Oosterhout Twins",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "Hoofddorp Pioniers",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "HCAW",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "Oosterhout Twins",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-18",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "Hoofddorp Pioniers",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-18",
+          "time": "19:30",
+          "home": "Kinheim",
+          "away": "HCAW",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-18",
+          "time": "19:30",
+          "home": "Amsterdam Pirates",
+          "away": "Oosterhout Twins",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "Neptunus",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "Kinheim",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "Amsterdam Pirates",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Neptunus",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "Kinheim",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "Amsterdam Pirates",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "UVV",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "Hoofddorp Pioniers",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "HCAW",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "UVV",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "Hoofddorp Pioniers",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "HCAW",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "Neptunus",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Kinheim",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "Amsterdam Pirates",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-16",
+          "time": "19:30",
+          "home": "Kinheim",
+          "away": "UVV",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-16",
+          "time": "19:30",
+          "home": "Amsterdam Pirates",
+          "away": "Hoofddorp Pioniers",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-16",
+          "time": "19:30",
+          "home": "Oosterhout Twins",
+          "away": "HCAW",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "Kinheim",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "Amsterdam Pirates",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "12:00",
+          "home": "HCAW",
+          "away": "Oosterhout Twins",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "Kinheim",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Amsterdam Pirates",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-18",
+          "time": "14:30",
+          "home": "HCAW",
+          "away": "Oosterhout Twins",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:30",
+          "home": "Neptunus",
+          "away": "Kinheim",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:30",
+          "home": "UVV",
+          "away": "Amsterdam Pirates",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "Oosterhout Twins",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "12:00",
+          "home": "Kinheim",
+          "away": "Neptunus",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "12:00",
+          "home": "Oosterhout Twins",
+          "away": "Hoofddorp Pioniers",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "14:30",
+          "home": "Kinheim",
+          "away": "Neptunus",
+          "location": "Haarlem",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "14:30",
+          "home": "Amsterdam Pirates",
+          "away": "UVV",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "14:30",
+          "home": "Oosterhout Twins",
+          "away": "Hoofddorp Pioniers",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:30",
+          "home": "Amsterdam Pirates",
+          "away": "Neptunus",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:30",
+          "home": "Oosterhout Twins",
+          "away": "UVV",
+          "location": "Oosterhout",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:30",
+          "home": "HCAW",
+          "away": "Hoofddorp Pioniers",
+          "location": "Bussum",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "12:00",
+          "home": "Neptunus",
+          "away": "Amsterdam Pirates",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "12:00",
+          "home": "UVV",
+          "away": "Oosterhout Twins",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "12:00",
+          "home": "Hoofddorp Pioniers",
+          "away": "HCAW",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "14:30",
+          "home": "Neptunus",
+          "away": "Amsterdam Pirates",
+          "location": "Rotterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "14:30",
+          "home": "UVV",
+          "away": "Oosterhout Twins",
+          "location": "Utrecht",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "14:30",
+          "home": "Hoofddorp Pioniers",
+          "away": "HCAW",
+          "location": "Hoofddorp",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "12:00",
+          "home": "Amsterdam Pirates",
+          "away": "UVV",
+          "location": "Amsterdam",
+          "tz": "Europe/Amsterdam",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "IL": {
+      "name": "Premier League",
+      "games": [
+        {
+          "date": "2026-04-12",
+          "time": "19:30",
+          "home": "Beit Shemesh",
+          "away": "Modiin",
+          "location": "Petah Tikvah",
+          "tz": "Asia/Jerusalem",
+          "status": "final",
+          "stream_url": null
+        }
+      ]
+    },
+    "HR": {
+      "name": "Croatian Baseball League",
+      "games": []
+    },
+    "GB": {
+      "name": "National Baseball League",
+      "games": [
+        {
+          "date": "2026-04-12",
+          "time": "12:00",
+          "home": "Leicester Blue Sox",
+          "away": "Manchester A's",
+          "location": "Leicester",
+          "tz": "Europe/London",
+          "score": "15 : 3",
+          "status": "final",
+          "stream_url": "https://www.baseballsoftballuk.com/watch"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "12:00",
+          "home": "Sheffield Bruins",
+          "away": "Liverpool Trojans",
+          "location": "Sheffield",
+          "tz": "Europe/London",
+          "status": "final",
+          "stream_url": "https://www.baseballsoftballuk.com/watch"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "15:00",
+          "home": "Leicester Blue Sox",
+          "away": "Manchester A's",
+          "location": "Leicester",
+          "tz": "Europe/London",
+          "status": "final",
+          "stream_url": "https://www.baseballsoftballuk.com/watch"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "15:00",
+          "home": "Sheffield Bruins",
+          "away": "Liverpool Trojans",
+          "location": "Sheffield",
+          "tz": "Europe/London",
+          "status": "final",
+          "stream_url": "https://www.baseballsoftballuk.com/watch"
+        }
+      ]
+    },
+    "SK": {
+      "name": "Extraleague",
+      "games": []
+    },
+    "EU_BPOOL_PL": {
+      "name": "Euro B-Pool (Poland)",
+      "games": [
+        {
+          "date": "2026-07-27",
+          "time": "10:30",
+          "home": "Slovakia",
+          "away": "Lithuania",
+          "location": "Wrocław",
+          "tz": "Europe/Warsaw",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "14:30",
+          "home": "Ireland",
+          "away": "Ukraine",
+          "location": "Wrocław",
+          "tz": "Europe/Warsaw",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "18:30",
+          "home": "Norway",
+          "away": "Poland",
+          "location": "Wrocław",
+          "tz": "Europe/Warsaw",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "EU_BPOOL_BG": {
+      "name": "Euro B-Pool (Bulgaria)",
+      "games": [
+        {
+          "date": "2026-07-27",
+          "time": "10:00",
+          "home": "Romania",
+          "away": "Serbia",
+          "location": "Blagoevgrad",
+          "tz": "Europe/Sofia",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "13:30",
+          "home": "Slovenia",
+          "away": "Finland",
+          "location": "Blagoevgrad",
+          "tz": "Europe/Sofia",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "17:30",
+          "home": "Bulgaria",
+          "away": "Hungary",
+          "location": "Blagoevgrad",
+          "tz": "Europe/Sofia",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "EU_FEDCUP_LT": {
+      "name": "Fed Cup (Lithuania)",
+      "games": [
+        {
+          "date": "2026-06-10",
+          "time": "12:00",
+          "home": "Apollo Bratislava",
+          "away": "Silesia Rybnik",
+          "location": "Kaunas",
+          "tz": "Europe/Vilnius",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "17:00",
+          "home": "Barracudas Zürich",
+          "away": "Kaunas",
+          "location": "Kaunas",
+          "tz": "Europe/Vilnius",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "EU_FEDCUP_SK": {
+      "name": "Fed Cup (Slovakia)",
+      "games": [
+        {
+          "date": "2026-06-08",
+          "time": "11:00",
+          "home": "Stal Kutno",
+          "away": "Herts Toucans",
+          "location": "Trnava",
+          "tz": "Europe/Bratislava",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "17:00",
+          "home": "Sofia Blues",
+          "away": "Angels Trnava",
+          "location": "Trnava",
+          "tz": "Europe/Bratislava",
+          "status": "scheduled"
+        }
+      ]
+    },
+    "EU_CONFCUP": {
+      "name": "Confederation Cup",
+      "games": [
+        {
+          "date": "2026-06-15",
+          "time": "11:00",
+          "home": "Rouen Huskies",
+          "away": "Brasschaat Braves",
+          "location": "Karlovac",
+          "tz": "Europe/Zagreb",
+          "status": "scheduled"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "17:00",
+          "home": "Olimpija Karlovac",
+          "away": "Lions de Savigny",
+          "location": "Karlovac",
+          "tz": "Europe/Zagreb",
+          "status": "scheduled"
+        }
+      ]
+    }
+  }
+}

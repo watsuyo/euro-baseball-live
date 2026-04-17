@@ -1,0 +1,71 @@
+Gathering player lookup table. This may take a moment.
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+Gathering Player Data
+{
+  "generated_at": "2026-04-17T08:21:15.150651",
+  "period": {
+    "start": "2026-04-10",
+    "end": "2026-04-17"
+  },
+  "batting": [
+    {
+      "name": "Brendan Donovan",
+      "bbref_id": "donovbr01",
+      "country": "Germany",
+      "country_code": "DE",
+      "from": 2022,
+      "to": 2026,
+      "mlbam_id": 680977,
+      "role": "batter",
+      "pa": 20,
+      "ab": 13,
+      "h": 3,
+      "2b": 1,
+      "hr": 0,
+      "bb": 3,
+      "so": 3,
+      "avg": "0.231"
+    }
+  ],
+  "pitching": [
+    {
+      "name": "Michael Petersen",
+      "bbref_id": "petermi01",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "from": 2024,
+      "to": 2026,
+      "mlbam_id": 656848,
+      "role": "pitcher",
+      "bf": 10,
+      "ip": "3.0",
+      "h": 1,
+      "hr": 0,
+      "bb": 0,
+      "so": 1
+    },
+    {
+      "name": "Chase Burns",
+      "bbref_id": "burnsch01",
+      "country": "Italy",
+      "country_code": "IT",
+      "from": 2025,
+      "to": 2026,
+      "mlbam_id": 695505,
+      "role": "pitcher",
+      "bf": 27,
+      "ip": "5.1",
+      "h": 7,
+      "hr": 2,
+      "bb": 4,
+      "so": 2
+    }
+  ],
+  "report": "### 欧州出身MLB選手 週間成績（2026-04-10 〜 2026-04-17）\n\n**打者**\n\n| 選手 | 国 | PA | AB | H | 2B | HR | BB | SO | AVG |\n|------|-----|---:|---:|--:|---:|---:|---:|---:|----:|\n| Brendan Donovan | DE | 20 | 13 | 3 | 1 | 0 | 3 | 3 | 0.231 |\n\n**投手**\n\n| 選手 | 国 | BF | IP | H | HR | BB | SO |\n|------|-----|---:|---:|--:|---:|---:|---:|\n| Chase Burns | IT | 27 | 5.1 | 7 | 2 | 4 | 2 |\n| Michael Petersen | GB | 10 | 3.0 | 1 | 0 | 0 | 1 |"
+}

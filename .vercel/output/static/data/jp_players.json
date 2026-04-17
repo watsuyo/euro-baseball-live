@@ -1,0 +1,202 @@
+{
+  "updated_at": "2026-04-14",
+  "players": [
+    {
+      "name": "Takashi Ogino",
+      "name_ja": "荻野貴司",
+      "team": "Draci Brno",
+      "league_code": "CZ",
+      "note": "OF. 元千葉ロッテマリーンズ (2010-2025, 1146試合, .283, 260盗塁). 2026年1月入団。",
+      "status": "active",
+      "former_npb": true
+    },
+    {
+      "name": "Koki Ugusa",
+      "name_ja": "宇草孔基",
+      "team": "Kotlarka Praha",
+      "league_code": "CZ",
+      "note": "OF. 元広島東洋カープ (2020-2025, NPBドラフト2巡). 2026年2月入団。背番号51。",
+      "status": "active",
+      "former_npb": true
+    },
+    {
+      "name": "Natsuki Tamba",
+      "name_ja": "丹波夏希",
+      "team": "Sabat Praha",
+      "league_code": "CZ",
+      "note": "P (右腕). 2024-2025イーグルス・プラハ (31登板26先発176回). 2026年サバット・プラハへ移籍。",
+      "status": "active"
+    },
+    {
+      "name": "Yodai Nakamura",
+      "name_ja": "中村耀大",
+      "team": "Sabat Praha",
+      "league_code": "CZ",
+      "note": "C. 2025年サバット・プラハでプレー (打率.282). 2026年再契約。チームの中心選手。",
+      "status": "active"
+    },
+    {
+      "name": "Kento Megumi",
+      "name_ja": "恵健透",
+      "team": "Rouen Huskies",
+      "league_code": "FR",
+      "note": "C. #2. 元北海道日本ハムファイターズ (ブルペン捕手/スタッフ2年、選手登録なし). 横浜商高→国際武道大→神奈川(BCリーグ)→日ハム. 1999/9/7生. 2026年ルーアン入団。",
+      "status": "active"
+    },
+    {
+      "name": "Ryosuke Nishikawa",
+      "name_ja": "西川僚祐",
+      "team": "Rouen Huskies",
+      "league_code": "FR",
+      "note": "3B/OF. #4. 東海大相模→千葉ロッテマリーンズ (2020ドラフト5位, #59)→くふうハヤテ (#4). 2002/4/19生. 2026年ルーアン入団。",
+      "status": "active",
+      "former_npb": true
+    },
+    {
+      "name": "Yui Taido",
+      "name_ja": "泰道勇伊",
+      "team": "Rouen Huskies",
+      "league_code": "FR",
+      "note": "P. #29. 1998/10/5生. 2026年ルーアン入団。",
+      "status": "active"
+    },
+    {
+      "name": "Ryusuke Ito",
+      "name_ja": "伊藤龍介",
+      "team": "Rouen Huskies",
+      "league_code": "FR",
+      "note": "P. #63. 元ケベック・キャピタルズ. 2000/1/20生. 2026年ルーアン入団。",
+      "status": "active"
+    },
+    {
+      "name": "Ayumu Ishikawa",
+      "name_ja": "石川歩",
+      "team": "Oosterhout Twins",
+      "league_code": "NL",
+      "note": "P. 元千葉ロッテマリーンズ (2014-2025, ドラフト1位, 新人王, WBC2017日本代表). 2025年12月入団。",
+      "status": "active",
+      "former_npb": true
+    },
+    {
+      "name": "Ryuto Konno",
+      "name_ja": "今野瑠斗",
+      "team": "Mainz Athletics",
+      "league_code": "DE",
+      "note": "P. #10. 元横浜DeNAベイスターズ (2022育成ドラフト3位). 2026年2月マインツ入団。",
+      "former_npb": true,
+      "status": "active"
+    },
+    {
+      "name": "Shinya Kobayashi",
+      "name_ja": "Kobayashi Shinya",
+      "team": "Hamburg Stealers",
+      "league_code": "DE",
+      "note": "OF. #15. 1994年生、北海道出身。ハンブルク・スティーラーズ1部ロースター。",
+      "status": "active"
+    },
+    {
+      "name": "Kohei Sasagawa",
+      "name_ja": "笹川晃平",
+      "team": "Regensburg Legionäre",
+      "league_code": "DE",
+      "note": "OF. 浦和学院→東洋大→東京ガス (8年, 主将)→鷺宮製作所→NTT東日本. 侍ジャパン社会人代表. 2026年4月レゲンスブルク入団。",
+      "status": "active"
+    },
+    {
+      "name": "Shogo Ichimura",
+      "name_ja": "市村将吾",
+      "team": "Stuttgart Reds",
+      "league_code": "DE",
+      "note": "C/2B. 川和高→立命館アジア太平洋大→堺シュライクス (関西独立リーグ, #23, 主将). 165cm. 2025年シュトゥットガルト・レッズ入団、2部監督兼任。",
+      "status": "active"
+    },
+    {
+      "name": "Dan Kawanishi",
+      "name_ja": "河西壇",
+      "team": "Vienna Wanderers",
+      "league_code": "AT",
+      "note": "OF. 日墺系。2025年U23欧州選手権オーストリア代表。",
+      "status": "active"
+    },
+    {
+      "name": "Hiroyuki Sakanashi",
+      "name_ja": "坂梨広幸",
+      "team": "Vienna Wanderers",
+      "league_code": "AT",
+      "note": "オーストリア代表監督 (2006年〜). 2004年渡欧、コーチ兼投手。",
+      "status": "coach"
+    },
+    {
+      "name": "Hirono Uemura",
+      "name_ja": "上村広野",
+      "team": "Eagles Praha",
+      "league_code": "CZ",
+      "note": "IF. #0. 2024年からEagles Praha所属。打率.333。",
+      "status": "active"
+    },
+    {
+      "name": "Shotaro Usui",
+      "name_ja": "薄井章太郎",
+      "team": "Untouchables Paderborn",
+      "league_code": "DE",
+      "note": "元茨城アストロプラネッツ等。パーダーボルン・アンタッチャブルズ所属。",
+      "status": "active"
+    },
+    {
+      "name": "Yuto Sato",
+      "name_ja": "Sato Yuto",
+      "team": "Hard Bulls",
+      "league_code": "AT",
+      "note": "C/3B. #6. Hard Bulls (AT) 2026ロスター。",
+      "status": "active"
+    },
+    {
+      "name": "Koki Takahashi",
+      "name_ja": "Takahashi Koki",
+      "team": "Vienna Wanderers",
+      "league_code": "AT",
+      "note": "P/IF. #28. Vienna Wanderers 2026ロスター。",
+      "status": "active"
+    },
+    {
+      "name": "Amane Tanigawa",
+      "name_ja": "Tanigawa Amane",
+      "team": "Béziers Pirates",
+      "league_code": "FR",
+      "note": "P/2B. #67. Béziers Pirates 2026ロスター。",
+      "status": "active"
+    },
+    {
+      "name": "Osuke Hashimoto",
+      "name_ja": "Hashimoto Osuke",
+      "team": "La Rochelle Boucaniers",
+      "league_code": "FR",
+      "note": "C/IF. #0. La Rochelle Boucaniers 2026ロスター。IG: @osuke_hashimoto",
+      "status": "active"
+    },
+    {
+      "name": "Jurai Hayashi",
+      "name_ja": "Hayashi Jurai",
+      "team": "Liverpool Trojans",
+      "league_code": "GB",
+      "note": "UTL. #0. Liverpool Trojans (NBL) 2026ロスター。",
+      "status": "active"
+    },
+    {
+      "name": "Satohiko Fukuda",
+      "name_ja": "Fukuda Satohiko",
+      "team": "Herts Toucans",
+      "league_code": "GB",
+      "note": "3B/SS/OF. #31. Herts Toucans (NBL) 2026ロスター。IG確認済。",
+      "status": "active"
+    },
+    {
+      "name": "Taisei Nakahara",
+      "name_ja": "Nakahara Taisei",
+      "team": "London Mets",
+      "league_code": "GB",
+      "note": "P/C/IF. #28. London Mets (NBL) 2026ロスター。London Mets IG掲載。",
+      "status": "active"
+    }
+  ]
+}

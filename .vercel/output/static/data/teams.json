@@ -1,0 +1,1899 @@
+{
+  "updated_at": "2026-04-13",
+  "teams": {
+    "NL": [
+      {
+        "name": "Neptunus",
+        "full": "Curaçao Neptunus",
+        "city": "Rotterdam",
+        "youtube": "https://www.youtube.com/channel/UCqtm-Um2xRuDiQQ25iL07TA",
+        "web": "https://www.neptunus.nl/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/sportclubneptunus/",
+        "instagram": "https://www.instagram.com/neptunus_baseball_softball/",
+        "x": "https://x.com/neptunus_rdam"
+      },
+      {
+        "name": "HCAW",
+        "full": "HCAW",
+        "city": "Bussum",
+        "youtube": "https://www.youtube.com/channel/UCTmTyjGrFRRFLZgUYQ2OPQw",
+        "web": "https://www.hcaw.nl/",
+        "rss": "https://www.hcaw.nl/feed/",
+        "facebook": "https://www.facebook.com/HCAWBussum/",
+        "instagram": "https://www.instagram.com/hcawbaseball/",
+        "x": "https://x.com/hcaw_bussum"
+      },
+      {
+        "name": "Pioniers",
+        "full": "Hoofddorp Pioniers",
+        "city": "Hoofddorp",
+        "youtube": "https://www.youtube.com/channel/UCFopJkpvj9eWx4sWh5ckYVA",
+        "web": "https://www.pioniers.nl/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/Pioniers/",
+        "instagram": "https://www.instagram.com/hoofddorp_pioniers_official/",
+        "x": "https://x.com/hfd_pioniers"
+      },
+      {
+        "name": "Amsterdam Pirates",
+        "full": "L&D Amsterdam Pirates",
+        "city": "Amsterdam",
+        "youtube": "https://www.youtube.com/channel/UCkekjB02rGMEhrmhJ7V_Xxw",
+        "web": "https://www.amsterdampirates.nl/",
+        "rss": "https://www.amsterdampirates.nl/?feed=rss2",
+        "instagram": "https://www.instagram.com/amspirates",
+        "facebook": "https://www.facebook.com/AMSPirates/",
+        "x": "https://x.com/PiratesHonkbal"
+      },
+      {
+        "name": "Twins",
+        "full": "Oosterhout Twins",
+        "city": "Oosterhout",
+        "youtube": "https://www.youtube.com/channel/UCi0O400yeEhYb-7iS3R0D2w",
+        "web": "https://oosterhouttwins.nl",
+        "rss": "https://oosterhouttwins.nl/feed/",
+        "facebook": "https://www.facebook.com/TwinsHonkbal",
+        "instagram": "https://www.instagram.com/twinsbaseball.nl/",
+        "x": "https://x.com/OosterhoutTwins"
+      },
+      {
+        "name": "Kinheim",
+        "full": "Kinheim",
+        "city": "Haarlem",
+        "youtube": "https://www.youtube.com/channel/UCKZW7PQznoSOAObeWtovzZA",
+        "web": "https://www.kinheim.net/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/HSKinheim/",
+        "instagram": "https://www.instagram.com/kinheim_haarlem/",
+        "x": null
+      },
+      {
+        "name": "RCH Pinguins",
+        "full": "RCH Pinguins",
+        "city": "Heemstede",
+        "youtube": "https://www.youtube.com/channel/UCgIWADuTpAJsuePAn6Y32qQ",
+        "web": "https://rch-pinguins.nl",
+        "rss": "https://rch-pinguins.nl/feed/",
+        "facebook": "https://www.facebook.com/honkensoftbal",
+        "instagram": "https://www.instagram.com/rchpinguins_heemstede",
+        "x": "https://x.com/rchpinguins"
+      },
+      {
+        "name": "UVV",
+        "full": "UVV",
+        "city": "Utrecht",
+        "youtube": "https://www.youtube.com/channel/UC16MOLadmJZQN-nZl9WE-jA",
+        "web": "https://hsvuvv.nl/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/TwinsHonkbal",
+        "instagram": "https://www.instagram.com/uvv_honkensoftbal/",
+        "x": "https://x.com/HSVUVV"
+      }
+    ],
+    "DE": [
+      {
+        "name": "Bonn Capitals",
+        "full": "Bonn Capitals",
+        "city": "Bonn",
+        "youtube": "https://www.youtube.com/c/bonncapitalsbaseball",
+        "web": "https://www.bonncapitals.de/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/bonncapitals/",
+        "instagram": "https://www.instagram.com/bonncapitals/",
+        "x": "https://x.com/bonncapitals"
+      },
+      {
+        "name": "Legionäre",
+        "full": "Guggenberger Legionäre",
+        "city": "Regensburg",
+        "youtube": "https://www.youtube.com/channel/UC63fFUDnlDvoI-GaFWxvqJQ",
+        "web": "https://www.regensburg-legionaere.de/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/legionaere/",
+        "instagram": "https://www.instagram.com/legionaere/",
+        "x": "https://x.com/legionaere"
+      },
+      {
+        "name": "Heideköpfe",
+        "full": "Heidenheim Heideköpfe",
+        "city": "Heidenheim",
+        "youtube": "https://www.youtube.com/channel/UCXAUJROTBgdUwdx5KvcxBcw",
+        "web": "https://www.heidekoepfe.de/",
+        "rss": "https://www.heidekoepfe.de/feed/",
+        "facebook": "https://www.facebook.com/heidekoepfe",
+        "x": "https://x.com/heidekoepfe"
+      },
+      {
+        "name": "Untouchables",
+        "full": "Untouchables Paderborn",
+        "city": "Paderborn",
+        "youtube": "https://www.youtube.com/channel/UCJK-5rOyCb761zl_YDQkYWQ",
+        "web": "https://www.untouchables.de/",
+        "rss": "https://www.untouchables.de/feed/",
+        "facebook": "https://www.facebook.com/untouchables.paderborn/",
+        "instagram": "https://www.instagram.com/untouchablespaderborn/"
+      },
+      {
+        "name": "Hamburg Stealers",
+        "full": "Hamburg Stealers",
+        "city": "Hamburg",
+        "youtube": "https://www.youtube.com/channel/UCH0fq5CS5cfCzqWxHwmEBZA",
+        "web": "https://www.hamburg-stealers.de/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/hamburgstealers/",
+        "instagram": "https://www.instagram.com/hamburgstealers/",
+        "x": "https://x.com/hh_stealers"
+      },
+      {
+        "name": "Dortmund Wanderers",
+        "full": "Dortmund Wanderers",
+        "city": "Dortmund",
+        "youtube": "https://www.youtube.com/channel/UCU6hPwFhYsjDBhMnxri_DVA",
+        "web": "https://www.dortmund-wanderers.de/",
+        "rss": "https://www.dortmund-wanderers.de/?feed=rss2",
+        "facebook": "https://www.facebook.com/DortmundWanderers/",
+        "instagram": "https://www.instagram.com/dortmundwanderers/"
+      },
+      {
+        "name": "Solingen Alligators",
+        "full": "Solingen Alligators",
+        "city": "Solingen",
+        "youtube": "https://www.youtube.com/channel/UCOoa0HVdz4RDfXtZ-iSvNIg",
+        "web": "https://www.solingen-alligators.de/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/solingenalligators/",
+        "instagram": "https://www.instagram.com/solingen.alligators/",
+        "x": "https://x.com/sg_allis"
+      },
+      {
+        "name": "Mainz Athletics",
+        "full": "Mainz Athletics",
+        "city": "Mainz",
+        "youtube": "https://www.youtube.com/channel/UCFSJ_6Dk9Fvz2LAo2wFWx_A",
+        "web": "https://www.mainz-athletics.de/",
+        "rss": "https://www.mainz-athletics.de/feed/",
+        "facebook": "https://www.facebook.com/Mainz.Athletics/",
+        "instagram": "https://www.instagram.com/mainzathletics/",
+        "x": "https://x.com/mainz_athletics"
+      },
+      {
+        "name": "Stuttgart Reds",
+        "full": "Stuttgart Reds",
+        "city": "Stuttgart",
+        "youtube": "https://www.youtube.com/channel/UCmvvTvxS3BKCN8_1BuA_6Bw",
+        "web": "https://www.stuttgart-reds.de/",
+        "rss": "https://www.stuttgart-reds.de/index.php?format=feed&amp;type=rss",
+        "facebook": "https://www.facebook.com/StuttgartReds/",
+        "instagram": "https://www.instagram.com/stuttgart_reds/"
+      },
+      {
+        "name": "München-Haar Disciples",
+        "full": "München-Haar Disciples",
+        "city": "München",
+        "youtube": "https://www.youtube.com/channel/UCP113w5pmV2fyWHdgNPv5Bw",
+        "web": "https://disciples.de",
+        "rss": "https://disciples.de/feed/",
+        "facebook": "https://www.facebook.com/munichhaardisciples",
+        "instagram": "https://www.instagram.com/munichhaardisciples",
+        "x": "https://x.com/disciples_haar"
+      },
+      {
+        "name": "Hünstetten STORM",
+        "full": "Hünstetten STORM",
+        "city": "Hünstetten",
+        "youtube": "https://www.youtube.com/channel/UCH7hKewzhn_khJp9j15uiHw",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/HuenstettenStorm/",
+        "instagram": "https://www.instagram.com/storm_baseball_germany/",
+        "x": "https://x.com/stormbaseball5"
+      },
+      {
+        "name": "Cologne Cardinals",
+        "full": "Cologne Cardinals",
+        "city": "Köln",
+        "youtube": "https://www.youtube.com/channel/UC9Lucn0oGANa58e4MN0PSaw",
+        "web": "https://cologne-cardinals.de/",
+        "rss": "https://cologne-cardinals.de/?feed=rss2",
+        "facebook": "https://www.facebook.com/colognecardinals/",
+        "instagram": "https://www.instagram.com/cardinalscologne/",
+        "x": "https://x.com/ccardinals"
+      },
+      {
+        "name": "Gauting Indians",
+        "full": "Gauting Indians",
+        "city": "Gauting",
+        "youtube": "https://www.youtube.com/channel/UCmUGdsb2ChESu7RBjG0BJAA",
+        "web": "https://www.gauting-indians.de/",
+        "rss": "https://www.gauting-indians.de/?feed=rss2",
+        "facebook": "https://www.facebook.com/GautingIndians.GAU",
+        "instagram": "https://www.instagram.com/gauting.indians",
+        "x": "https://x.com/GautingIndians"
+      }
+    ],
+    "IT": [
+      {
+        "name": "San Marino",
+        "full": "San Marino Baseball",
+        "city": "San Marino",
+        "youtube": "https://www.youtube.com/channel/UCjnpWQm-VbklOZX8vuoyB5A",
+        "web": "https://www.sanmarinobaseball.com/",
+        "rss": "https://www.sanmarinobaseball.com/feed/",
+        "facebook": "https://www.facebook.com/SanMarinoBaseball/",
+        "instagram": "https://www.instagram.com/sanmarinobaseball/"
+      },
+      {
+        "name": "Parma",
+        "full": "Parma Baseball",
+        "city": "Parma",
+        "youtube": "https://www.youtube.com/channel/UCAmMMsI2fLvFIvFQzpo2H8A",
+        "web": "https://www.parmabaseball.it/",
+        "rss": "https://www.parmabaseball.it/feed/",
+        "facebook": "https://www.facebook.com/parmabaseball/",
+        "instagram": "https://www.instagram.com/parma.baseball/",
+        "x": "https://x.com/baseballparma"
+      },
+      {
+        "name": "Bologna",
+        "full": "Fortitudo Bologna",
+        "city": "Bologna",
+        "youtube": "https://www.youtube.com/@FortitudoBaseball",
+        "web": "https://www.fortitudobaseball.it/",
+        "rss": "https://www.fortitudobaseball.it/feed/",
+        "facebook": "https://www.facebook.com/FortitudoBaseball",
+        "instagram": "https://www.instagram.com/fortitudobaseballbologna",
+        "x": "https://x.com/fortitudobc1953"
+      },
+      {
+        "name": "Macerata",
+        "full": "Hotsand Macerata",
+        "city": "Macerata",
+        "youtube": "https://www.youtube.com/channel/UCFYmBblu6gctyVpiR4-AAfQ",
+        "web": "https://www.macerataangels.it/",
+        "rss": "https://www.macerataangels.it/feed/",
+        "facebook": "https://www.facebook.com/macerataangels/",
+        "instagram": "https://www.instagram.com/macerataangels/"
+      },
+      {
+        "name": "Grosseto",
+        "full": "BBC Grosseto",
+        "city": "Grosseto",
+        "youtube": "https://www.youtube.com/channel/UC_3_zkANyuDorvkt1yFs9WQ",
+        "web": "https://www.bbcgrosseto.it/",
+        "rss": "https://www.bbcgrosseto.it/feed/",
+        "facebook": "https://www.facebook.com/bbcgrossetoofficial/",
+        "instagram": "https://www.instagram.com/bbcgrosseto_baseball/"
+      },
+      {
+        "name": "Nettuno",
+        "full": "Nettuno 1945",
+        "city": "Nettuno",
+        "youtube": "https://www.youtube.com/channel/UCsGjCHktkISJrQ8A6SXBN0g",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Nettuno-Baseball-1945-100091380236859/",
+        "instagram": "https://www.instagram.com/nettunobaseball45/",
+        "x": "https://x.com/nettunobc1945"
+      },
+      {
+        "name": "Collecchio",
+        "full": "Camec Collecchio",
+        "city": "Collecchio",
+        "youtube": "https://www.youtube.com/channel/UCEPyc-tyakxgdHKOng-nHFg",
+        "web": "http://www.collecchio-bs.it/",
+        "rss": "https://www.collecchio-bs.it/feed/",
+        "facebook": "https://www.facebook.com/collecchiobs/",
+        "instagram": "https://www.instagram.com/collecchiobs/"
+      },
+      {
+        "name": "FARMA CROCETTA",
+        "full": "FARMA CROCETTA",
+        "city": "",
+        "youtube": null,
+        "web": "https://crocettabaseball.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Crocetta-Baseball-Softball-61565443060136/",
+        "instagram": "https://www.instagram.com/farmacrocetta/",
+        "x": null
+      }
+    ],
+    "FR": [
+      {
+        "name": "Rouen",
+        "full": "Huskies de Rouen",
+        "city": "Rouen",
+        "youtube": "https://www.youtube.com/channel/UC-NIa1r6gTtOF4XxNqxBoFQ",
+        "web": "https://www.rouenbaseball76.fr/",
+        "rss": "https://www.rouenbaseball76.fr/feed/",
+        "facebook": "https://www.facebook.com/RouenBaseball76",
+        "instagram": "https://www.instagram.com/rouen_huskies",
+        "x": "https://x.com/rouenbaseball76"
+      },
+      {
+        "name": "Sénart",
+        "full": "Templiers de Sénart",
+        "city": "Sénart",
+        "youtube": "https://youtube.com/@senarttempliers",
+        "web": "https://www.templiers-senart.com/",
+        "rss": "https://www.templiers-senart.com/feed/",
+        "facebook": "https://www.facebook.com/TempliersSenart",
+        "instagram": "https://www.instagram.com/templierssenart",
+        "x": "https://x.com/templierssenart"
+      },
+      {
+        "name": "Montpellier",
+        "full": "Montpellier Barracudas",
+        "city": "Montpellier",
+        "youtube": "https://www.youtube.com/channel/UCq2yJInS-GXZtmQG0UerFmA",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/MucBarracudasBaseballSoftball/",
+        "instagram": "https://www.instagram.com/barracudasmontpellier/",
+        "x": "https://x.com/mucbarracudas"
+      },
+      {
+        "name": "La Rochelle",
+        "full": "Boucaniers de La Rochelle",
+        "city": "La Rochelle",
+        "youtube": "https://www.youtube.com/channel/UCaYu6zkhNue_uRTc9wuSJlQ",
+        "web": "https://larochellebaseball.com/",
+        "rss": "https://larochellebaseball.com/feed/",
+        "facebook": "https://www.facebook.com/boucaniersbaseballsoftballlarochelle/",
+        "instagram": "https://www.instagram.com/boucaniers_larochelle17/"
+      },
+      {
+        "name": "Club",
+        "full": "Paris Université Club",
+        "city": "",
+        "youtube": "https://youtube.com/@pucbaseball",
+        "web": "https://www.pucbaseball.com/",
+        "rss": "https://www.pucbaseball.com/feed/",
+        "facebook": "https://www.facebook.com/PUCBaseballSoftballCricket/",
+        "instagram": "https://www.instagram.com/paris.baseball/",
+        "x": "https://x.com/pucbaseball"
+      },
+      {
+        "name": "Lions",
+        "full": "Savigny-sur-Orge Lions",
+        "city": "",
+        "youtube": "https://youtube.com/@savignybaseball9826",
+        "web": "https://savignybaseball.com/",
+        "rss": "https://savignybaseball.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/LionsDeSavigny/",
+        "instagram": "https://www.instagram.com/lions_de_savigny/",
+        "x": "https://x.com/savignybaseball"
+      },
+      {
+        "name": "Tigers",
+        "full": "Stade Toulousain Tigers",
+        "city": "",
+        "youtube": "https://youtube.com/@stadetoulousainbaseball8107",
+        "web": "http://toulousebaseball.com/",
+        "rss": "http://toulousebaseball.com/feed/",
+        "facebook": "https://www.facebook.com/ToulouseBaseball/",
+        "instagram": "https://www.instagram.com/toulousebaseballsoftball/",
+        "x": "https://x.com/toulousetigers"
+      },
+      {
+        "name": "Pirates",
+        "full": "Béziers Pirates",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCoW_6gasM6_hqybHGM5dGgQ",
+        "web": "https://www.baseball-beziers.com/",
+        "rss": "https://www.baseball-beziers.com/feed/",
+        "facebook": "https://www.facebook.com/bcbpirates/",
+        "instagram": "https://www.instagram.com/baseballbeziers/"
+      }
+    ],
+    "CZ": [
+      {
+        "name": "Draci",
+        "full": "Draci Brno",
+        "city": "Brno",
+        "youtube": "https://www.youtube.com/channel/UCEpSItonxL7jLxCsO2lIHWA",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/dracibrno/",
+        "instagram": "https://www.instagram.com/dracibrno/",
+        "x": "https://x.com/dracibrno"
+      },
+      {
+        "name": "Arrows",
+        "full": "Arrows Ostrava",
+        "city": "Ostrava",
+        "youtube": "https://www.youtube.com/channel/UCvR06j7i8TYYDzwfLBg8IOg",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/arrowsostrava/",
+        "instagram": "https://www.instagram.com/arrowsostrava/",
+        "x": "https://x.com/arrowsostrava"
+      },
+      {
+        "name": "Kotlářka",
+        "full": "Kotlářka Praha",
+        "city": "Praha",
+        "youtube": "https://www.youtube.com/channel/UCOfc3uBK4CwBdzZxlol2AEQ",
+        "web": "https://kotlarkapraha.cz/kotlarka-tv",
+        "rss": "https://kotlarkapraha.cz/kotlarka-tv/?feed=rss2",
+        "facebook": "https://www.facebook.com/KotlarkaPraha",
+        "instagram": "https://www.instagram.com/kotlarkapraha",
+        "x": "https://x.com/PrahaKotlarka"
+      },
+      {
+        "name": "Nuclears",
+        "full": "Nuclears Třebíč",
+        "city": "Třebíč",
+        "youtube": "https://www.youtube.com/channel/UCXU0416yIdKziZYE-isVY9g",
+        "web": "https://www.nuclears.cz/",
+        "rss": "https://www.nuclears.cz/?feed=rss2",
+        "facebook": "https://www.facebook.com/trebicnuclears/",
+        "instagram": "https://www.instagram.com/baseball.trebic/"
+      },
+      {
+        "name": "Hluboká",
+        "full": "Hluboká Baseball",
+        "city": "Hluboká",
+        "youtube": "https://www.youtube.com/channel/UCcY5ArhjfNUaRv0TakpGiPA",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/baseballhluboka/",
+        "instagram": "https://www.instagram.com/baseball_hluboka/",
+        "x": null
+      },
+      {
+        "name": "Eagles",
+        "full": "Eagles Praha",
+        "city": "Praha",
+        "youtube": "https://www.youtube.com/channel/UC_XT2qogu_L5iP-FPqBeyQg",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/eaglespraha/",
+        "instagram": "https://www.instagram.com/eaglespraha/",
+        "x": null
+      },
+      {
+        "name": "Hroši",
+        "full": "Hroši Brno",
+        "city": "Brno",
+        "youtube": "https://www.youtube.com/channel/UCtgzEO-8RouW3JJsJV7zo4Q",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/hrosibrno/",
+        "instagram": "https://www.instagram.com/hrosibrno__/",
+        "x": "https://x.com/hrosibrno"
+      },
+      {
+        "name": "SaBaT",
+        "full": "SaBaT",
+        "city": "Praha",
+        "youtube": "https://www.youtube.com/channel/UCN5MfTaehWDgMx17mwj-Iyw",
+        "web": "https://www.sabat.cz",
+        "rss": null,
+        "x": null,
+        "facebook": "https://www.facebook.com/SaBaTpraha/",
+        "instagram": "https://www.instagram.com/sabat_praha/"
+      }
+    ],
+    "AT": [
+      {
+        "name": "Hard Bulls",
+        "full": "Hard Bulls",
+        "city": "Hard",
+        "youtube": "https://www.youtube.com/channel/UCH226x_yybqMRyMdI2U1bWA",
+        "web": "https://hardbulls.com/",
+        "rss": "https://hardbulls.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/hardbullsbaseball/",
+        "instagram": "https://www.instagram.com/hard_bulls_baseball/"
+      },
+      {
+        "name": "Dornbirn Indians",
+        "full": "Dornbirn Indians",
+        "city": "Dornbirn",
+        "youtube": "https://www.youtube.com/channel/UCjFqkJAKZ0ucOCYzd5-u-mg",
+        "web": "https://indians.at/",
+        "rss": "https://indians.at/feed/",
+        "facebook": "https://www.facebook.com/DornbirnIndians/",
+        "instagram": "https://www.instagram.com/dornbirnindians/",
+        "x": "https://x.com/dornbirnindians"
+      },
+      {
+        "name": "Diving Ducks",
+        "full": "Wr. Neustadt Diving Ducks",
+        "city": "Wiener Neustadt",
+        "youtube": "https://www.youtube.com/channel/UCmB3JFwsz_gBWw3RUaanNmQ",
+        "web": "https://divingducks.com/",
+        "rss": "https://divingducks.com/feed/",
+        "facebook": "https://www.facebook.com/divingducks/",
+        "instagram": "https://www.instagram.com/divingducks_wienerneustadt/"
+      },
+      {
+        "name": "Grasshoppers",
+        "full": "Traiskirchen Grasshoppers",
+        "city": "Traiskirchen",
+        "youtube": null,
+        "web": "https://grasshoppers.cc/",
+        "rss": "https://grasshoppers.cc/feed/",
+        "facebook": "https://www.facebook.com/p/Traiskirchen-Grasshoppers-100057441940205/",
+        "instagram": "https://www.instagram.com/traiskirchen_grasshoppers/"
+      },
+      {
+        "name": "Vienna Wanderers",
+        "full": "Vienna Wanderers",
+        "city": "Wien",
+        "youtube": "https://www.youtube.com/channel/UCivZfrAs5LInnZXlYMEtmoA",
+        "web": "https://wanderers.at/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/ViennaWanderers/",
+        "instagram": "https://www.instagram.com/viennawanderers/"
+      },
+      {
+        "name": "Blue Bats",
+        "full": "Schwechat Blue Bats",
+        "city": "Schwechat",
+        "youtube": "https://www.youtube.com/channel/UCuhltLy9qwRuYjsJVZpmz5w",
+        "web": "https://bluebats.at/",
+        "rss": "https://bluebats.at/feed/rss",
+        "facebook": "https://www.facebook.com/BlueBats/",
+        "instagram": "https://www.instagram.com/schwechatbluebats/"
+      },
+      {
+        "name": "Athletics",
+        "full": "Attnang Athletics",
+        "city": "Attnang",
+        "youtube": "https://www.youtube.com/channel/UCEHj9tA6FojIdr8Y8i9gvYQ",
+        "web": "https://athleticsbaseball.at/",
+        "rss": "https://athleticsbaseball.at/feed/",
+        "facebook": "https://www.facebook.com/athleticsbb/",
+        "instagram": "https://www.instagram.com/athleticsbaseballsoftball/"
+      },
+      {
+        "name": "Metrostars",
+        "full": "Vienna Metrostars",
+        "city": "Vienna",
+        "youtube": null,
+        "web": "https://www.viennametrostars.at/en/Home.htm",
+        "rss": null,
+        "facebook": "https://www.facebook.com/ViennaMetrostars/",
+        "instagram": "https://www.instagram.com/vienna_metrostars/",
+        "x": null
+      }
+    ],
+    "BE": [
+      {
+        "name": "Brasschaat Braves",
+        "full": "Brasschaat Braves",
+        "city": "Brasschaat",
+        "youtube": "https://www.youtube.com/channel/UCpq8Oz-n-ZjSwtdu4VaM0eA",
+        "web": "https://brasschaatbraves.be/",
+        "rss": "https://brasschaatbraves.be/feed/",
+        "facebook": "https://www.facebook.com/p/Brasschaat-Braves-100063455293032/",
+        "instagram": "https://www.instagram.com/brasschaat.braves/"
+      },
+      {
+        "name": "Mortsel Stars",
+        "full": "Mortsel Stars",
+        "city": "Mortsel",
+        "youtube": "https://www.youtube.com/channel/UCzVLwUvWFlSemn5BqnXDmYA",
+        "web": "https://mortselstars.be/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/Kon.MortselStars/"
+      },
+      {
+        "name": "Borgerhout Squirrels",
+        "full": "Borgerhout Squirrels",
+        "city": "Borgerhout",
+        "youtube": "https://www.youtube.com/channel/UCjVwXnRjDCZYy3wpvxrCWvA",
+        "web": "https://borgerhoutsquirrels.be/",
+        "rss": "https://borgerhoutsquirrels.be/feed/",
+        "facebook": "https://www.facebook.com/SquirrelsOfficial/",
+        "instagram": "https://www.instagram.com/squirrelsborgerhout7/"
+      },
+      {
+        "name": "Spartans",
+        "full": "Deurne Spartans",
+        "city": "Deurne",
+        "youtube": "https://www.youtube.com/channel/UChtZLYFIQyTmzUgkv-vqhpg",
+        "web": "https://spartans.be/",
+        "rss": "https://spartans.be/?feed=rss2",
+        "facebook": "https://www.facebook.com/447451432446944",
+        "instagram": "https://www.instagram.com/deurnespartans/"
+      },
+      {
+        "name": "Antwerp Eagles",
+        "full": "Antwerp Eagles",
+        "city": "Antwerp",
+        "youtube": "https://www.youtube.com/channel/UC3Jl-pfuA9DGUC66lJZM4KQ",
+        "web": "https://www.antwerpeagles.com/",
+        "rss": "https://www.antwerpeagles.com/feeds/posts/default?alt=rss",
+        "facebook": "https://www.facebook.com/AntwerpEagles/",
+        "instagram": "https://www.instagram.com/antwerpeagles/"
+      },
+      {
+        "name": "Hoboken Pioneers",
+        "full": "Hoboken Pioneers",
+        "city": "Hoboken",
+        "youtube": null,
+        "web": "https://pioneers.be/",
+        "rss": "https://pioneers.be/?feed=rss2",
+        "facebook": "https://www.facebook.com/hobokenpioneers/",
+        "instagram": "https://www.instagram.com/hobokenpioneers/"
+      },
+      {
+        "name": "Royal Greys",
+        "full": "Merksem Royal Greys",
+        "city": "Merksem",
+        "youtube": null,
+        "web": "https://royalgreys.be/",
+        "rss": "https://royalgreys.be/feed/",
+        "facebook": "https://www.facebook.com/RoyalGreys/",
+        "instagram": "https://www.instagram.com/royalgreysbase/"
+      },
+      {
+        "name": "Angels",
+        "full": "Namur Angels",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCir6npJYkdQeWK-PLbqM5lw",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/namurangelsbaseball/",
+        "instagram": "https://www.instagram.com/namurangels/"
+      },
+      {
+        "name": "Brussels Kangaroos",
+        "full": "Brussels Kangaroos",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.brusselskangaroos.be/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/Brussels.Kangaroos.Baseball.Softball/",
+        "instagram": "https://www.instagram.com/brussels_kangaroos/",
+        "x": null
+      },
+      {
+        "name": "Merchtem Cats",
+        "full": "Merchtem Cats",
+        "city": "",
+        "youtube": null,
+        "web": "https://web.merchtemcats.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/Merchtemcats/",
+        "instagram": "https://www.instagram.com/merchtem_cats/",
+        "x": null
+      },
+      {
+        "name": "Mont-Saint-Guibert Phoenix",
+        "full": "Mont-Saint-Guibert Phoenix",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.msgphoenix.be/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/msgphoenix/",
+        "instagram": "https://www.instagram.com/msgphoenix/",
+        "x": null
+      }
+    ],
+    "ES": [
+      {
+        "name": "CBS Barcelona",
+        "full": "CBS Barcelona",
+        "city": "Barcelona",
+        "youtube": "https://www.youtube.com/channel/UCzgffQeTqKx9L5RIuW0Or0w",
+        "web": "https://www.beisbolbarcelona.com/",
+        "rss": "https://www.beisbolbarcelona.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/beisbolbarcelona/",
+        "instagram": "https://www.instagram.com/beisbolbarcelona/",
+        "x": "https://x.com/beisbolbcn"
+      },
+      {
+        "name": "CBS Viladecans",
+        "full": "CBS Viladecans",
+        "city": "Viladecans",
+        "youtube": null,
+        "web": "https://beisbolviladecans.com/",
+        "rss": "https://www.beisbolviladecans.com/blog-feed.xml",
+        "facebook": "https://www.facebook.com/beisbolviladecans/",
+        "instagram": "https://www.instagram.com/beisbolviladecans/",
+        "x": "https://x.com/beisbolvila"
+      },
+      {
+        "name": "Tenerife Marlins",
+        "full": "Tenerife Marlins",
+        "city": "Puerto de la Cruz",
+        "youtube": "https://www.youtube.com/channel/UCOjxONGJLN4rHlCRx6rm5KQ",
+        "web": "https://marlinspuertocruz.es/",
+        "rss": "https://marlinspuertocruz.es/feed/",
+        "facebook": "https://www.facebook.com/DeportePuertoDeLaCruz",
+        "instagram": "https://www.instagram.com/tenerifemarlins/",
+        "x": "https://x.com/MarlinsPC"
+      },
+      {
+        "name": "CBS Miralbueno",
+        "full": "CBS Miralbueno",
+        "city": "Zaragoza",
+        "youtube": "https://www.youtube.com/channel/UCeWCxSzXYW3kY7eBs-P1kDQ",
+        "web": "https://beisbolmiralbueno.es/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/cbmiralbueno/",
+        "instagram": "https://www.instagram.com/miralbueno_beisbol_sofbol/",
+        "x": "https://x.com/cbmiralbueno"
+      },
+      {
+        "name": "CBS Toros",
+        "full": "CBS Toros",
+        "city": "Madrid",
+        "youtube": "https://www.youtube.com/channel/UCNujBCky_ed-jBLuRcAq8vg",
+        "web": "https://cbstoros.com/",
+        "rss": "https://cbstoros.com/feed/",
+        "facebook": "https://www.facebook.com/CBSTorosPamplona",
+        "instagram": "https://www.instagram.com/cbstorospamplona",
+        "x": "https://x.com/cbstoros"
+      },
+      {
+        "name": "Sant Boi",
+        "full": "Sant Boi Cardinals",
+        "city": "Sant Boi",
+        "youtube": "https://www.youtube.com/channel/UCwaMqLYzbyp2IbFgcF_s5Og",
+        "web": "http://www.beisbolsantboi.com/",
+        "rss": "http://www.beisbolsantboi.com/feed/",
+        "instagram": "https://www.instagram.com/cbssantboioficial/",
+        "x": "https://x.com/beisbolsantboi",
+        "facebook": "https://www.facebook.com/beisbolsantboi/"
+      },
+      {
+        "name": "Astros Valencia",
+        "full": "Astros Valencia",
+        "city": "Valencia",
+        "youtube": "https://www.youtube.com/channel/UCf3shsnDX4CIqFoBE6BZwEg",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/Beisbolvalencia/",
+        "instagram": "https://www.instagram.com/astrosbeisbolvalencia/",
+        "x": "https://x.com/astrosbeisbolv1"
+      },
+      {
+        "name": "Greatness",
+        "full": "CB Astros - Natural Greatness",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UC3RPfeyaEIPosC4eIcNr4Gw",
+        "web": null,
+        "rss": null
+      },
+      {
+        "name": "CBS. Antorcha - Valencia",
+        "full": "CBS. Antorcha - Valencia",
+        "city": "",
+        "youtube": null,
+        "web": "https://cbsantorcha.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/cbsantorcha.valencia/",
+        "instagram": "https://www.instagram.com/cbsantorcha/",
+        "x": null
+      },
+      {
+        "name": "CB Barcelona",
+        "full": "CB Barcelona",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.bateando.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/beisbolbarcelona/",
+        "instagram": "https://www.instagram.com/beisbolbarcelona/",
+        "x": null
+      },
+      {
+        "name": "San Inazio Bilbao Bizkaia",
+        "full": "San Inazio Bilbao Bizkaia",
+        "city": "",
+        "youtube": "https://www.youtube.com/user/saninaziobeisbol",
+        "web": "https://saninaziobeisbol.net/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/San-Inazio-Beisbol-100041322382174/",
+        "instagram": "https://www.instagram.com/saninaziobilbao/",
+        "x": null
+      },
+      {
+        "name": "Irabia",
+        "full": "Irabia",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.irabiabeisbol.es/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Club-de-Beisbol-Irabia-100057387531247/",
+        "instagram": "https://www.instagram.com/irabiabeisbol/",
+        "x": null
+      },
+      {
+        "name": "Miralbueno Béisbol",
+        "full": "Miralbueno Béisbol",
+        "city": "",
+        "youtube": null,
+        "web": "http://www.beisbolmiralbueno.es/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/cbmiralbueno/",
+        "instagram": "https://www.instagram.com/miralbueno_beisbol_sofbol/",
+        "x": "https://x.com/cbmiralbueno"
+      },
+      {
+        "name": "Toros de Pamplona",
+        "full": "Toros de Pamplona",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.cbstoros.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/CBSTorosPamplona/",
+        "instagram": "https://www.instagram.com/cbstorospamplona/",
+        "x": null
+      }
+    ],
+    "SE": [
+      {
+        "name": "Karlskoga",
+        "full": "Karlskoga Bats",
+        "city": "Karlskoga",
+        "youtube": "https://www.youtube.com/channel/UCyrmcvMxMedWXldfMPIuurQ",
+        "web": "https://karlskogabats.se",
+        "rss": "https://karlskogabats.se/?feed=rss2",
+        "facebook": "https://www.facebook.com/KarlskogaBats/",
+        "instagram": "https://www.instagram.com/karlskogabats/"
+      },
+      {
+        "name": "Sundbyberg Heat",
+        "full": "Sundbyberg Heat",
+        "city": "Sundbyberg",
+        "youtube": "https://www.youtube.com/channel/UCcjCxWAhhHgdqRqtUfAPahg",
+        "web": "https://www.sundbybergheat.se/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/SundbybergHeat/",
+        "instagram": "https://www.instagram.com/sundbybergheat/"
+      },
+      {
+        "name": "Leksand",
+        "full": "Leksand Lumberjacks",
+        "city": "Leksand",
+        "youtube": "https://www.youtube.com/channel/UCkGcX-HoODvO7dzNxd4zY5Q",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/LeksandBSK/",
+        "instagram": "https://www.instagram.com/leksand_lumberjacks/",
+        "x": "https://x.com/leksandlumber"
+      },
+      {
+        "name": "Rättviks",
+        "full": "Rättviks Butchers",
+        "city": "Rättvik",
+        "youtube": "https://www.youtube.com/channel/UCFdBnQtkaVgodmpJJLEfv9A",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/rattvikbutchers/",
+        "instagram": "https://www.instagram.com/rattvikbutchers/",
+        "x": "https://x.com/rattvikbaseball"
+      },
+      {
+        "name": "Stockholm Monarchs",
+        "full": "Stockholm Monarchs",
+        "city": "Stockholm",
+        "youtube": "https://www.youtube.com/channel/UCz_f37hbWTXGIBJsAHm-oIw",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/stockholmbaseboll/",
+        "instagram": "https://www.instagram.com/stockholmbasebollofficial/"
+      },
+      {
+        "name": "Göteborg Hajarna",
+        "full": "Göteborg Hajarna",
+        "city": "Göteborg",
+        "youtube": "https://www.youtube.com/channel/UCiPtIivEyJRnqQEDRKBHsKQ",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/hajarnabaseboll/",
+        "instagram": "https://www.instagram.com/gbghajarna/",
+        "x": "https://x.com/gbg_hajarna"
+      },
+      {
+        "name": "Stockholms BSK",
+        "full": "Stockholms BSK",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.stockholmbaseboll.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/stockholmbaseboll/",
+        "instagram": "https://www.instagram.com/stockholmbasebollofficial/",
+        "x": null
+      },
+      {
+        "name": "Sundbybergs BSC",
+        "full": "Sundbybergs BSC",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.sundbybergheat.se/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/SundbybergHeat/",
+        "instagram": "https://www.instagram.com/sundbybergheat/",
+        "x": null
+      }
+    ],
+    "GB": [
+      {
+        "name": "London Mets",
+        "full": "London Mets",
+        "city": "London",
+        "youtube": "https://www.youtube.com/channel/UCV3oFD7nd76jjAwTo-IS5Dg",
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Bristol Badgers",
+        "full": "Bristol Badgers",
+        "city": "Bristol",
+        "youtube": "https://www.youtube.com/channel/UCM-5F7y3NQ6aSVYT4Rk77Uw",
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Manchester",
+        "full": "Manchester Baseball Club",
+        "city": "Manchester",
+        "youtube": "https://www.youtube.com/channel/UCIuz7uxweyWFjAZB1nfmQvw",
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Birmingham",
+        "full": "Birmingham Baseball Club",
+        "city": "Birmingham",
+        "youtube": "https://www.youtube.com/channel/UC0VuRjwtzZXNkOXMazs5Jqg",
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Edinburgh",
+        "full": "Edinburgh Diamond Devils",
+        "city": "Edinburgh",
+        "youtube": null,
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Guildford Mavericks",
+        "full": "Guildford Mavericks",
+        "city": "Guildford",
+        "youtube": "https://www.youtube.com/channel/UCzcyfif9NStUezIT4YeLSVA",
+        "web": "https://www.baseballsoftballuk.com/watch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballSoftballUK",
+        "instagram": "https://www.instagram.com/baseballsoftball_uk",
+        "x": "https://x.com/bsuk"
+      },
+      {
+        "name": "Pirates",
+        "full": "Croydon Pirates",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCJvcmq63FZ6YHF0m_CxLEuQ",
+        "web": "https://www.croydonpiratesbaseball.com",
+        "rss": "https://www.croydonpiratesbaseball.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/CroydonPiratesBaseballClub/",
+        "instagram": "https://www.instagram.com/croydonpiratesofficial/",
+        "x": "https://x.com/piratescroydon"
+      },
+      {
+        "name": "Arrows",
+        "full": "Essex Arrows",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCIUEF-8aqRm8eE1t5bFbT0w",
+        "web": "https://www.essexbaseball.com",
+        "rss": "https://www.essexbaseball.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/essexarrowsbaseballclub/",
+        "instagram": "https://www.instagram.com/essexbaseballclub/",
+        "x": "https://x.com/essexbaseball"
+      },
+      {
+        "name": "Sox",
+        "full": "Leicester Blue Sox",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCv7642LzyMeDHBantoCM4pg",
+        "web": "https://www.leicesterbluesox.com",
+        "rss": "https://www.leicesterbluesox.com/blog-feed.xml",
+        "facebook": "https://www.facebook.com/BlueSox/",
+        "instagram": "https://www.instagram.com/leicester_blue_sox/",
+        "x": "https://x.com/bluesoxbaseball"
+      },
+      {
+        "name": "A's",
+        "full": "Manchester A's",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCGPjwG86HI572lx6TYgf9fA",
+        "web": null,
+        "rss": null
+      },
+      {
+        "name": "Toucans",
+        "full": "Herts Toucans",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCcaKb1-cObmAdO0sCx1DlFw",
+        "web": "https://www.hertsbaseball.com",
+        "rss": "https://hertsbaseball.com/feed/",
+        "facebook": "https://www.facebook.com/HertsBaseballClub/",
+        "instagram": "https://www.instagram.com/hertstoucans/",
+        "x": "https://x.com/hertsbaseball"
+      },
+      {
+        "name": "Bruins",
+        "full": "Sheffield Bruins",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCJaz9oswJJZaKuXsTzTxAZQ",
+        "web": "https://www.sheffieldbruinsbaseball.com",
+        "rss": "https://www.sheffieldbruinsbaseball.com/?feed=rss2",
+        "facebook": "https://www.facebook.com/SheffieldBruins/",
+        "instagram": "https://www.instagram.com/sheffbruins/",
+        "x": "https://x.com/sheffbruins"
+      },
+      {
+        "name": "Trojans",
+        "full": "Liverpool Trojans",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UC3mXR1f8kXmkTr2MyV2H45Q",
+        "web": "https://www.trojansbaseball.co.uk",
+        "rss": "https://www.trojansbaseball.co.uk/?feed=rss2",
+        "facebook": "https://www.facebook.com/liverpooltrojans/",
+        "instagram": "https://www.instagram.com/liverpooltrojans/",
+        "x": "https://x.com/liverpooltrojan"
+      },
+      {
+        "name": "Long Eaton Storm",
+        "full": "Long Eaton Storm",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.longeatonbaseball.co.uk/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/LongEatonbaseball/",
+        "instagram": "https://www.instagram.com/longeatonbaseball/",
+        "x": "https://x.com/longeatonstorm"
+      }
+    ],
+    "IL": [
+      {
+        "name": "Ra'anana",
+        "full": "Ra'anana Express",
+        "city": "Ra'anana",
+        "youtube": "https://www.youtube.com/channel/UCC_bIszcof6aNB69bLuDsxw",
+        "web": "https://www.baseballraanana.com/",
+        "rss": null
+      },
+      {
+        "name": "Bet Shemesh",
+        "full": "Bet Shemesh Blue Sox",
+        "city": "Bet Shemesh",
+        "youtube": "https://www.youtube.com/channel/UCraP7SPZMNa8vUzif5zu59Q",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/beitshemeshbaseball/",
+        "instagram": "https://www.instagram.com/betshemesh_baseball/"
+      },
+      {
+        "name": "Misgav",
+        "full": "Misgav",
+        "city": "Misgav",
+        "youtube": "https://www.youtube.com/channel/UCrzeS82NWFicKnrh0qlPTIw",
+        "web": null,
+        "rss": null
+      },
+      {
+        "name": "Jerusalem",
+        "full": "Jerusalem",
+        "city": "Jerusalem",
+        "youtube": "https://www.youtube.com/channel/UC363U6kuJ8RcH_uuC4VFXxg",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Jerusalem-Lions-Baseball-61572372891661/"
+      },
+      {
+        "name": "Beit Shemesh",
+        "full": "Beit Shemesh",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.betshemeshbaseball.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/beitshemeshbaseball/",
+        "instagram": "https://www.instagram.com/betshemesh_baseball/",
+        "x": null
+      },
+      {
+        "name": "Efrat",
+        "full": "Efrat",
+        "city": "",
+        "youtube": null,
+        "web": "https://baseball.org.il/en/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/israelbaseball",
+        "instagram": "https://www.instagram.com/israel_baseball",
+        "x": "https://x.com/ILBaseball"
+      },
+      {
+        "name": "Academy",
+        "full": "Academy",
+        "city": "",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/ilbaseacademy/",
+        "x": null
+      },
+      {
+        "name": "Modiin",
+        "full": "Modiin",
+        "city": "",
+        "youtube": null,
+        "web": "https://baseball.org.il/en/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/israelbaseball",
+        "instagram": "https://www.instagram.com/israel_baseball",
+        "x": "https://x.com/ILBaseball"
+      },
+      {
+        "name": "Raanana",
+        "full": "Raanana",
+        "city": "",
+        "youtube": null,
+        "web": "https://www.baseballraanana.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/raananabaseball",
+        "instagram": "https://www.instagram.com/raananabaseball",
+        "x": null
+      },
+      {
+        "name": "Green Machine",
+        "full": "Green Machine",
+        "city": "",
+        "youtube": null,
+        "web": "https://baseball.org.il/en/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/israelbaseball",
+        "instagram": "https://www.instagram.com/israel_baseball",
+        "x": "https://x.com/ILBaseball"
+      }
+    ],
+    "SK": [
+      {
+        "name": "Arrows",
+        "full": "Arrows Košice",
+        "city": "Košice",
+        "youtube": "https://www.youtube.com/channel/UC5BiHF34iQg9IevhIFn689g",
+        "web": null,
+        "rss": null,
+        "instagram": null,
+        "facebook": "https://www.facebook.com/kosicebaseball/"
+      },
+      {
+        "name": "EIB Red Wolves",
+        "full": "EIB Red Wolves",
+        "city": "",
+        "youtube": null,
+        "web": "https://slovakiabaseball.wbsc.org/",
+        "rss": null,
+        "facebook": null,
+        "instagram": null,
+        "x": null
+      },
+      {
+        "name": "Fooze Bratislava",
+        "full": "Fooze Bratislava",
+        "city": "",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/foozebaseball/",
+        "instagram": "https://www.instagram.com/fooze_bratislava/",
+        "x": null
+      },
+      {
+        "name": "Outmen Skalica",
+        "full": "Outmen Skalica",
+        "city": "",
+        "youtube": null,
+        "web": "https://baseballskalica.weebly.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Outmen-Skalica-BASEBALL-100069051951566/",
+        "instagram": "https://www.instagram.com/baseball_outmen_skalica_o.z",
+        "x": null
+      }
+    ],
+    "HR": [
+      {
+        "name": "Varaždin",
+        "full": "Baseball Klub Vindija Varaždin",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCXSG4S31g7AnW7-O6KdEvgw",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/bkvindija/",
+        "instagram": "https://www.instagram.com/bkvindijavarazdin/"
+      },
+      {
+        "name": "Zagreb",
+        "full": "BK Zagreb",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCHp0qDbvp22gXgy5zZhwqgA",
+        "web": "https://www.bk-zagreb.hr",
+        "rss": "https://www.bk-zagreb.hr/feed/",
+        "facebook": "https://www.facebook.com/BaseballKlubZagreb/",
+        "instagram": "https://www.instagram.com/baseballklubzagreb/"
+      },
+      {
+        "name": "Split",
+        "full": "Baseball klub Nada SM Split",
+        "city": "",
+        "youtube": "https://www.youtube.com/channel/UCCJHpkf43asLXlSCoNVaBvA",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/NadaSplitBaseball/",
+        "instagram": "https://www.instagram.com/nadasplitbaseball/",
+        "x": "https://x.com/nadasplit"
+      },
+      {
+        "name": "BK Olimpija Karlovac",
+        "full": "BK Olimpija Karlovac",
+        "city": "",
+        "youtube": null,
+        "web": "https://karlovac-baseball.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/olimpijakarlovac/",
+        "instagram": "https://www.instagram.com/olimpijakarlovac/",
+        "x": null
+      }
+    ],
+    "FI": [
+      {
+        "name": "Espoo Expos",
+        "full": "Espoo Expos",
+        "city": "Espoo",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/EspooExpos/",
+        "instagram": "https://www.instagram.com/espooexpos/",
+        "x": "https://x.com/EspooExpos"
+      },
+      {
+        "name": "Helsinki Mets",
+        "full": "Helsinki Mets",
+        "city": "Helsinki",
+        "youtube": "https://www.youtube.com/channel/UCgIMbGazP0uBDy9JVCqBUaA",
+        "web": "https://helsinkimets.fi/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/HelsinkiMets/",
+        "instagram": "https://www.instagram.com/helsinki_mets/",
+        "x": "https://x.com/HelsinkiMets"
+      },
+      {
+        "name": "Puumat",
+        "full": "Baseball-Puumat Helsinki",
+        "city": "Helsinki",
+        "youtube": null,
+        "web": "https://puumatbaseball.fi/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/puumatbaseball/",
+        "instagram": "https://www.instagram.com/puumat_baseball/"
+      },
+      {
+        "name": "Tampere Tigers",
+        "full": "Tampere Tigers",
+        "city": "Tampere",
+        "youtube": "https://www.youtube.com/channel/UCsQkaGgX4fx1j6ZHq0lZpLQ",
+        "web": "https://tamperetigers.sporttisaitti.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/TampereTigers",
+        "instagram": "https://www.instagram.com/tamperetigers/",
+        "x": "https://x.com/tamperetigers"
+      },
+      {
+        "name": "Lintuvaara XL5",
+        "full": "Lintuvaara XL5",
+        "city": "Espoo",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/XL5Lintuvaara/",
+        "x": "https://twitter.com/XL5Lintuvaara"
+      }
+    ],
+    "DK": [
+      {
+        "name": "Urban Achievers",
+        "full": "The Urban Achievers",
+        "city": "Copenhagen",
+        "youtube": "https://www.youtube.com/@copenhagenbaseball",
+        "web": "https://www.copenhagenbaseball.dk/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/The-Urban-Achievers-172273756182905/",
+        "instagram": "https://www.instagram.com/the_urban_achievers/"
+      },
+      {
+        "name": "Malmö Pilots",
+        "full": "Malmö Pilots",
+        "city": "Malmö",
+        "youtube": "https://www.youtube.com/channel/UCnNt1ZAUIoX5kDwleqVSxJw",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/malmobaseboll/",
+        "instagram": "https://www.instagram.com/malmobaseboll/"
+      },
+      {
+        "name": "Lyngby Jokers",
+        "full": "Lyngby Jokers",
+        "city": "Kongens Lyngby",
+        "youtube": "https://youtube.com/@lyngbyjokers",
+        "web": "https://lyngbyjokers.dk/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Lyngby-Jokers-Baseball-and-Softball-Club-100057617223136/",
+        "instagram": "https://www.instagram.com/lyngby.jokers/"
+      },
+      {
+        "name": "Copenhagen Aces",
+        "full": "Copenhagen Aces",
+        "city": "Copenhagen",
+        "youtube": "https://www.youtube.com/channel/UCHz15eQWOECVg3DTKU9rDcw",
+        "web": "https://www.copenhagenbaseball.dk/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Copenhagen-Baseball-100054253941312/",
+        "instagram": "https://www.instagram.com/copenhagen_baseball/"
+      },
+      {
+        "name": "Århus Aros",
+        "full": "Århus Aros",
+        "city": "Aarhus",
+        "youtube": "https://www.youtube.com/channel/UCwC13lD4NSMDn5v9cebd6Ug",
+        "web": "https://www.aarhusbaseball.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/AarhusBaseballSoftballKlub/",
+        "instagram": "https://www.instagram.com/aarhusbaseballsoftballklub/",
+        "x": "https://x.com/aarhusbaseball"
+      },
+      {
+        "name": "Odense Wolves",
+        "full": "Odense Wolves",
+        "city": "Odense",
+        "youtube": "https://www.youtube.com/channel/UCSriXfg8VPrncrkC351Z6_g",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/OdenseBaseball/",
+        "instagram": "https://www.instagram.com/odensewolvesbaseball/"
+      },
+      {
+        "name": "Herning Trolls",
+        "full": "Herning Trolls",
+        "city": "Herning",
+        "youtube": null,
+        "web": "https://www.herningbaseball.dk/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/herningtrollsbaseball/",
+        "instagram": "https://www.instagram.com/herningbaseball/"
+      }
+    ],
+    "LT": [
+      {
+        "name": "BK Vilnius",
+        "full": "BK Vilnius",
+        "city": "Vilnius",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Beisbolo-Klubas-Vilnius-100083166280530/",
+        "instagram": "https://www.instagram.com/bk_vilnius/"
+      },
+      {
+        "name": "Lituanica",
+        "full": "Kaunas Lituanica",
+        "city": "Kaunas",
+        "youtube": "https://www.youtube.com/channel/UCuwdGpsLL2YTdNvr_kKffBg",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/KaunoLituanica/",
+        "instagram": "https://www.instagram.com/bk_lituanica/"
+      },
+      {
+        "name": "Titanai",
+        "full": "Titanai Utena",
+        "city": "Utena",
+        "youtube": "https://www.youtube.com/channel/UCyz5kD5qrqcFQT2HxnDDqEA",
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/UtenosTitanai/"
+      }
+    ],
+    "EE": [
+      {
+        "name": "Kiili Panthers",
+        "full": "Kiili Pantrid",
+        "city": "Kiili",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/pages/Baseball-Club-Kiili-Panthers/151678424901236/"
+      },
+      {
+        "name": "Tallinn BBC",
+        "full": "Tallinn Baseball Club",
+        "city": "Tallinn",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/pesapall/"
+      }
+    ],
+    "NO": [
+      {
+        "name": "Oslo Pretenders",
+        "full": "Oslo Pretenders",
+        "city": "Oslo",
+        "youtube": null,
+        "web": "https://oslopretenders.com",
+        "rss": null,
+        "facebook": "https://www.facebook.com/theoslopretenders/",
+        "instagram": "https://www.instagram.com/oslopretenders/"
+      },
+      {
+        "name": "Vålerenga",
+        "full": "Vålerenga Baseball",
+        "city": "Oslo",
+        "youtube": null,
+        "web": "https://vifbaseball.no/",
+        "rss": null,
+        "instagram": "https://www.instagram.com/vifbaseball/"
+      },
+      {
+        "name": "Sola Aviators",
+        "full": "Sola Aviators",
+        "city": "Sola",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Sola-Baseball-100057578734902/"
+      },
+      {
+        "name": "Trondheim Hell Hounds",
+        "full": "Trondheim Hell Hounds",
+        "city": "Trondheim",
+        "youtube": null,
+        "web": "https://www.trondheimbaseball.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/TrondheimBaseball/",
+        "instagram": "https://www.instagram.com/trondheim_baseballklubb/"
+      },
+      {
+        "name": "Bergen Wet Sox",
+        "full": "Bergen Wet Sox",
+        "city": "Bergen",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/Bergenwetsox/",
+        "instagram": "https://www.instagram.com/bergen_baseball/"
+      }
+    ],
+    "MT": [
+      {
+        "name": "Mellieha Northenders",
+        "full": "Mellieha Northenders",
+        "city": "Mellieha",
+        "youtube": null,
+        "web": "https://www.baseballsoftball.org.mt/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/melliehabaseballsoftballclub/",
+        "instagram": "https://www.instagram.com/malta_baseballsoftball"
+      },
+      {
+        "name": "Mustangs",
+        "full": "Mustangs",
+        "city": "Malta",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/LuxolMustangsBC/"
+      }
+    ],
+    "BG": [
+      {
+        "name": "Sofia Blues",
+        "full": "КБС София Блус",
+        "city": "Sofia",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/bsc.sofia.blues/",
+        "instagram": "https://www.instagram.com/sofia_blues_baseball/"
+      },
+      {
+        "name": "Blagoevgrad Buffaloes",
+        "full": "Бизони Благоевград",
+        "city": "Blagoevgrad",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/BuffaloesBaseballTeamBulgaria/",
+        "instagram": "https://www.instagram.com/buffaloesbaseballteam/"
+      },
+      {
+        "name": "Athletic Sofia",
+        "full": "КБС Атлетик София",
+        "city": "Sofia",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/AthleticSofia/"
+      },
+      {
+        "name": "Coyotes Dupnitsa",
+        "full": "Койоти Дупница",
+        "city": "Dupnitsa",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/CoyotesDupnitsa/"
+      },
+      {
+        "name": "NSA Lions",
+        "full": "НСА Лъвове София",
+        "city": "Sofia",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Клуб-по-бейзбол-и-софтбол-НСА-Лъвове-100057518265314/"
+      }
+    ],
+    "HU": [
+      {
+        "name": "Óbuda Warriors",
+        "full": "Óbuda Warriors",
+        "city": "Budapest",
+        "youtube": "https://www.youtube.com/user/ObudaGladiators",
+        "web": "https://www.obudabaseball.hu/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/obudabaseball/",
+        "instagram": "https://www.instagram.com/obuda_gladiators/"
+      },
+      {
+        "name": "Jánossomorja Rascals",
+        "full": "Jánossomorja Rascals",
+        "city": "Jánossomorja",
+        "youtube": null,
+        "web": "http://rascals.hu",
+        "rss": null,
+        "facebook": "https://www.facebook.com/jsrascals/",
+        "instagram": "https://www.instagram.com/js_rascals/"
+      },
+      {
+        "name": "MAFC Rangers",
+        "full": "MAFC Rangers",
+        "city": "Budapest",
+        "youtube": null,
+        "web": "https://rangers.hu/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/MAFCRangers/"
+      }
+    ],
+    "RS": [
+      {
+        "name": "Beograd 96",
+        "full": "Bejzbol klub Beograd 96",
+        "city": "Belgrade",
+        "youtube": null,
+        "web": "http://www.beograd96.com/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/beograd996/",
+        "instagram": "https://www.instagram.com/beograd96/",
+        "x": null
+      },
+      {
+        "name": "Vojvode",
+        "full": "Bejzbol klub Vojvode",
+        "city": "Zemun",
+        "youtube": null,
+        "web": "https://www.vojvode.org/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/vojvodebaseball/",
+        "instagram": "https://www.instagram.com/vojvodebaseball/",
+        "x": null
+      },
+      {
+        "name": "Novi Sad",
+        "full": "Bejzbol i softbol klub Novi Sad",
+        "city": "Novi Sad",
+        "youtube": null,
+        "web": "https://novisadbaseball.wixsite.com/pocetna",
+        "rss": null,
+        "facebook": "https://www.facebook.com/NOVISADBASEBALL/",
+        "instagram": null,
+        "x": null
+      },
+      {
+        "name": "Vojvodina",
+        "full": "Bejzbol klub Vojvodina",
+        "city": "Novi Sad",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/bcvojvodina/",
+        "instagram": "https://www.instagram.com/bejzbol.klub.vojvodina/",
+        "x": null
+      },
+      {
+        "name": "Wild Boars",
+        "full": "Bejzbol klub Wild Boars",
+        "city": "Kragujevac",
+        "youtube": null,
+        "web": "https://www.wildboars.rs/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/WildBoarsKragujevac/",
+        "instagram": null,
+        "x": null
+      },
+      {
+        "name": "Voša",
+        "full": "Bejzbol i softbol klub Voša",
+        "city": "Novi Sad",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": null,
+        "instagram": null,
+        "x": null
+      },
+      {
+        "name": "Dragoons",
+        "full": "Bejzbol klub Dragoons Beograd",
+        "city": "Belgrade",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": null,
+        "instagram": null,
+        "x": null
+      }
+    ],
+    "PT": [
+      {
+        "name": "Piratas da Ria",
+        "full": "Piratas da Ria – Aveiro",
+        "city": "Aveiro",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "instagram": "https://www.instagram.com/piratasria/",
+        "x": "https://x.com/baseballpiratas"
+      },
+      {
+        "name": "CD Feirense",
+        "full": "CD Feirense Basebol",
+        "city": "Santa Maria da Feira",
+        "youtube": null,
+        "web": "https://cdfeirense.pt/basebol/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/CDFeirenseBasebol/",
+        "instagram": "https://www.instagram.com/cdfeirenseoficial/",
+        "x": "https://x.com/cdfeirenseofc"
+      },
+      {
+        "name": "Capitals",
+        "full": "Capitals Basebol Clube",
+        "city": "Lisbon",
+        "youtube": null,
+        "web": "https://643capitals.wixsite.com/basebol",
+        "rss": null,
+        "facebook": "https://www.facebook.com/capitalbasebolclube/",
+        "instagram": "https://www.instagram.com/capitals_basebol_clube/"
+      },
+      {
+        "name": "Loulé Ravens",
+        "full": "Loulé Ravens",
+        "city": "Loulé",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/louleravens/",
+        "instagram": "https://www.instagram.com/loule.ravens/"
+      },
+      {
+        "name": "Lavos",
+        "full": "Lavos Basebol",
+        "city": "Lavos",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/lavosbasebol/",
+        "instagram": "https://www.instagram.com/lavosball/"
+      }
+    ],
+    "PL": [
+      {
+        "name": "Silesia Raptors",
+        "full": "Silesia Raptors",
+        "city": "Rybnik",
+        "youtube": null,
+        "web": "https://silesiarybnik.pl",
+        "rss": null,
+        "facebook": "https://www.facebook.com/SilesiaRybnik/",
+        "instagram": "https://www.instagram.com/silesia_rybnik/",
+        "x": null
+      },
+      {
+        "name": "Warsaw Dragons",
+        "full": "Warsaw Dragons",
+        "city": "Warsaw",
+        "youtube": null,
+        "web": "https://www.warsawdragons.pl",
+        "rss": null,
+        "facebook": "https://www.facebook.com/warsawdragons/",
+        "instagram": "https://www.instagram.com/warsawdragons/",
+        "x": "https://x.com/dragons_warsaw"
+      },
+      {
+        "name": "Stal Kutno",
+        "full": "Ekobud Stal Kutno",
+        "city": "Kutno",
+        "youtube": null,
+        "web": "http://www.stalkutno.pl/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/KutnoStal/",
+        "instagram": "https://www.instagram.com/stalkutnobaseball/",
+        "x": null
+      },
+      {
+        "name": "Barons Wrocław",
+        "full": "Barons Wrocław",
+        "city": "Wrocław",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/BaseballWroclaw/",
+        "instagram": "https://www.instagram.com/barons_wroclaw/",
+        "x": null
+      },
+      {
+        "name": "Gepardy Żory",
+        "full": "Gepardy Żory",
+        "city": "Żory",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/p/Gepardy-%C5%BBory-100060054086114/",
+        "instagram": "https://www.instagram.com/_gepardyzory/",
+        "x": null
+      },
+      {
+        "name": "Centaury Warszawa",
+        "full": "Centaury Warszawa",
+        "city": "Warsaw",
+        "youtube": "https://www.youtube.com/@CentaurySoftball",
+        "web": "https://www.centaurywarszawa.pl",
+        "rss": null,
+        "facebook": "https://www.facebook.com/CentauryWarszawa/",
+        "instagram": "https://www.instagram.com/wukb_centaury_warszawa/",
+        "x": null
+      }
+    ],
+    "RO": [
+      {
+        "name": "Eagles Cluj",
+        "full": "Eagles Cluj",
+        "city": "Cluj-Napoca",
+        "youtube": null,
+        "web": null,
+        "rss": null,
+        "facebook": "https://www.facebook.com/eaglescluj/",
+        "instagram": null,
+        "x": null
+      }
+    ],
+    "SI": [
+      {
+        "name": "Jezica",
+        "full": "Ljubljana Jezica",
+        "city": "Ljubljana",
+        "youtube": null,
+        "web": "https://www.jezica-baseball.com",
+        "rss": null,
+        "facebook": "https://www.facebook.com/jezica.baseball/",
+        "instagram": "https://www.instagram.com/bsdjezica/",
+        "x": null
+      }
+    ],
+    "UA": [
+      {
+        "name": "Knyazha",
+        "full": "Knyazha Kyiv",
+        "city": "Kyiv",
+        "youtube": null,
+        "web": "https://kbss.com.ua/",
+        "rss": null,
+        "facebook": "https://www.facebook.com/kievbaseballacademy/",
+        "instagram": null,
+        "x": null
+      }
+    ],
+    "CH": [
+      {
+        "name": "Therwil Flyers",
+        "full": "Therwil Flyers",
+        "city": "Therwil",
+        "youtube": null,
+        "web": "https://www.therwil-flyers.ch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/therwilflyers",
+        "instagram": "https://www.instagram.com/therwilflyers/",
+        "x": "https://x.com/therwilflyers"
+      },
+      {
+        "name": "Challengers",
+        "full": "Zürich Challengers",
+        "city": "Zürich",
+        "youtube": null,
+        "web": "https://www.challengers.ch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/ZurichChallengers/",
+        "instagram": "https://www.instagram.com/challengers_zurich/",
+        "x": "https://x.com/cbcz"
+      },
+      {
+        "name": "Bern Cardinals",
+        "full": "Bern Cardinals",
+        "city": "Bern",
+        "youtube": null,
+        "web": "https://www.cardinalsbern.ch",
+        "rss": null,
+        "facebook": "https://www.facebook.com/berncardinals/",
+        "instagram": "https://www.instagram.com/berncardinals/",
+        "x": "https://twitter.com/berncardinals"
+      }
+    ],
+    "IE": [
+      {
+        "name": "Greystones Mariners",
+        "full": "Greystones Mariners",
+        "city": "Greystones",
+        "youtube": "https://www.youtube.com/@Marinersbaseballireland",
+        "web": "https://www.marinersbaseballireland.com",
+        "rss": null,
+        "facebook": "https://www.facebook.com/MarinersBaseballClub/",
+        "instagram": "https://www.instagram.com/mariners_baseball_ireland/",
+        "x": null
+      }
+    ]
+  }
+}

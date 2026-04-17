@@ -1,0 +1,429 @@
+{
+  "updated_at": "2026-04-13",
+  "leagues": [
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "league": "Honkbal Hoofdklasse",
+      "season_start": "2026-04-10",
+      "streams": []
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "league": "Serie A Gold",
+      "season_start": "2026-04-11",
+      "streaming": {
+        "platform": "FIBSchannel (YouTube)",
+        "url": "https://www.youtube.com/@fibschannel",
+        "free": true,
+        "coverage": "selected",
+        "note": "プレーオフ・準決勝・Italian Baseball Series中心。レギュラーシーズン選抜試合も配信。Sky ch.814 (MS Channel)でも有料放送"
+      },
+      "streams": [
+        {
+          "name": "FIBSchannel",
+          "url": "https://www.youtube.com/@fibschannel",
+          "type": "youtube",
+          "note": "選抜試合＋ポストシーズン"
+        },
+        {
+          "name": "MS Channel (Sky 814)",
+          "url": "https://www.fibs.it/",
+          "type": "tv",
+          "note": "Sky Italia加入者のみ"
+        },
+        {
+          "name": "FIBS Channel Baseball",
+          "url": "https://www.youtube.com/@fibschannelbas",
+          "type": "youtube",
+          "note": "Italian baseball live streams (channel 1)"
+        },
+        {
+          "name": "FIBS Channel 2",
+          "url": "https://www.youtube.com/@fibschannel3245",
+          "type": "youtube",
+          "note": "Italian baseball live streams (channel 2)"
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "league": "Deutsche Baseball Liga",
+      "season_start": "2026-04-10",
+      "streaming": {
+        "platform": "baseball.de",
+        "url": "https://www.baseball.de/saison/live",
+        "free": true,
+        "coverage": "all",
+        "note": "全試合無料ライブ配信。公式サイト内プレイヤーで完結"
+      },
+      "streams": [
+        {
+          "name": "baseball.de Live",
+          "url": "https://www.baseball.de/saison/live",
+          "type": "web",
+          "note": "全試合無料ライブ配信"
+        },
+        {
+          "name": "DBL YouTube",
+          "url": "https://www.youtube.com/@dbl.baseball",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "league": "Division 1",
+      "season_start": "2026-04-05",
+      "streaming": {
+        "platform": "Baseball TV France + クラブYouTube",
+        "url": "https://baseballtv.fr/",
+        "free": true,
+        "coverage": "selected",
+        "note": "各クラブが独自にYouTube配信。Baseball TV Franceが集約サイト。全試合網羅ではない"
+      },
+      "streams": [
+        {
+          "name": "Baseball TV France",
+          "url": "https://baseballtv.fr/",
+          "type": "web",
+          "note": "配信スケジュール集約・一部ライブ"
+        },
+        {
+          "name": "Huskies TV (Rouen)",
+          "url": "https://www.youtube.com/channel/UC-NIa1r6gTtOF4XxNqxBoFQ",
+          "type": "youtube",
+          "note": "ルーアン試合配信"
+        },
+        {
+          "name": "FFBS YouTube",
+          "url": "https://www.youtube.com/@FFBaseballSoftball",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "league": "División de Honor",
+      "season_start": "2026-04-18",
+      "streaming": {
+        "platform": "RFEBS YouTube + チームYouTube",
+        "url": "https://www.rfebs.es/",
+        "free": true,
+        "coverage": "selected",
+        "note": "週末選抜試合のみ。各チームが個別にYouTube配信"
+      },
+      "streams": [
+        {
+          "name": "RFEBS",
+          "url": "https://www.rfebs.es/",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "country": "Czech Republic",
+      "code": "CZ",
+      "league": "Extraliga",
+      "season_start": "2026-04-18",
+      "streaming": {
+        "platform": "Baseball Czech TV (StayLive)",
+        "url": "https://www.baseballczech.tv/cze",
+        "free": false,
+        "coverage": "all",
+        "note": "有料サブスクリプション。全試合＋Liga Prague＋オールスター＋ユース大会。Androidアプリあり"
+      },
+      "streams": [
+        {
+          "name": "Baseball Czech TV",
+          "url": "https://www.baseballczech.tv/cze",
+          "type": "web",
+          "note": "有料・全試合配信"
+        },
+        {
+          "name": "StayLive App",
+          "url": "https://app.staylive.io/czechbaseball",
+          "type": "web",
+          "note": "アプリ版"
+        }
+      ]
+    },
+    {
+      "country": "Austria",
+      "code": "AT",
+      "league": "Baseball Bundesliga",
+      "season_start": "2026-04-17",
+      "streaming": {
+        "platform": "baseballsoftball.tv",
+        "url": "https://baseballsoftball.tv/",
+        "free": true,
+        "coverage": "all",
+        "note": "全試合無料ライブ配信＋アーカイブ。ソフトボール・ユースも含む"
+      },
+      "streams": [
+        {
+          "name": "baseballsoftball.tv",
+          "url": "https://baseballsoftball.tv/",
+          "type": "web",
+          "note": "全試合無料配信"
+        }
+      ]
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "league": "National Baseball League",
+      "season_start": "2026-04-12",
+      "streaming": {
+        "platform": "BSUK-TV (Meridix)",
+        "url": "https://www.baseballsoftballuk.com/watch",
+        "free": true,
+        "coverage": "all",
+        "note": "全試合無料ライブ配信＋オンデマンド。同時4試合並行配信。NBLファイナルはtalkSPORTでも放映"
+      },
+      "streams": [
+        {
+          "name": "BSUK-TV",
+          "url": "https://www.baseballsoftballuk.com/watch",
+          "type": "web",
+          "note": "全試合無料配信"
+        },
+        {
+          "name": "Meridix直接",
+          "url": "https://www.meridix.com/group/?liveid=BSUKTV",
+          "type": "web"
+        },
+        {
+          "name": "BBF YouTube",
+          "url": "https://www.youtube.com/@BritishBaseball",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "league": "Belgian Baseball Division 1",
+      "season_start": "2026-04-04",
+      "streaming": {
+        "platform": "KBBSF Live Games",
+        "url": "https://www.kbbsf-frbbs.be/live-games/",
+        "free": true,
+        "coverage": "all",
+        "note": "Gold League全試合のPlay-by-Play＋ライブ配信"
+      },
+      "streams": [
+        {
+          "name": "KBBSF Live Games",
+          "url": "https://www.kbbsf-frbbs.be/live-games/",
+          "type": "web",
+          "note": "Gold League全試合"
+        },
+        {
+          "name": "KBBSF YouTube",
+          "url": "https://www.youtube.com/channel/UCYkrYy4Bu0qDsA48wgZhD0g",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "league": "Superbaseball",
+      "season_start": "2026-05-01",
+      "streaming": {
+        "platform": "Ruutu Urheilu (Ruutu+)",
+        "url": "https://www.ruutu.fi/",
+        "free": false,
+        "coverage": "selected",
+        "note": "有料サブスク。選抜レギュラー試合＋全ポストシーズン。フィンランド国内のみ"
+      },
+      "streams": [
+        {
+          "name": "Ruutu Urheilu",
+          "url": "https://www.ruutu.fi/",
+          "type": "web",
+          "note": "有料・選抜＋全PO"
+        }
+      ]
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "league": "Elitserien",
+      "season_start": "2026-05-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし"
+      },
+      "streams": []
+    },
+    {
+      "country": "Israel",
+      "code": "IL",
+      "league": "Israel Premier League",
+      "season_start": "2026-06-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし。IAB Facebookで不定期動画あり"
+      },
+      "streams": [
+        {
+          "name": "IAB Facebook",
+          "url": "https://www.facebook.com/IABIsraelBaseball/",
+          "type": "facebook",
+          "note": "不定期動画"
+        }
+      ]
+    },
+    {
+      "country": "Croatia",
+      "code": "HR",
+      "league": "Croatian Baseball League",
+      "season_start": "2026-04-19",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "国内リーグ配信なし。国際大会はbaseballeurope.tv (有料 €3.99〜)"
+      },
+      "streams": []
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "league": "Serbian Baseball League",
+      "season_start": "2026-04-05",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし"
+      },
+      "streams": []
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "league": "Ekstraliga Baseball",
+      "season_start": "2026-04-04",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし。各クラブSNSで散発的配信の可能性"
+      },
+      "streams": []
+    },
+    {
+      "country": "Slovakia",
+      "code": "SK",
+      "league": "SBL Extraleague",
+      "season_start": "2026-05-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし"
+      },
+      "streams": []
+    },
+    {
+      "country": "Denmark",
+      "code": "DK",
+      "league": "Senior League",
+      "season_start": "2026-04-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし"
+      },
+      "streams": []
+    },
+    {
+      "country": "Norway",
+      "code": "NO",
+      "league": "Eliteserien",
+      "season_start": "2026-05-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "公式配信なし"
+      },
+      "streams": []
+    },
+    {
+      "country": "Hungary",
+      "code": "HU",
+      "league": "Magyar Baseball Bajnokság",
+      "season_start": "2026-04-01",
+      "streaming": {
+        "platform": null,
+        "url": null,
+        "free": null,
+        "coverage": "none",
+        "note": "国内リーグ配信なし。国際大会はbaseballeurope.tv"
+      },
+      "streams": []
+    },
+    {
+      "country": "Europe",
+      "code": "EU",
+      "league": "WBSC Europe Tournaments",
+      "season_start": "2026-05-22",
+      "streaming": {
+        "platform": "baseballeurope.tv (Joymo)",
+        "url": "https://baseballeurope.tv/home",
+        "free": false,
+        "coverage": "all",
+        "note": "欧州選手権・Champions League Europe・Federation Cup等。試合単体€3.99〜、大会パス€29.99"
+      },
+      "streams": [
+        {
+          "name": "baseballeurope.tv",
+          "url": "https://baseballeurope.tv/home",
+          "type": "web",
+          "note": "有料 €3.99〜/試合"
+        },
+        {
+          "name": "WBSC Europe YouTube",
+          "url": "https://www.youtube.com/@WBSCEurope",
+          "type": "youtube",
+          "note": "一部無料配信"
+        }
+      ]
+    }
+  ],
+  "global_streams": [
+    {
+      "name": "WBSC",
+      "url": "https://www.youtube.com/@WBSC",
+      "type": "youtube",
+      "note": "国際大会"
+    },
+    {
+      "name": "WBSC Europe",
+      "url": "https://www.youtube.com/@WBSCEurope",
+      "type": "youtube",
+      "note": "欧州選手権・CLE"
+    }
+  ]
+}
