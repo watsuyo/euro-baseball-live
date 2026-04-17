@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Euro Baseball Live</title>
+<style>
+  :root { --bg: #0f1117; --surface: #1a1d27; --border: #2d3140; --text: #d1d5db; --text-h: #f9fafb; --accent: #60a5fa; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  .container { max-width: 700px; margin: 0 auto; padding: 16px; }
+  h1 { font-size: 20px; font-weight: 800; color: var(--text-h); margin-bottom: 4px; }
+  .subtitle { font-size: 13px; color: var(--text); opacity: 0.7; margin-bottom: 16px; }
+  .date-label { font-size: 14px; font-weight: 600; color: var(--accent); margin-bottom: 12px; }
+  .game { display: flex; align-items: center; gap: 8px; padding: 10px 12px; background: var(--surface); border-bottom: 1px solid var(--border); text-decoration: none; color: var(--text-h); transition: background 0.1s; }
+  .game:first-child { border-radius: 8px 8px 0 0; }
+  .game:last-child { border-radius: 0 0 8px 8px; border-bottom: none; }
+  .game:only-child { border-radius: 8px; }
+  .game:hover { background: #252840; }
+  .game-time { font-size: 13px; font-weight: 700; color: var(--accent); min-width: 38px; }
+  .game-flag { font-size: 15px; }
+  .game-matchup { flex: 1; font-size: 14px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .game-stream { font-size: 15px; flex-shrink: 0; }
+  .no-stream { opacity: 0.4; }
+  .section { margin-bottom: 20px; }
+  .section-title { font-size: 12px; font-weight: 600; color: var(--text); opacity: 0.7; margin-bottom: 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
+  .empty { text-align: center; padding: 40px; color: var(--text); opacity: 0.5; }
+  .loading { text-align: center; padding: 40px; }
+  .footer { text-align: center; margin-top: 24px; font-size: 12px; opacity: 0.5; }
+  .footer a { color: var(--accent); text-decoration: none; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg: #fafaf9; --surface: #fff; --border: #e5e7eb; --text: #4b5563; --text-h: #111827; --accent: #1d4ed8; }
+    .game:hover { background: #f3f4f6; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>⚾ Euro Baseball Live</h1>
+  <div class="subtitle">Today's games & streams</div>
+  <div id="date-label" class="date-label"></div>
+  <div id="games" class="loading">Loading...</div>
+  <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
+</div>
+<script>
+const DATA_URL = "https://euro-baseball-viewer.vercel.app/data/schedule.json";
+const DAY_BOUNDARY_HOUR = 4;
+
+const FLAGS = {};
+function flag(code) {
+  if (!code || code.length !== 2) return "";
+  return String.fromCodePoint(code.charCodeAt(0) + 0x1F1E6 - 65, code.charCodeAt(1) + 0x1F1E6 - 65);
+}
+
+function todayStr() {
+  const now = new Date();
+  if (now.getHours() < DAY_BOUNDARY_HOUR) {
+    const y = new Date(now.getTime() - 86400000);
+    return y.toLocaleDateString("sv-SE");
+  }
+  return now.toLocaleDateString("sv-SE");
+}
+
+function localTime(date, time, tz) {
+  if (!time) return { localDate: date, localTime: null };
+  try {
+    const dt = new Date(`${date}T${time}:00`);
+    const opts = { timeZone: tz || "UTC", hour: "2-digit", minute: "2-digit", hour12: false };
+    const localT = dt.toLocaleTimeString("sv-SE", opts);
+    const localD = dt.toLocaleDateString("sv-SE", { timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone });
+    return { localDate: localD, localTime: localT };
+  } catch {
+    return { localDate: date, localTime: time };
+  }
+}
+
+async function load() {
+  const today = todayStr();
+  const d = new Date(today + "T12:00:00");
+  const days = ["日","月","火","水","木","金","土"];
+  document.getElementById("date-label").textContent =
+    `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()}(${days[d.getDay()]})`;
+
+  try {
+    const resp = await fetch(DATA_URL);
+    const data = await resp.json();
+
+    const withStream = [];
+    const noStream = [];
+
+    for (const [code, league] of Object.entries(data.leagues)) {
+      for (const g of league.games) {
+        const lt = localTime(g.date, g.time, g.tz);
+        let effectiveDate = lt.localDate;
+        if (lt.localTime) {
+          const [h] = lt.localTime.split(":").map(Number);
+          if (h < DAY_BOUNDARY_HOUR) {
+            const prev = new Date(lt.localDate + "T12:00:00");
+            prev.setDate(prev.getDate() - 1);
+            effectiveDate = prev.toLocaleDateString("sv-SE");
+          }
+        }
+        if (effectiveDate !== today) continue;
+
+        const entry = {
+          time: lt.localTime || "TBD",
+          code,
+          home: g.home || "?",
+          away: g.away || "?",
+          stream: g.stream_url || null,
+        };
+        if (entry.stream) withStream.push(entry);
+        else noStream.push(entry);
+      }
+    }
+
+    withStream.sort((a, b) => a.time.localeCompare(b.time));
+    noStream.sort((a, b) => a.time.localeCompare(b.time));
+
+    const container = document.getElementById("games");
+
+    if (withStream.length === 0 && noStream.length === 0) {
+      container.innerHTML = '<div class="empty">今日の試合はありません</div>';
+      return;
+    }
+
+    let html = "";
+
+    if (withStream.length > 0) {
+      html += '<div class="section"><div class="section-title">📺 配信あり</div>';
+      for (const g of withStream) {
+        html += `<a href="${g.stream}" target="_blank" rel="noopener" class="game">
+          <span class="game-time">${g.time}</span>
+          <span class="game-flag">${flag(g.code)}</span>
+          <span class="game-matchup">${g.home} vs ${g.away}</span>
+          <span class="game-stream">📺</span>
+        </a>`;
+      }
+      html += '</div>';
+    }
+
+    if (noStream.length > 0) {
+      html += '<div class="section"><div class="section-title">配信なし</div>';
+      for (const g of noStream) {
+        html += `<div class="game no-stream">
+          <span class="game-time">${g.time}</span>
+          <span class="game-flag">${flag(g.code)}</span>
+          <span class="game-matchup">${g.home} vs ${g.away}</span>
+        </div>`;
+      }
+      html += '</div>';
+    }
+
+    container.innerHTML = html;
+  } catch (e) {
+    document.getElementById("games").innerHTML = '<div class="empty">データ取得エラー</div>';
+  }
+}
+
+load();
+// Auto-refresh every 5 minutes
+setInterval(load, 300000);
+</script>
+</body>
+</html>
