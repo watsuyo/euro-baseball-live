@@ -201,7 +201,7 @@ function renderDateLabel(today, total) {
   el.textContent = total == null ? today : `${today} ・ 全 ${total} 試合`;
 }
 
-function collectTodayGames(schedule, today, webFallback) {
+function collectTodayGames(schedule, today) {
   const games = [];
   for (const [code, league] of Object.entries(schedule.leagues)) {
     for (const g of league.games) {
@@ -213,28 +213,18 @@ function collectTodayGames(schedule, today, webFallback) {
       }
       if (effectiveDate !== today) continue;
       const displayTime = lt.localTime ? toDisplayTime28h(lt.localTime) : "TBD";
-      const stream = g.stream_url || webFallback.get(code) || null;
       games.push({
         time: displayTime,
         sortKey: displayTime === "TBD" ? "99:99" : displayTime,
         code,
         home: g.home || "?",
         away: g.away || "?",
-        stream,
+        stream: g.stream_url || null,
       });
     }
   }
   games.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
   return games;
-}
-
-function buildWebFallback(streams) {
-  const map = new Map();
-  for (const lg of streams.leagues || []) {
-    const web = (lg.streams || []).find(s => s.type === "web");
-    if (web?.url) map.set(lg.code, web.url);
-  }
-  return map;
 }
 
 function buildJpIndex(jp) {
@@ -274,10 +264,9 @@ function rowHtml(g, extra = "") {
   </${tag}>`;
 }
 
-function render(schedule, jp, streams) {
+function render(schedule, jp) {
   const today = todayJST();
-  const webFallback = buildWebFallback(streams);
-  const games = collectTodayGames(schedule, today, webFallback);
+  const games = collectTodayGames(schedule, today);
   const jpIndex = buildJpIndex(jp);
   renderDateLabel(today, games.length);
 
@@ -308,12 +297,11 @@ function render(schedule, jp, streams) {
 async function load() {
   renderDateLabel(todayJST());
   try {
-    const [schedule, jp, streams] = await Promise.all([
+    const [schedule, jp] = await Promise.all([
       fetchJson(`${VIEWER_BASE}/schedule.json`),
       fetchJson(`${VIEWER_BASE}/jp_players.json`).catch(() => ({ players: [] })),
-      fetchJson(`${VIEWER_BASE}/streams.json`).catch(() => ({ leagues: [] })),
     ]);
-    render(schedule, jp, streams);
+    render(schedule, jp);
   } catch (e) {
     document.getElementById("content").innerHTML = '<div class="empty">データ取得エラー</div>';
   }
