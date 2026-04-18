@@ -69,6 +69,7 @@
   .game-row.jp-team {
     border-left: 3px solid var(--accent);
     flex-wrap: wrap;
+    align-content: center;
     white-space: normal;
     row-gap: 2px;
   }
@@ -87,6 +88,7 @@
   }
   .game-row-flag { flex-shrink: 0; font-size: 13px; }
   .game-row-matchup {
+    flex: 1;
     font-weight: 600;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -94,12 +96,10 @@
   .game-row-players {
     color: var(--accent);
     font-size: 11px;
-    margin-left: auto;
     overflow: hidden;
     text-overflow: ellipsis;
   }
   .game-row-stream { flex-shrink: 0; font-size: 13px; margin-left: auto; }
-  .game-row-players + .game-row-stream { margin-left: 6px; }
 
   .empty { text-align: center; padding: 40px; color: var(--text); opacity: 0.5; }
   .loading { text-align: center; padding: 40px; }
@@ -265,7 +265,7 @@ function rowHtml(g, extra = "") {
     <span class="game-row-time">${escapeHtml(g.time)}</span>
     <span class="game-row-flag">${flag(g.code)}</span>
     <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
-    ${players}${stream}
+    ${stream}${players}
   </${tag}>`;
 }
 
