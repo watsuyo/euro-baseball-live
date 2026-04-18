@@ -192,8 +192,9 @@ async function fetchJson(url) {
   return r.json();
 }
 
-function renderDateLabel(today) {
-  document.getElementById("date-label").textContent = today;
+function renderDateLabel(today, total) {
+  const el = document.getElementById("date-label");
+  el.textContent = total == null ? today : `${today} ・ 全 ${total} 試合`;
 }
 
 function collectTodayGames(schedule, today, webFallback) {
@@ -271,10 +272,10 @@ function rowHtml(g, extra = "") {
 
 function render(schedule, jp, streams) {
   const today = todayJST();
-  renderDateLabel(today);
   const webFallback = buildWebFallback(streams);
   const games = collectTodayGames(schedule, today, webFallback);
   const jpIndex = buildJpIndex(jp);
+  renderDateLabel(today, games.length);
 
   const container = document.getElementById("content");
   container.classList.remove("loading");
@@ -290,11 +291,11 @@ function render(schedule, jp, streams) {
 
   let html = "";
   if (jpGames.length > 0) {
-    html += '<section class="list-section"><h2 class="list-section-title">🇯🇵 日本人選手・指導者の所属チーム</h2><div class="game-rows">';
+    html += `<section class="list-section"><h2 class="list-section-title">🇯🇵 日本人選手・指導者の所属チーム (${jpGames.length})</h2><div class="game-rows">`;
     html += jpGames.map(g => rowHtml(g, "jp-team")).join("");
     html += '</div></section>';
   }
-  html += '<section class="list-section"><h2 class="list-section-title">今日</h2><div class="game-rows">';
+  html += `<section class="list-section"><h2 class="list-section-title">今日 (${games.length})</h2><div class="game-rows">`;
   html += games.map(g => rowHtml(g)).join("");
   html += '</div></section>';
   container.innerHTML = html;
