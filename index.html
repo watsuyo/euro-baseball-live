@@ -40,7 +40,6 @@
   .list-section { margin-bottom: 16px; }
   .list-section-title {
     color: var(--text-h);
-    opacity: 0.7;
     border-bottom: 1px solid var(--border);
     margin: 0 0 8px;
     padding-bottom: 4px;
@@ -99,7 +98,7 @@
 <body>
 <div class="container">
   <h1>⚾ Euro Baseball Live</h1>
-  <div class="subtitle">今日の試合と配信（JST・28時制）</div>
+  <div class="subtitle">今日の試合と配信（JST）</div>
   <div id="date-label" class="date-label"></div>
   <div id="content" class="loading">Loading...</div>
   <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
@@ -182,10 +181,7 @@ async function fetchJson(url) {
 }
 
 function renderDateLabel(today) {
-  const [Y, M, D] = today.split("-").map(Number);
-  const days = ["日","月","火","水","木","金","土"];
-  const dow = new Date(Date.UTC(Y, M - 1, D)).getUTCDay();
-  document.getElementById("date-label").textContent = `${Y}/${M}/${D}(${days[dow]}) JST`;
+  document.getElementById("date-label").textContent = today;
 }
 
 function collectTodayGames(schedule, today, webFallback) {
@@ -286,7 +282,7 @@ function render(schedule, jp, streams) {
     html += jpGames.map(g => rowHtml(g, "jp-team")).join("");
     html += '</div></section>';
   }
-  html += '<section class="list-section"><h2 class="list-section-title">今日の試合</h2><div class="game-rows">';
+  html += '<section class="list-section"><h2 class="list-section-title">今日</h2><div class="game-rows">';
   html += games.map(g => rowHtml(g)).join("");
   html += '</div></section>';
   container.innerHTML = html;
