@@ -177,7 +177,11 @@ function shiftDate(ymd, days) {
 }
 
 function normTeam(s) {
-  return String(s ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+  return String(s ?? "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "");
 }
 
 function escapeHtml(s) {
