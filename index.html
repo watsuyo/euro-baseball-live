@@ -5,48 +5,100 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Euro Baseball Live</title>
 <style>
-  :root { --bg: #0f1117; --surface: #1a1d27; --border: #2d3140; --text: #d1d5db; --text-h: #f9fafb; --accent: #60a5fa; }
+  :root {
+    --bg: #fafaf9;
+    --surface: #fff;
+    --border: #e5e7eb;
+    --text: #4b5563;
+    --text-h: #111827;
+    --accent: #1d4ed8;
+    --tag-bg: #f3f4f6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --border: #2d3140;
+      --text: #d1d5db;
+      --text-h: #f9fafb;
+      --accent: #60a5fa;
+      --tag-bg: #1f2233;
+    }
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
-  .container { max-width: 1200px; margin: 0 auto; padding: 0 24px 24px; }
-  @media (max-width: 640px) { .container { padding: 0 12px 12px; } }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+  .container { max-width: 700px; margin: 0 auto; padding: 16px; }
   h1 { font-size: 20px; font-weight: 800; color: var(--text-h); margin-bottom: 4px; }
   .subtitle { font-size: 13px; color: var(--text); opacity: 0.7; margin-bottom: 16px; }
   .date-label { font-size: 14px; font-weight: 600; color: var(--accent); margin-bottom: 12px; }
-  .game { display: flex; align-items: center; gap: 8px; padding: 6px 16px; background: var(--surface); border-bottom: 1px solid var(--border); text-decoration: none; color: var(--text-h); transition: background 0.1s; }
-  .game:first-child { border-radius: 8px 8px 0 0; }
-  .game:last-child { border-radius: 0 0 8px 8px; border-bottom: none; }
-  .game:only-child { border-radius: 8px; }
-  .game:hover { background: #252840; }
-  .game-time { font-size: 13px; font-weight: 700; color: var(--accent); min-width: 38px; }
-  .game-flag { font-size: 15px; }
-  .game-body { flex: 1; min-width: 0; }
-  .game-matchup { font-size: 14px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .game-jp { font-size: 11px; color: var(--accent); margin-top: 2px; }
-  .game-stream { font-size: 15px; flex-shrink: 0; }
-  .no-stream { opacity: 0.4; }
-  .section { margin-bottom: 12px; }
-  .section-title { font-size: 12px; font-weight: 600; color: var(--text-h); margin-bottom: 6px; padding-bottom: 4px; border-bottom: 1px solid var(--border); }
+
+  .list-section { margin-bottom: 16px; }
+  .list-section-title {
+    color: var(--text-h);
+    opacity: 0.7;
+    border-bottom: 1px solid var(--border);
+    margin: 0 0 8px;
+    padding-bottom: 4px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .game-rows { display: flex; flex-direction: column; }
+  .game-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 8px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    color: var(--text-h);
+    font-size: 13px;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .game-row:first-child { border-radius: 6px 6px 0 0; }
+  .game-row:last-child { border-bottom: none; border-radius: 0 0 6px 6px; }
+  .game-row:only-child { border-radius: 6px; }
+  .game-row:hover { background: var(--tag-bg); }
+  .game-row.has-link { cursor: pointer; }
+  .game-row-time {
+    min-width: 34px;
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .game-row-flag { flex-shrink: 0; font-size: 13px; }
+  .game-row-matchup {
+    flex: 1;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .game-row-stream { flex-shrink: 0; font-size: 13px; }
+  .no-stream { opacity: 0.5; }
+
   .empty { text-align: center; padding: 40px; color: var(--text); opacity: 0.5; }
   .loading { text-align: center; padding: 40px; }
   .footer { text-align: center; margin-top: 24px; font-size: 12px; opacity: 0.5; }
   .footer a { color: var(--accent); text-decoration: none; }
-  @media (prefers-color-scheme: light) {
-    :root { --bg: #fafaf9; --surface: #fff; --border: #e5e7eb; --text: #4b5563; --text-h: #111827; --accent: #1d4ed8; }
-    .game:hover { background: #f3f4f6; }
-  }
 </style>
 </head>
 <body>
 <div class="container">
-  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px">
-    <h1>⚾ Euro Baseball Live</h1>
-    <span id="date-label" class="date-label" style="margin:0"></span>
-  </div>
+  <h1>⚾ Euro Baseball Live</h1>
+  <div class="subtitle">Today's games &amp; streams</div>
+  <div id="date-label" class="date-label"></div>
   <div id="games" class="loading">Loading...</div>
+  <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
 </div>
 <script>
-const BASE = "https://euro-baseball-viewer.vercel.app/data";
+const DATA_URL = "https://euro-baseball-viewer.vercel.app/data/schedule.json";
 const DAY_BOUNDARY_HOUR = 4;
 
 function flag(code) {
@@ -57,30 +109,29 @@ function flag(code) {
 function todayStr() {
   const now = new Date();
   if (now.getHours() < DAY_BOUNDARY_HOUR) {
-    return new Date(now.getTime() - 86400000).toLocaleDateString("sv-SE");
+    const y = new Date(now.getTime() - 86400000);
+    return y.toLocaleDateString("sv-SE");
   }
   return now.toLocaleDateString("sv-SE");
 }
 
-function toLocal(date, time, tz) {
+function localTime(date, time, tz) {
   if (!time) return { localDate: date, localTime: null };
   try {
-    const sourceTz = tz || "UTC";
-    const localTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-    const utcDate = new Date(`${date}T${time}:00Z`);
-    const sourceStr = utcDate.toLocaleString("sv-SE", { timeZone: sourceTz });
-    const utcStr = utcDate.toLocaleString("sv-SE", { timeZone: "UTC" });
-    const offsetMs = new Date(utcStr) - new Date(sourceStr);
-    const actualUtc = new Date(utcDate.getTime() + offsetMs);
-    return {
-      localDate: actualUtc.toLocaleDateString("sv-SE", { timeZone: localTz }),
-      localTime: actualUtc.toLocaleTimeString("sv-SE", { timeZone: localTz, hour: "2-digit", minute: "2-digit", hour12: false }),
-    };
-  } catch { return { localDate: date, localTime: time }; }
+    const dt = new Date(`${date}T${time}:00`);
+    const opts = { timeZone: tz || "UTC", hour: "2-digit", minute: "2-digit", hour12: false };
+    const localT = dt.toLocaleTimeString("sv-SE", opts);
+    const localD = dt.toLocaleDateString("sv-SE", { timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone });
+    return { localDate: localD, localTime: localT };
+  } catch {
+    return { localDate: date, localTime: time };
+  }
 }
 
-function normalize(s) {
-  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
 }
 
 async function load() {
@@ -91,42 +142,15 @@ async function load() {
     `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()}(${days[d.getDay()]})`;
 
   try {
-    const [schedResp, jpResp] = await Promise.all([
-      fetch(`${BASE}/schedule.json`),
-      fetch(`${BASE}/jp_players.json`),
-    ]);
-    const sched = await schedResp.json();
-    const jpData = await jpResp.json();
-    const jpPlayers = jpData.players || [];
-
-    // Build team → JP players lookup (normalized)
-    const jpByTeam = new Map();
-    for (const p of jpPlayers) {
-      if (!p.team) continue;
-      const key = normalize(p.team);
-      if (!jpByTeam.has(key)) jpByTeam.set(key, []);
-      jpByTeam.get(key).push(p);
-    }
-
-    function findJp(teamName) {
-      const norm = normalize(teamName);
-      const exact = jpByTeam.get(norm);
-      if (exact) return exact;
-      const result = [];
-      for (const p of jpPlayers) {
-        if (!p.team) continue;
-        const pn = normalize(p.team);
-        if (norm.includes(pn) || pn.includes(norm)) result.push(p);
-      }
-      return result;
-    }
+    const resp = await fetch(DATA_URL);
+    const data = await resp.json();
 
     const withStream = [];
     const noStream = [];
 
-    for (const [code, league] of Object.entries(sched.leagues)) {
+    for (const [code, league] of Object.entries(data.leagues)) {
       for (const g of league.games) {
-        const lt = toLocal(g.date, g.time, g.tz);
+        const lt = localTime(g.date, g.time, g.tz);
         let effectiveDate = lt.localDate;
         if (lt.localTime) {
           const [h] = lt.localTime.split(":").map(Number);
@@ -138,18 +162,12 @@ async function load() {
         }
         if (effectiveDate !== today) continue;
 
-        const home = g.home || "?";
-        const away = g.away || "?";
-        const jpHome = findJp(home);
-        const jpAway = findJp(away);
-        const jpNames = [...jpHome, ...jpAway].map(p => p.name_ja || p.name);
-
         const entry = {
           time: lt.localTime || "TBD",
           code,
-          home, away,
+          home: g.home || "?",
+          away: g.away || "?",
           stream: g.stream_url || null,
-          jpNames,
         };
         if (entry.stream) withStream.push(entry);
         else noStream.push(entry);
@@ -160,38 +178,38 @@ async function load() {
     noStream.sort((a, b) => a.time.localeCompare(b.time));
 
     const container = document.getElementById("games");
+    container.classList.remove("loading");
 
     if (withStream.length === 0 && noStream.length === 0) {
       container.innerHTML = '<div class="empty">今日の試合はありません</div>';
       return;
     }
 
-    function renderGame(g, hasLink) {
-      const tag = hasLink ? "a" : "div";
-      const attrs = hasLink ? ` href="${g.stream}" target="_blank" rel="noopener"` : "";
-      const cls = hasLink ? "game" : "game no-stream";
-      const jpLine = g.jpNames.length > 0 ? `<div class="game-jp">🇯🇵 ${g.jpNames.join(", ")}</div>` : "";
-      return `<${tag}${attrs} class="${cls}">
-        <span class="game-time">${g.time}</span>
-        <span class="game-flag">${flag(g.code)}</span>
-        <div class="game-body">
-          <div class="game-matchup">${g.home} vs ${g.away}</div>
-          ${jpLine}
-        </div>
-        ${hasLink ? '<span class="game-stream">📺</span>' : ""}
-      </${tag}>`;
+    let html = "";
+
+    if (withStream.length > 0) {
+      html += '<section class="list-section"><h2 class="list-section-title">📺 配信あり</h2><div class="game-rows">';
+      for (const g of withStream) {
+        html += `<a href="${escapeHtml(g.stream)}" target="_blank" rel="noopener" class="game-row has-link">
+          <span class="game-row-time">${escapeHtml(g.time)}</span>
+          <span class="game-row-flag">${flag(g.code)}</span>
+          <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
+          <span class="game-row-stream">📺</span>
+        </a>`;
+      }
+      html += '</div></section>';
     }
 
-    let html = "";
-    if (withStream.length > 0) {
-      html += '<div class="section"><div class="section-title">📺 配信あり</div>';
-      html += withStream.map(g => renderGame(g, true)).join("");
-      html += '</div>';
-    }
     if (noStream.length > 0) {
-      html += '<div class="section"><div class="section-title">配信なし</div>';
-      html += noStream.map(g => renderGame(g, false)).join("");
-      html += '</div>';
+      html += '<section class="list-section"><h2 class="list-section-title">配信なし</h2><div class="game-rows">';
+      for (const g of noStream) {
+        html += `<div class="game-row no-stream">
+          <span class="game-row-time">${escapeHtml(g.time)}</span>
+          <span class="game-row-flag">${flag(g.code)}</span>
+          <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
+        </div>`;
+      }
+      html += '</div></section>';
     }
 
     container.innerHTML = html;
