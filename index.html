@@ -66,7 +66,19 @@
   .game-row:only-child { border-radius: 6px; }
   .game-row:hover { background: var(--tag-bg); }
   .game-row.has-link { cursor: pointer; }
-  .game-row.jp-team { border-left: 3px solid var(--accent); }
+  .game-row.jp-team {
+    border-left: 3px solid var(--accent);
+    flex-wrap: wrap;
+    white-space: normal;
+    row-gap: 2px;
+  }
+  .game-row.jp-team .game-row-players {
+    flex-basis: 100%;
+    margin-left: 40px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
   .game-row-time {
     min-width: 34px;
     color: var(--accent);
