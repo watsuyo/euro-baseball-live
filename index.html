@@ -67,6 +67,7 @@
   .game-row:only-child { border-radius: 6px; }
   .game-row:hover { background: var(--tag-bg); }
   .game-row.has-link { cursor: pointer; }
+  .game-row.jp-team { border-left: 3px solid var(--accent); }
   .game-row-time {
     min-width: 34px;
     color: var(--accent);
@@ -75,13 +76,19 @@
   }
   .game-row-flag { flex-shrink: 0; font-size: 13px; }
   .game-row-matchup {
-    flex: 1;
     font-weight: 600;
     overflow: hidden;
     text-overflow: ellipsis;
   }
-  .game-row-stream { flex-shrink: 0; font-size: 13px; }
-  .no-stream { opacity: 0.5; }
+  .game-row-players {
+    color: var(--accent);
+    font-size: 11px;
+    margin-left: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .game-row-stream { flex-shrink: 0; font-size: 13px; margin-left: auto; }
+  .game-row-players + .game-row-stream { margin-left: 6px; }
 
   .empty { text-align: center; padding: 40px; color: var(--text); opacity: 0.5; }
   .loading { text-align: center; padding: 40px; }
@@ -92,40 +99,67 @@
 <body>
 <div class="container">
   <h1>⚾ Euro Baseball Live</h1>
-  <div class="subtitle">Today's games &amp; streams</div>
+  <div class="subtitle">今日の試合と配信（日本時間）</div>
   <div id="date-label" class="date-label"></div>
-  <div id="games" class="loading">Loading...</div>
+  <div id="content" class="loading">Loading...</div>
   <div class="footer"><a href="https://euro-baseball-viewer.vercel.app">euro-baseball-viewer.vercel.app</a></div>
 </div>
 <script>
-const DATA_URL = "https://euro-baseball-viewer.vercel.app/data/schedule.json";
+const VIEWER_BASE = "https://euro-baseball-viewer.vercel.app/data";
 const DAY_BOUNDARY_HOUR = 4;
+const TARGET_TZ = "Asia/Tokyo";
 
 function flag(code) {
   if (!code || code.length !== 2) return "";
   return String.fromCodePoint(code.charCodeAt(0) + 0x1F1E6 - 65, code.charCodeAt(1) + 0x1F1E6 - 65);
 }
 
-function todayStr() {
-  const now = new Date();
-  if (now.getHours() < DAY_BOUNDARY_HOUR) {
-    const y = new Date(now.getTime() - 86400000);
-    return y.toLocaleDateString("sv-SE");
-  }
-  return now.toLocaleDateString("sv-SE");
+function fmtParts(date, tz) {
+  const f = new Intl.DateTimeFormat("en-US", {
+    timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hour12: false
+  });
+  const p = Object.fromEntries(f.formatToParts(date).map(x => [x.type, x.value]));
+  if (p.hour === "24") p.hour = "00";
+  return p;
 }
 
-function localTime(date, time, tz) {
+function toJST(date, time, sourceTz) {
   if (!time) return { localDate: date, localTime: null };
-  try {
-    const dt = new Date(`${date}T${time}:00`);
-    const opts = { timeZone: tz || "UTC", hour: "2-digit", minute: "2-digit", hour12: false };
-    const localT = dt.toLocaleTimeString("sv-SE", opts);
-    const localD = dt.toLocaleDateString("sv-SE", { timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone });
-    return { localDate: localD, localTime: localT };
-  } catch {
-    return { localDate: date, localTime: time };
+  const src = sourceTz || "UTC";
+  const [Y, M, D] = date.split("-").map(Number);
+  const [h, m] = time.split(":").map(Number);
+  const guess = Date.UTC(Y, M - 1, D, h, m);
+  const p = fmtParts(new Date(guess), src);
+  const shown = Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute);
+  const offset = shown - guess;
+  const real = new Date(guess - offset);
+  const jp = fmtParts(real, TARGET_TZ);
+  return {
+    localDate: `${jp.year}-${jp.month}-${jp.day}`,
+    localTime: `${jp.hour}:${jp.minute}`,
+  };
+}
+
+function todayJST() {
+  const now = new Date();
+  const p = fmtParts(now, TARGET_TZ);
+  let Y = +p.year, M = +p.month, D = +p.day;
+  if (+p.hour < DAY_BOUNDARY_HOUR) {
+    const prev = new Date(Date.UTC(Y, M - 1, D) - 86400000);
+    Y = prev.getUTCFullYear(); M = prev.getUTCMonth() + 1; D = prev.getUTCDate();
   }
+  return `${Y}-${String(M).padStart(2,"0")}-${String(D).padStart(2,"0")}`;
+}
+
+function shiftDate(ymd, days) {
+  const [Y, M, D] = ymd.split("-").map(Number);
+  const t = new Date(Date.UTC(Y, M - 1, D) + days * 86400000);
+  return `${t.getUTCFullYear()}-${String(t.getUTCMonth()+1).padStart(2,"0")}-${String(t.getUTCDate()).padStart(2,"0")}`;
+}
+
+function normTeam(s) {
+  return String(s ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "");
 }
 
 function escapeHtml(s) {
@@ -134,87 +168,120 @@ function escapeHtml(s) {
   }[c]));
 }
 
-async function load() {
-  const today = todayStr();
-  const d = new Date(today + "T12:00:00");
+async function fetchJson(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`${url} ${r.status}`);
+  return r.json();
+}
+
+function renderDateLabel(today) {
+  const [Y, M, D] = today.split("-").map(Number);
   const days = ["日","月","火","水","木","金","土"];
-  document.getElementById("date-label").textContent =
-    `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()}(${days[d.getDay()]})`;
+  const dow = new Date(Date.UTC(Y, M - 1, D)).getUTCDay();
+  document.getElementById("date-label").textContent = `${Y}/${M}/${D}(${days[dow]}) JST`;
+}
 
+function collectTodayGames(schedule, today) {
+  const games = [];
+  for (const [code, league] of Object.entries(schedule.leagues)) {
+    for (const g of league.games) {
+      const lt = toJST(g.date, g.time, g.tz);
+      let effectiveDate = lt.localDate;
+      if (lt.localTime) {
+        const hh = +lt.localTime.split(":")[0];
+        if (hh < DAY_BOUNDARY_HOUR) effectiveDate = shiftDate(lt.localDate, -1);
+      }
+      if (effectiveDate !== today) continue;
+      games.push({
+        time: lt.localTime || "TBD",
+        code,
+        home: g.home || "?",
+        away: g.away || "?",
+        stream: g.stream_url || null,
+      });
+    }
+  }
+  games.sort((a, b) => a.time.localeCompare(b.time));
+  return games;
+}
+
+function buildJpIndex(jp) {
+  // Map: normalized team name → [display names]
+  const idx = new Map();
+  for (const p of jp.players || []) {
+    if (p.status !== "active") continue;
+    const key = normTeam(p.team);
+    if (!idx.has(key)) idx.set(key, []);
+    idx.get(key).push(p.name_ja || p.name);
+  }
+  return idx;
+}
+
+function jpMatch(game, jpIndex) {
+  const names = [];
+  for (const side of [game.home, game.away]) {
+    const hit = jpIndex.get(normTeam(side));
+    if (hit) names.push(...hit);
+  }
+  return names;
+}
+
+function rowHtml(g, extra = "") {
+  const tag = g.stream ? "a" : "div";
+  const attrs = g.stream
+    ? ` href="${escapeHtml(g.stream)}" target="_blank" rel="noopener" class="game-row has-link${extra ? " " + extra : ""}"`
+    : ` class="game-row${extra ? " " + extra : ""}"`;
+  const players = g.jpPlayers && g.jpPlayers.length
+    ? `<span class="game-row-players">${escapeHtml(g.jpPlayers.join("・"))}</span>` : "";
+  const stream = g.stream ? `<span class="game-row-stream">📺</span>` : "";
+  return `<${tag}${attrs}>
+    <span class="game-row-time">${escapeHtml(g.time)}</span>
+    <span class="game-row-flag">${flag(g.code)}</span>
+    <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
+    ${players}${stream}
+  </${tag}>`;
+}
+
+function render(schedule, jp) {
+  const today = todayJST();
+  renderDateLabel(today);
+  const games = collectTodayGames(schedule, today);
+  const jpIndex = buildJpIndex(jp);
+
+  const container = document.getElementById("content");
+  container.classList.remove("loading");
+
+  if (games.length === 0) {
+    container.innerHTML = '<div class="empty">今日の試合はありません</div>';
+    return;
+  }
+
+  const jpGames = games
+    .map(g => ({ ...g, jpPlayers: jpMatch(g, jpIndex) }))
+    .filter(g => g.jpPlayers.length > 0);
+
+  let html = "";
+  if (jpGames.length > 0) {
+    html += '<section class="list-section"><h2 class="list-section-title">🇯🇵 日本人選手・指導者の所属チーム</h2><div class="game-rows">';
+    html += jpGames.map(g => rowHtml(g, "jp-team")).join("");
+    html += '</div></section>';
+  }
+  html += '<section class="list-section"><h2 class="list-section-title">今日の試合</h2><div class="game-rows">';
+  html += games.map(g => rowHtml(g)).join("");
+  html += '</div></section>';
+  container.innerHTML = html;
+}
+
+async function load() {
+  renderDateLabel(todayJST());
   try {
-    const resp = await fetch(DATA_URL);
-    const data = await resp.json();
-
-    const withStream = [];
-    const noStream = [];
-
-    for (const [code, league] of Object.entries(data.leagues)) {
-      for (const g of league.games) {
-        const lt = localTime(g.date, g.time, g.tz);
-        let effectiveDate = lt.localDate;
-        if (lt.localTime) {
-          const [h] = lt.localTime.split(":").map(Number);
-          if (h < DAY_BOUNDARY_HOUR) {
-            const prev = new Date(lt.localDate + "T12:00:00");
-            prev.setDate(prev.getDate() - 1);
-            effectiveDate = prev.toLocaleDateString("sv-SE");
-          }
-        }
-        if (effectiveDate !== today) continue;
-
-        const entry = {
-          time: lt.localTime || "TBD",
-          code,
-          home: g.home || "?",
-          away: g.away || "?",
-          stream: g.stream_url || null,
-        };
-        if (entry.stream) withStream.push(entry);
-        else noStream.push(entry);
-      }
-    }
-
-    withStream.sort((a, b) => a.time.localeCompare(b.time));
-    noStream.sort((a, b) => a.time.localeCompare(b.time));
-
-    const container = document.getElementById("games");
-    container.classList.remove("loading");
-
-    if (withStream.length === 0 && noStream.length === 0) {
-      container.innerHTML = '<div class="empty">今日の試合はありません</div>';
-      return;
-    }
-
-    let html = "";
-
-    if (withStream.length > 0) {
-      html += '<section class="list-section"><h2 class="list-section-title">📺 配信あり</h2><div class="game-rows">';
-      for (const g of withStream) {
-        html += `<a href="${escapeHtml(g.stream)}" target="_blank" rel="noopener" class="game-row has-link">
-          <span class="game-row-time">${escapeHtml(g.time)}</span>
-          <span class="game-row-flag">${flag(g.code)}</span>
-          <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
-          <span class="game-row-stream">📺</span>
-        </a>`;
-      }
-      html += '</div></section>';
-    }
-
-    if (noStream.length > 0) {
-      html += '<section class="list-section"><h2 class="list-section-title">配信なし</h2><div class="game-rows">';
-      for (const g of noStream) {
-        html += `<div class="game-row no-stream">
-          <span class="game-row-time">${escapeHtml(g.time)}</span>
-          <span class="game-row-flag">${flag(g.code)}</span>
-          <span class="game-row-matchup">${escapeHtml(g.home)} vs ${escapeHtml(g.away)}</span>
-        </div>`;
-      }
-      html += '</div></section>';
-    }
-
-    container.innerHTML = html;
+    const [schedule, jp] = await Promise.all([
+      fetchJson(`${VIEWER_BASE}/schedule.json`),
+      fetchJson(`${VIEWER_BASE}/jp_players.json`).catch(() => ({ players: [] })),
+    ]);
+    render(schedule, jp);
   } catch (e) {
-    document.getElementById("games").innerHTML = '<div class="empty">データ取得エラー</div>';
+    document.getElementById("content").innerHTML = '<div class="empty">データ取得エラー</div>';
   }
 }
 
